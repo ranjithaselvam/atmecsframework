@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.atmecs.konakart.script.ProductSearch">
+      <class name="com.atmecs.konakart.script.ProductValidation">
         <methods>
+          <include name="closeBrwser"/>
+          <include name="contentCorrectness"/>
           <include name="launchBrowser"/>
-          <include name="closeBrwser"/>
-          <include name="closeBrwser"/>
         </methods>
-      </class> <!-- com.atmecs.konakart.script.ProductSearch -->
+      </class> <!-- com.atmecs.konakart.script.ProductValidation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

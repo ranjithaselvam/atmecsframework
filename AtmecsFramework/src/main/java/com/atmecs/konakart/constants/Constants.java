@@ -17,7 +17,8 @@ package com.atmecs.konakart.constants;
 		public final static String config_file="./Congif.properties";
 		public final static String productLoc_file="./src/test/resources/locators/productloc.properties";
 		public final static String positiveSearchData_file="./src/test/resources/testdata/positivesearchdata.xlsx";
-		public final static String negativeSearch_file="./src/test/resources/testdata/negativesearchdata.xlsx";
+		public final static String negativeSearchData_file="./src/test/resources/testdata/negativesearchdata.xlsx";
+		public final static String heroImageLoc_file="./src/test/resources/testdata/heroimgcontent.xlsx";
 		
 
 	}

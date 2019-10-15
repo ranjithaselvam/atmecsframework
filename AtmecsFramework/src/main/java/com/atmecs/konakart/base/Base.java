@@ -1,446 +1,512 @@
 package com.atmecs.konakart.base;
 
-import java.io.File;
+	import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Set;
-import java.util.concurrent.TimeUnit;
+	import java.util.List;
+	import java.util.Set;
+	import java.util.concurrent.TimeUnit;
 
-import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.Alert;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebDriverException;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
+	import org.apache.commons.io.FileUtils;
+	import org.openqa.selenium.Alert;
+	import org.openqa.selenium.By;
+	import org.openqa.selenium.JavascriptExecutor;
+	import org.openqa.selenium.OutputType;
+	import org.openqa.selenium.TakesScreenshot;
+	import org.openqa.selenium.WebDriver;
+	import org.openqa.selenium.WebDriverException;
+	import org.openqa.selenium.WebElement;
+	import org.openqa.selenium.chrome.ChromeDriver;
+	import org.openqa.selenium.firefox.FirefoxDriver;
+	import org.openqa.selenium.ie.InternetExplorerDriver;
+	import org.openqa.selenium.support.ui.ExpectedConditions;
+	import org.openqa.selenium.support.ui.Select;
+	import org.openqa.selenium.support.ui.WebDriverWait;
+	import org.testng.Assert;
+	
 
-import com.atmecs.konakart.constants.Constants;
-import com.atmecs.konakart.utility.Utility;
+	import com.atmecs.konakart.constants.Constants;
+	import com.atmecs.konakart.utility.Utility;
 
-public class Base {
+	/**
+	 * Purpose:To create reusable methods in the base class like
+	 * sendKeys,getValue,isDisplayed and etc.
+	 * 
+	 * @author ranjitha.selvam
+	 *
+	 */
+	public class Base {
 
-	public static WebDriver driver;
-	static WebElement webElement;
-//browser setup
-	public static WebDriver getBrowser() throws Exception {
-		try {
-		    String browserName = Utility.propertyRead(Constants.config_file,"browserName");
-	        if (browserName.equalsIgnoreCase("chrome")) {
-				System.setProperty("webdriver.chrome.driver", Constants.chrome_file);
-				driver = new ChromeDriver();
-			} else if (browserName.equalsIgnoreCase("firefox")) {
-				System.setProperty("webdriver.gecko.driver", Constants.fireFox_file);
-				driver = new FirefoxDriver();
-			} else if (browserName.equalsIgnoreCase("internetExplorer")) {
-				System.setProperty("webdriver.ie.driver", Constants.internetExplorer_file);
-				driver=new InternetExplorerDriver();
-			}
+		public static WebDriver driver;
+		
 
-			driver.manage().window().maximize();
-			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-			return driver;
-		} catch (Exception e) {
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-//launch url
-	public static void getUrl() throws Exception {
-		try {
-			String url = Utility.propertyRead(Constants.config_file,"url");
-			driver.get(url);
-		} catch (Exception e) {
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-//explicit wait
-	public static void waitForElementVisibility(WebElement element) throws Exception {
+		/*
+		 * Different browser setup(Chrome,Firefox,Internetexplorer).
+		 */
+		
+		public  WebDriver getBrowser( ) throws Exception {
+			try {
 
-		try {
-			WebDriverWait wb = new WebDriverWait(driver, 60);
-			wb.until(ExpectedConditions.visibilityOf(element));
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-
-	}
-//verify element is displayed or not
-	public static boolean elementIsDisplayed(WebElement element) throws Exception {
-		try {
-			boolean displayed = element.isDisplayed();
-
-			return displayed;
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-//check whether element enable or not
-	public static boolean elementIsEnabled(WebElement element) throws Exception {
-		try {
-			boolean enabled = element.isEnabled();
-			return enabled;
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static boolean elementIsSelected(WebElement element) throws Exception {
-		try {
-			boolean selected = element.isSelected();
-			return selected;
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-//pass input values in text box
-	public static void inputValuesToTheWebelement(String element, String values) throws Exception {
-		try {
-			
-			webElement=Utility.getbjectLocator(element);
-			webElement.sendKeys(values);
-			Utility.logInfo("value passed");
-			
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			Utility.logInfo("value not passed");
-		}
-	}
-//element click
-	public static void clickOnWebElement(String element) throws Exception {
-		try {
-			webElement=Utility.getbjectLocator(element);
-			webElement.click();
-			Utility.logInfo("element is clicked");	
-			
-			
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			Utility.logInfo("element not clickable");
-			
-		}
-	}
-
-	public static void driverClose() throws Exception {
-		try {
-			driver.close();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void mouseOverToElement(WebElement element) throws Exception {
-		try {
-			waitForElementVisibility(element);
-			Actions ac = new Actions(driver);
-			ac.moveToElement(element).build().perform();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void selectDropDown(WebElement element, String value, String option) throws Exception {
-		try {
-			waitForElementVisibility(element);
-			Select sc = new Select(element);
-			if (option.equalsIgnoreCase("value")) {
-				sc.selectByValue(value);
-			} else if (option.equalsIgnoreCase("visibletext")) {
-				sc.deselectByVisibleText(value);
-			} else if (option.equalsIgnoreCase("index")) {
-				sc.selectByIndex(Integer.parseInt(value));
-			}
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void scrollToWebelement(WebElement element) throws Exception {
-		try {
-			waitForElementVisibility(element);
-			JavascriptExecutor js = (JavascriptExecutor) driver;
-			js.executeScript("argument[0].scrollInttoView();", element);
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void scrollUsingPixels(int width, int height) throws Exception {
-		try {
-			JavascriptExecutor js = (JavascriptExecutor) driver;
-			js.executeScript("windows.scrollBy(" + width + "," + height + ")");
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void scrollToBottomOfThePage() throws Exception {
-		try {
-			JavascriptExecutor js = (JavascriptExecutor) driver;
-			js.executeScript("windows.scrollTo(0,document.body.scrollHeight)");
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void dragAndDrop(WebElement src, WebElement tar) throws Exception {
-		try {
-			waitForElementVisibility(src);
-			Actions ac = new Actions(driver);
-			ac.dragAndDrop(src, tar).build().perform();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void doubleClickOnTheElement(WebElement element) throws Exception {
-		try {
-			waitForElementVisibility(element);
-			Actions ac = new Actions(driver);
-			ac.doubleClick(element).build().perform();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-
-	}
-
-	public static void rightClickOnTheElement(WebElement element) throws Exception {
-		try {
-			waitForElementVisibility(element);
-			Actions ac = new Actions(driver);
-			ac.contextClick(element).build().perform();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void alertAccept() throws Exception {
-		try {
-			Alert alert = driver.switchTo().alert();
-			alert.accept();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-
-	}
-
-	public static void alertDismiss() throws Exception {
-		try {
-			Alert alert = driver.switchTo().alert();
-			alert.dismiss();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void alertSendKeys(String value) throws Exception {
-		try {
-			Alert alert = driver.switchTo().alert();
-			alert.sendKeys(value);
-			alert.accept();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void switchToDefaultContent() throws Exception {
-		try {
-			driver.switchTo().defaultContent();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static String getTextFromTheElement(WebElement element) throws Exception {
-		try {
-			waitForElementVisibility(element);
-			String text = element.getText();
-			return text;
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static String getAttributeFromTheWebElement(WebElement element, String attKey) throws Exception {
-		try {
-			waitForElementVisibility(element);
-			String attribute = element.getAttribute(attKey);
-			return attribute;
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-
-		}
-	}
-
-	public static void switchToFrame(WebElement element) throws Exception {
-		try {
-			driver.switchTo().frame(element);
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void ScreenShotOnTheWebPage(String filename) throws Exception {
-		try {
-			File des = new File("");
-			TakesScreenshot ts = (TakesScreenshot) driver;
-			File screenshotAs = ts.getScreenshotAs(OutputType.FILE);
-			FileUtils.copyFile(screenshotAs, des);
-		} catch (WebDriverException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void switchToWindowHandle(String windowTitle) throws Exception {
-		try {
-			String fId = driver.getWindowHandle();
-			Set<String> pId = driver.getWindowHandles();
-			for (String x : pId) {
-				driver.switchTo().window(x);
-				String title = driver.getTitle();
-				if (title.equals(windowTitle)) {
-					driver.switchTo().window(x);
-
+				String browserName = Utility.propertyRead(Constants.config_file, "browserName");
+				if (browserName.equalsIgnoreCase("chrome")) {
+					System.setProperty("webdriver.chrome.driver", Constants.chrome_file);
+					driver = new ChromeDriver();
+				} else if (browserName.equalsIgnoreCase("firefox")) {
+					System.setProperty("webdriver.gecko.driver", Constants.fireFox_file);
+					driver = new FirefoxDriver();
+				} else if (browserName.equalsIgnoreCase("internetExplorer")) {
+					System.setProperty("webdriver.ie.driver", Constants.internetExplorer_file);
+					driver = new InternetExplorerDriver();
 				}
+				Utility.logInfo("browser opened");
+				driver.manage().window().maximize();
+				driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+				return driver;
+			} catch (Exception e) {
+				Utility.logInfo("browser not open");
 			}
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
+			return driver;
 		}
-	}
 
-	public static void driverQuit() throws Exception {
-		try {
-			driver.quit();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static String getTitle() throws Exception {
-		try {
-			String title = driver.getTitle();
-			return title;
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static String getCurrentUrl() throws Exception {
-		try {
-			String currentUrl = driver.getCurrentUrl();
-			return currentUrl;
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public static void navigateToUrl(String url) throws Exception {
-		try {
-			driver.navigate().to(url);
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
-		}
-	}
-
-	public void navigateCommands(String option) throws Exception {
-		try {
-			if (option.equalsIgnoreCase("refresh")) {
-				driver.navigate().refresh();
-			} else if (option.equalsIgnoreCase("backward")) {
-				driver.navigate().back();
-			} else if (option.equalsIgnoreCase("forward")) {
-				driver.navigate().forward();
+		/*
+		 * Get url from property file.
+		 */
+		public  void getUrl() throws Exception {
+			try {
+				String url = Utility.propertyRead(Constants.config_file, "url");
+				
+				driver.get(url);  
+				Utility.logInfo("Entered url");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				Utility.logInfo("url not enter");
 			}
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
 		}
-	}
 
-	public static List<String> fetchDynamicContentFromWebTable(String header) throws Exception {
-		try {
-			List<String> li = new ArrayList<>();
-			WebElement table = driver.findElement(By.tagName("//table"));
-			List<WebElement> trow = table.findElements(By.tagName("tr"));
-			for (int i = 0; i < trow.size(); i++) {
-				List<WebElement> thead = trow.get(i).findElements(By.tagName("th"));
-				for (int j = 0; j < thead.size(); j++) {
-					String text = thead.get(j).getText();
-					if (text.equals(header)) {
-						List<WebElement> tdata = trow.get(i).findElements(By.tagName("td"));
-						for (int k = 0; k < tdata.size(); k++) {
-							String tdataContent = tdata.get(k).getText();
-							li.add(tdataContent);
+		/*
+		 * To wait for certain conditions (Expected Conditions) or the maximum time
+		 * exceeded before throwing an "ElementNotVisibleException" exception.
+		 */
+		public static void waitForElementVisibility(WebDriver driver,WebElement element) throws Exception {
+
+			try {
+				WebDriverWait wb = new WebDriverWait(driver, 60);
+				wb.until(ExpectedConditions.visibilityOf(element));
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+
+		}
+
+		/**
+		 * Determine the the state of the application whether it is the same what we are
+		 * expecting or not.
+		 *
+		 */
+		public static void pageValidation(String actualDetails, String expectedDetails) {
+			try {
+
+				Assert.assertEquals(actualDetails, expectedDetails);
+				Utility.logInfo(" Passed : " + " Expected : " + expectedDetails + " Actual : " + actualDetails);
+			} catch (AssertionError assertionError) {
+				Utility.logInfo(" Failed : " + " Expected : " + expectedDetails + " Actual : " + actualDetails);
+			}
+
+		}
+
+		/*
+		 * capable to check for the presence of all kinds of web elements available.
+		 * used to verify if the web element is enabled or disabled within the webpage.
+		 */
+		public static boolean elementIsDisplayed(WebElement element) throws Exception {
+			try {
+				boolean displayed = element.isDisplayed();
+
+				return displayed;
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * Check particular text box is enable to print or not(visibility of the web
+		 * element).
+		 * 
+		 */
+		public boolean elementIsEnabled(WebDriver driver, String element) throws Exception {
+			try {
+				WebElement webElement = Utility.getbjectLocator(driver, element);
+				boolean enabled = webElement.isEnabled();
+				return enabled;
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * Check particular radiobutton,dropdown,checkbox is selected or not
+		 * 
+		 */
+		public static boolean elementIsSelected(WebElement element) throws Exception {
+			try {
+				boolean selected = element.isSelected();
+				return selected;
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * pass input values to the text box(enter the values).
+		 * 
+		 */
+		public void inputValuesToTheWebelement(WebDriver driver, String element, String values) throws Exception {
+			try {
+
+				WebElement webElement = Utility.getbjectLocator(driver, element);
+				webElement.sendKeys(values);
+				Utility.logInfo("value passed");
+
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				Utility.logInfo("value not passed");
+			}
+		}
+
+		/*
+		 * Handling mouse event(Clicks at the current mouse location). Click button or
+		 * whatever
+		 */
+		public void clickOnWebElement(WebDriver driver, String element) throws Exception {
+			try {
+				WebElement webElement = Utility.getbjectLocator(driver, element);
+				webElement.click();
+				Utility.logInfo("element is clicked");
+
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				Utility.logInfo("element not clickable");
+
+			}
+		}
+
+		/*
+		 * Close the current browse
+		 * 
+		 */
+		public  void driverClose(WebDriver driver) throws Exception {
+			try {
+				driver.close();
+				Utility.logInfo("current browser closed");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				Utility.logInfo("Browser not closed");
+			}
+		}
+
+		
+
+		/*
+		 * Easy to choose or select an option given under any drop
+		 * downs.(value,index,visibility)
+		 */
+		public  void selectDropDown(WebDriver driver, String element, String value, String option) throws Exception {
+			try {
+				// waitForElementVisibility(element);
+				WebElement webElement = Utility.getbjectLocator(driver, element);
+				System.out.println(element);
+				Select sc = new Select(webElement);
+				if (option.equalsIgnoreCase("value")) {
+					sc.selectByValue(value);
+				} else if (option.equalsIgnoreCase("visibletext")) {
+					sc.deselectByVisibleText(value);
+				} else if (option.equalsIgnoreCase("index")) {
+					sc.selectByIndex(Integer.parseInt(value));
+				}
+				Utility.logInfo("select drop down");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				Utility.logInfo("drop down not selected");
+			}
+		}
+
+		/*
+		 * To move the window up and down.( Scroll by visible element)
+		 */
+		
+
+		/*
+		 * Scroll using pixcel.
+		 */
+		public  void scrollUsingPixels(WebDriver driver,int width, int height) throws Exception {
+			try {
+				JavascriptExecutor js = (JavascriptExecutor) driver;
+				js.executeScript("windows.scrollBy(" + width + "," + height + ")");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+		/*
+		 * Scroll to bottom of the page
+		 */
+
+		public void scrollToBottomOfThePage(WebDriver driver) throws Exception {
+			try {
+				JavascriptExecutor js = (JavascriptExecutor) driver;
+				js.executeScript("windows.scrollTo(0,document.body.scrollHeight)");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+		
+		/*
+		 * Accept small message box which displays on-screen notification to give the
+		 * user some kind of information or ask for permission to perform certain kind
+		 * of operation.
+		 * 
+		 */
+
+		public  void alertAccept(WebDriver driver) throws Exception {
+			try {
+				Alert alert = driver.switchTo().alert();
+				alert.accept();
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+
+		}
+
+		/*
+		 * Dismiss the on-screen notification
+		 * 
+		 */
+		public  void alertDismiss(WebDriver driver) throws Exception {
+			try {
+				Alert alert = driver.switchTo().alert();
+				alert.dismiss();
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * Enter the values in pop up notification.
+		 * 
+		 */
+		public  void alertSendKeys(WebDriver driver,String value) throws Exception {
+			try {
+				Alert alert = driver.switchTo().alert();
+				alert.sendKeys(value);
+				alert.accept();
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * Switch to default content
+		 * 
+		 */
+		public  void switchToDefaultContent(WebDriver driver) throws Exception {
+			try {
+				driver.switchTo().defaultContent();
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+		/*
+		 * switch one frame to another frame.
+		 */
+
+		public  void switchToFrame(WebDriver driver,WebElement element) throws Exception {
+			try {
+				driver.switchTo().frame(element);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * Desirable for bug analysis. Take screenshots during execution.
+		 */
+
+		public  void ScreenShotOnTheWebPage(WebDriver driver,String filename) throws Exception {
+			try {
+				File des = new File("");
+				TakesScreenshot ts = (TakesScreenshot) driver;
+				File screenshotAs = ts.getScreenshotAs(OutputType.FILE);
+				FileUtils.copyFile(screenshotAs, des);
+			} catch (WebDriverException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * In order to shift focus from Parent Window to any child window
+		 * 
+		 */
+		public  void switchToWindowHandle(WebDriver driver,String windowTitle) throws Exception {
+			try {
+				String fId = driver.getWindowHandle();
+				Set<String> pId = driver.getWindowHandles();
+				for (String x : pId) {
+					driver.switchTo().window(x);
+					String title = driver.getTitle();
+					if (title.equals(windowTitle)) {
+						driver.switchTo().window(x);
+
+					}
+				}
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * Close all browser opened in webdriver.
+		 * 
+		 */
+		public  void driverQuit(WebDriver driver) throws Exception {
+			try {
+				driver.quit();
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * To print title of the page
+		 * 
+		 */
+		public  String getTitle(WebDriver driver) throws Exception {
+			try {
+				String title = driver.getTitle();
+				return title;
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+		/*
+		 * Check whether particular page is open or not
+		 * 
+		 */
+
+		public  String getCurrentUrl(WebDriver driver) throws Exception {
+			try {
+				String currentUrl = driver.getCurrentUrl();
+				return currentUrl;
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * Navigate one url to another url
+		 * 
+		 */
+
+		public  void navigateToUrl(WebDriver driver,String url) throws Exception {
+			try {
+				driver.navigate().to(url);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * Move forward,backward and refresh
+		 * 
+		 */
+		public void navigateCommands(WebDriver driver,String option) throws Exception {
+			try {
+				if (option.equalsIgnoreCase("refresh")) {
+					driver.navigate().refresh();
+				} else if (option.equalsIgnoreCase("backward")) {
+					driver.navigate().back();
+				} else if (option.equalsIgnoreCase("forward")) {
+					driver.navigate().forward();
+				}
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
+			}
+		}
+
+		/*
+		 * Fetch dynamic content from web table
+		 * 
+		 */
+		public  List<String> fetchDynamicContentFromWebTable(WebDriver driver,String header) throws Exception {
+			try {
+				List<String> li = new ArrayList<>();
+				WebElement table = driver.findElement(By.tagName("//table"));
+				List<WebElement> trow = table.findElements(By.tagName("tr"));
+				for (int i = 0; i < trow.size(); i++) {
+					List<WebElement> thead = trow.get(i).findElements(By.tagName("th"));
+					for (int j = 0; j < thead.size(); j++) {
+						String text = thead.get(j).getText();
+						if (text.equals(header)) {
+							List<WebElement> tdata = trow.get(i).findElements(By.tagName("td"));
+							for (int k = 0; k < tdata.size(); k++) {
+								String tdataContent = tdata.get(k).getText();
+								li.add(tdataContent);
+							}
 						}
 					}
 				}
+				return li;
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				throw new Exception();
 			}
-			return li;
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			throw new Exception();
 		}
+		/*
+		 * Retrieving the specified elements Text(Get Text). 
+		 */
+
+		public static String getText(WebDriver driver, String element) throws IOException {
+			WebElement webElement=Utility.getbjectLocator(driver, element);
+			return webElement.getText();
+		
+			
+
+		}
+
 	}
-}
+
+

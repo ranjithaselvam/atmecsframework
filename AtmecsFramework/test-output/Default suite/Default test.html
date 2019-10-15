@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>8/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Mon Oct 14 20:52:12 IST 2019</td>
+<td>Started on:</td><td>Tue Oct 15 21:23:11 IST 2019</td>
 </tr>
-<tr><td>Total time:</td><td>6 seconds (6355 ms)</td>
+<tr><td>Total time:</td><td>21 seconds (21623 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,15 +75,45 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.atmecs.konakart.script.ProductSearch.closeBrwser()'><b>closeBrwser</b><br>Test class: com.atmecs.konakart.script.ProductSearch</td>
-<td><div><pre>org.testng.TestNGException: 
-Method public void com.atmecs.konakart.script.ProductSearch.closeBrwser() throws java.lang.Exception requires a @DataProvider named : negativeSearch
-	at org.testng.internal.Parameters.findDataProvider(Parameters.java:580)
-	at org.testng.internal.Parameters.handleParameters(Parameters.java:795)
-	at org.testng.internal.Parameters.handleParameters(Parameters.java:762)
-	at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:60)
-	at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:39)
-	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:771)
+<td title='com.atmecs.konakart.script.ProductValidation.contentCorrectness()'><b>contentCorrectness</b><br>Test class: com.atmecs.konakart.script.ProductValidation</td>
+<td><div><pre>org.testng.internal.reflect.MethodMatcherException: 
+[public void com.atmecs.konakart.script.ProductValidation.contentCorrectness(java.lang.String,java.lang.String) throws java.lang.Exception] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
+Data provider mismatch
+Method: contentCorrectness([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String) The De&apos;Longhi BCO 410 is a 15 
+bar espresso/filter coffee machine that 
+will ensure you get the perfect coffee 
+experience, regardless of your tastes. 
+Able to make 10 cups of filter coffee or 
+individual espressos (either via ground 
+coffee or with &quot;Easy Serving Espresso&quot; pods),
+ the BCO 410 is a versatile and high-quality machine. 
+The espresso portion of the machine comes complete
+ with a crema filter holder, adjustable steam emission, 
+removable water reservoir and cup holder. The filter 
+coffee portion of the machine comes complete with 
+a jug warmer to ensure the coffee remains hot after
+ brewing, frontal loading to make the machine incredibly 
+easy to refill (both water and coffee) and a water 
+filtration system to make your coffee taste that much better.,(java.lang.String) Add your product specifications here. 
+By default, the Enterprise version of KonaKart displays the template based custom attributes.,(java.lang.String) 5stars
+(1)
+4stars
+(1)
+3stars
+(2)
+2stars
+(0)
+1stars
+(0)
+Average Customer Review:
+ (3.8)
+WRITE REVIEW
+]
+	at org.testng.internal.reflect.DataProviderMethodMatcher.getConformingArguments(DataProviderMethodMatcher.java:43)
+	at org.testng.internal.Parameters.injectParameters(Parameters.java:925)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:34)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
 	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
@@ -103,15 +133,45 @@ Method public void com.atmecs.konakart.script.ProductSearch.closeBrwser() throws
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1806880779", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1806880779'><pre>org.testng.TestNGException: 
-Method public void com.atmecs.konakart.script.ProductSearch.closeBrwser() throws java.lang.Exception requires a @DataProvider named : negativeSearch
-	at org.testng.internal.Parameters.findDataProvider(Parameters.java:580)
-	at org.testng.internal.Parameters.handleParameters(Parameters.java:795)
-	at org.testng.internal.Parameters.handleParameters(Parameters.java:762)
-	at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:60)
-	at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:39)
-	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:771)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1046009438", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1046009438'><pre>org.testng.internal.reflect.MethodMatcherException: 
+[public void com.atmecs.konakart.script.ProductValidation.contentCorrectness(java.lang.String,java.lang.String) throws java.lang.Exception] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
+Data provider mismatch
+Method: contentCorrectness([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}])
+Arguments: [(java.lang.String) The De&apos;Longhi BCO 410 is a 15 
+bar espresso/filter coffee machine that 
+will ensure you get the perfect coffee 
+experience, regardless of your tastes. 
+Able to make 10 cups of filter coffee or 
+individual espressos (either via ground 
+coffee or with &quot;Easy Serving Espresso&quot; pods),
+ the BCO 410 is a versatile and high-quality machine. 
+The espresso portion of the machine comes complete
+ with a crema filter holder, adjustable steam emission, 
+removable water reservoir and cup holder. The filter 
+coffee portion of the machine comes complete with 
+a jug warmer to ensure the coffee remains hot after
+ brewing, frontal loading to make the machine incredibly 
+easy to refill (both water and coffee) and a water 
+filtration system to make your coffee taste that much better.,(java.lang.String) Add your product specifications here. 
+By default, the Enterprise version of KonaKart displays the template based custom attributes.,(java.lang.String) 5stars
+(1)
+4stars
+(1)
+3stars
+(2)
+2stars
+(0)
+1stars
+(0)
+Average Customer Review:
+ (3.8)
+WRITE REVIEW
+]
+	at org.testng.internal.reflect.DataProviderMethodMatcher.getConformingArguments(DataProviderMethodMatcher.java:43)
+	at org.testng.internal.Parameters.injectParameters(Parameters.java:925)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:34)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
 	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
@@ -133,55 +193,7 @@ Method public void com.atmecs.konakart.script.ProductSearch.closeBrwser() throws
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </pre></div></td>
 <td>0</td>
-<td>com.atmecs.konakart.script.ProductSearch@3b07a0d6</td></tr>
-</table><p>
-<table width='100%' border='1' class='invocation-passed'>
-<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
-<tr><td><b>Test method</b></td>
-<td width="30%"><b>Exception</b></td>
-<td width="10%"><b>Time (seconds)</b></td>
-<td><b>Instance</b></td>
-</tr>
-<tr>
-<td title='com.atmecs.konakart.script.ProductSearch.positiveSearches()'><b>positiveSearches</b><br>Test class: com.atmecs.konakart.script.ProductSearch<br>Parameters: All, samsung, 1-4 of 4 products</td>
-<td></td>
-<td>0</td>
-<td>com.atmecs.konakart.script.ProductSearch@3b07a0d6</td></tr>
-<tr>
-<td title='com.atmecs.konakart.script.ProductSearch.positiveSearches()'><b>positiveSearches</b><br>Test class: com.atmecs.konakart.script.ProductSearch<br>Parameters: Computer Peripherals, Bundle Saver, 1-1 of 1 products</td>
-<td></td>
-<td>0</td>
-<td>com.atmecs.konakart.script.ProductSearch@3b07a0d6</td></tr>
-<tr>
-<td title='com.atmecs.konakart.script.ProductSearch.positiveSearches()'><b>positiveSearches</b><br>Test class: com.atmecs.konakart.script.ProductSearch<br>Parameters: Games, call of duty, 1-1 of 1 products</td>
-<td></td>
-<td>0</td>
-<td>com.atmecs.konakart.script.ProductSearch@3b07a0d6</td></tr>
-<tr>
-<td title='com.atmecs.konakart.script.ProductSearch.positiveSearches()'><b>positiveSearches</b><br>Test class: com.atmecs.konakart.script.ProductSearch<br>Parameters: DVD Movies, A Bug's Life, 1-1 of 1 products</td>
-<td></td>
-<td>0</td>
-<td>com.atmecs.konakart.script.ProductSearch@3b07a0d6</td></tr>
-<tr>
-<td title='com.atmecs.konakart.script.ProductSearch.positiveSearches()'><b>positiveSearches</b><br>Test class: com.atmecs.konakart.script.ProductSearch<br>Parameters: Software, win8pro, 1-1 of 1 products</td>
-<td></td>
-<td>0</td>
-<td>com.atmecs.konakart.script.ProductSearch@3b07a0d6</td></tr>
-<tr>
-<td title='com.atmecs.konakart.script.ProductSearch.positiveSearches()'><b>positiveSearches</b><br>Test class: com.atmecs.konakart.script.ProductSearch<br>Parameters: Electronics, Nikon D5100 SLR, 1-1 of 1 products</td>
-<td></td>
-<td>0</td>
-<td>com.atmecs.konakart.script.ProductSearch@3b07a0d6</td></tr>
-<tr>
-<td title='com.atmecs.konakart.script.ProductSearch.positiveSearches()'><b>positiveSearches</b><br>Test class: com.atmecs.konakart.script.ProductSearch<br>Parameters: Home & Garden, De'Longhi BCO 410, 1-1 of 1 products</td>
-<td></td>
-<td>0</td>
-<td>com.atmecs.konakart.script.ProductSearch@3b07a0d6</td></tr>
-<tr>
-<td title='com.atmecs.konakart.script.ProductSearch.positiveSearches()'><b>positiveSearches</b><br>Test class: com.atmecs.konakart.script.ProductSearch<br>Parameters: Gifts, gift certificate, 1-1 of 1 products</td>
-<td></td>
-<td>0</td>
-<td>com.atmecs.konakart.script.ProductSearch@3b07a0d6</td></tr>
+<td>com.atmecs.konakart.script.ProductValidation@7ee955a8</td></tr>
 </table><p>
 </body>
 </html>

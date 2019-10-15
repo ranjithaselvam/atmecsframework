@@ -1,374 +1,1911 @@
-2019-10-14 17:34:49 INFO  Utility:115 - element not clickable
-2019-10-14 17:36:01 INFO  Utility:115 - element not clickable
-2019-10-14 17:37:51 INFO  Utility:115 - element not clickable
-2019-10-14 17:38:32 INFO  Utility:115 - element not clickable
-2019-10-14 17:39:16 INFO  Utility:115 - element not clickable
-2019-10-14 17:58:46 INFO  Utility:115 - element not clickable
-2019-10-14 17:58:46 INFO  Utility:115 - value not passed
-2019-10-14 18:03:01 INFO  Utility:115 - element not clickable
-2019-10-14 18:03:01 INFO  Utility:115 - value not passed
-2019-10-14 18:03:01 INFO  Utility:115 - value not passed
-2019-10-14 18:04:58 INFO  Utility:115 - element not clickable
-2019-10-14 18:04:58 INFO  Utility:115 - value not passed
-2019-10-14 18:04:58 INFO  Utility:115 - value not passed
-2019-10-14 18:06:33 INFO  Utility:115 - element not clickable
-2019-10-14 18:06:33 INFO  Utility:115 - value not passed
-2019-10-14 18:06:33 INFO  Utility:115 - value not passed
-2019-10-14 18:08:46 INFO  Utility:115 - element not clickable
-2019-10-14 18:08:46 INFO  Utility:115 - value not passed
-2019-10-14 18:08:46 INFO  Utility:115 - value not passed
-2019-10-14 18:09:51 INFO  Utility:115 - element not clickable
-2019-10-14 18:09:51 INFO  Utility:115 - value not passed
-2019-10-14 18:09:51 INFO  Utility:115 - value not passed
-2019-10-14 18:12:30 INFO  Utility:115 - value not passed
-2019-10-14 18:12:30 INFO  Utility:115 - value not passed
-2019-10-14 18:27:52 INFO  Utility:115 - value not passed
-2019-10-14 18:27:52 INFO  Utility:115 - value not passed
-2019-10-14 18:33:13 INFO  Utility:115 - value not passed
-2019-10-14 18:33:13 INFO  Utility:115 - value not passed
-2019-10-14 18:33:45 INFO  Utility:115 - value not passed
-2019-10-14 18:33:45 INFO  Utility:115 - value not passed
-2019-10-14 18:39:45 INFO  Utility:115 - value not passed
-2019-10-14 18:39:45 INFO  Utility:115 - value not passed
-2019-10-14 18:40:30 INFO  Utility:115 - value not passed
-2019-10-14 18:40:30 INFO  Utility:115 - value not passed
-2019-10-14 18:40:45 INFO  Utility:115 - value not passed
-2019-10-14 18:40:45 INFO  Utility:115 - value not passed
-2019-10-14 18:42:31 INFO  Utility:115 - value not passed
-2019-10-14 18:42:31 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 18:56:35 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - element not clickable
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - element not clickable
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - element not clickable
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - element not clickable
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - element not clickable
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - element not clickable
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - element not clickable
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - value not passed
-2019-10-14 19:02:10 INFO  Utility:115 - element not clickable
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - element not clickable
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - element not clickable
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - element not clickable
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - element not clickable
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - element not clickable
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - element not clickable
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - element not clickable
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - value not passed
-2019-10-14 19:03:39 INFO  Utility:115 - element not clickable
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - element not clickable
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - element not clickable
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - element not clickable
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - element not clickable
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - element not clickable
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - element not clickable
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - element not clickable
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - value not passed
-2019-10-14 19:11:27 INFO  Utility:115 - element not clickable
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - value not passed
-2019-10-14 19:14:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - value not passed
-2019-10-14 19:17:01 INFO  Utility:115 - element not clickable
-2019-10-14 19:22:49 INFO  Utility:115 - value not passed
-2019-10-14 19:22:49 INFO  Utility:115 - value not passed
-2019-10-14 19:22:49 INFO  Utility:115 - element not clickable
-2019-10-14 19:22:49 INFO  Utility:115 - value not passed
-2019-10-14 19:22:49 INFO  Utility:115 - value not passed
-2019-10-14 19:22:49 INFO  Utility:115 - element not clickable
-2019-10-14 19:22:49 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - element not clickable
-2019-10-14 19:22:50 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - element not clickable
-2019-10-14 19:22:50 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - element not clickable
-2019-10-14 19:22:50 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - element not clickable
-2019-10-14 19:22:50 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - element not clickable
-2019-10-14 19:22:50 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - value not passed
-2019-10-14 19:22:50 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:14 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:14 INFO  Utility:115 - value not passed
-2019-10-14 19:29:15 INFO  Utility:115 - value not passed
-2019-10-14 19:29:15 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:44 INFO  Utility:115 - value not passed
-2019-10-14 19:29:44 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:44 INFO  Utility:115 - value not passed
-2019-10-14 19:29:44 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:44 INFO  Utility:115 - value not passed
-2019-10-14 19:29:44 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:44 INFO  Utility:115 - value not passed
-2019-10-14 19:29:44 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:44 INFO  Utility:115 - value not passed
-2019-10-14 19:29:44 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:44 INFO  Utility:115 - value not passed
-2019-10-14 19:29:44 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:44 INFO  Utility:115 - value not passed
-2019-10-14 19:29:44 INFO  Utility:115 - element not clickable
-2019-10-14 19:29:44 INFO  Utility:115 - value not passed
-2019-10-14 19:29:44 INFO  Utility:115 - element not clickable
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - element not clickable
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - element not clickable
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - element not clickable
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - element not clickable
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - element not clickable
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - element not clickable
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - element not clickable
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - value not passed
-2019-10-14 19:55:12 INFO  Utility:115 - element not clickable
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - element not clickable
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - element not clickable
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - element not clickable
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - element not clickable
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - element not clickable
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - element not clickable
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - element not clickable
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - value not passed
-2019-10-14 19:57:24 INFO  Utility:115 - element not clickable
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - element not clickable
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - element not clickable
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - element not clickable
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - element not clickable
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - element not clickable
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - element not clickable
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - element not clickable
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - value not passed
-2019-10-14 20:05:45 INFO  Utility:115 - element not clickable
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - element not clickable
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - element not clickable
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - element not clickable
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - element not clickable
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - element not clickable
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - element not clickable
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - element not clickable
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - value not passed
-2019-10-14 20:06:41 INFO  Utility:115 - element not clickable
-2019-10-14 20:11:43 INFO  Utility:115 - value not passed
-2019-10-14 20:11:43 INFO  Utility:115 - value not passed
-2019-10-14 20:11:43 INFO  Utility:115 - value not passed
-2019-10-14 20:11:43 INFO  Utility:115 - value not passed
-2019-10-14 20:11:43 INFO  Utility:115 - value not passed
-2019-10-14 20:11:43 INFO  Utility:115 - value not passed
-2019-10-14 20:11:43 INFO  Utility:115 - value not passed
-2019-10-14 20:11:43 INFO  Utility:115 - value not passed
-2019-10-14 20:13:27 INFO  Utility:115 - value not passed
-2019-10-14 20:13:27 INFO  Utility:115 - value not passed
-2019-10-14 20:13:27 INFO  Utility:115 - value not passed
-2019-10-14 20:13:27 INFO  Utility:115 - value not passed
-2019-10-14 20:13:27 INFO  Utility:115 - value not passed
-2019-10-14 20:13:27 INFO  Utility:115 - value not passed
-2019-10-14 20:13:27 INFO  Utility:115 - value not passed
-2019-10-14 20:13:27 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - element not clickable
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - element not clickable
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - element not clickable
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - element not clickable
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - element not clickable
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - element not clickable
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - element not clickable
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - value not passed
-2019-10-14 20:52:19 INFO  Utility:115 - element not clickable
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:34:34 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:35:27 INFO  Utility:122 - value not passed
+2019-10-15 11:55:18 INFO  Utility:118 - value not passed
+2019-10-15 11:55:18 INFO  Utility:118 - value not passed
+2019-10-15 11:55:18 INFO  Utility:118 - value not passed
+2019-10-15 11:55:18 INFO  Utility:118 - value not passed
+2019-10-15 11:55:18 INFO  Utility:118 - value not passed
+2019-10-15 11:55:18 INFO  Utility:118 - value not passed
+2019-10-15 11:55:18 INFO  Utility:118 - value not passed
+2019-10-15 11:55:18 INFO  Utility:118 - value not passed
+2019-10-15 11:55:18 INFO  Utility:118 - current browser closed
+2019-10-15 12:06:09 INFO  Utility:118 - current browser closed
+2019-10-15 12:10:38 INFO  Utility:118 - browser opened
+2019-10-15 12:10:43 INFO  Utility:118 - current browser closed
+2019-10-15 12:16:08 INFO  Utility:118 - browser opened
+2019-10-15 12:16:11 INFO  Utility:118 - Entered url
+2019-10-15 12:16:11 INFO  Utility:118 - current browser closed
+2019-10-15 12:19:36 INFO  Utility:118 - browser opened
+2019-10-15 12:19:39 INFO  Utility:118 - Entered url
+2019-10-15 12:19:39 INFO  Utility:118 - current browser closed
+2019-10-15 12:21:27 INFO  Utility:118 - browser opened
+2019-10-15 12:21:30 INFO  Utility:118 - Entered url
+2019-10-15 12:21:30 INFO  Utility:118 - element not clickable
+2019-10-15 12:21:30 INFO  Utility:118 - current browser closed
+2019-10-15 12:22:36 INFO  Utility:118 - browser opened
+2019-10-15 12:22:38 INFO  Utility:118 - Entered url
+2019-10-15 12:22:39 INFO  Utility:118 - element not clickable
+2019-10-15 12:22:39 INFO  Utility:118 - current browser closed
+2019-10-15 12:24:22 INFO  Utility:118 - browser opened
+2019-10-15 12:24:24 INFO  Utility:118 - Entered url
+2019-10-15 12:24:24 INFO  Utility:118 - element not clickable
+2019-10-15 12:24:24 INFO  Utility:118 - current browser closed
+2019-10-15 12:25:30 INFO  Utility:118 - browser opened
+2019-10-15 12:25:32 INFO  Utility:118 - Entered url
+2019-10-15 12:25:32 INFO  Utility:118 - element not clickable
+2019-10-15 12:25:33 INFO  Utility:118 - current browser closed
+2019-10-15 12:34:59 INFO  Utility:118 - browser opened
+2019-10-15 12:35:02 INFO  Utility:118 - Entered url
+2019-10-15 12:35:02 INFO  Utility:118 - element not clickable
+2019-10-15 12:35:02 INFO  Utility:118 - current browser closed
+2019-10-15 12:35:24 INFO  Utility:118 - browser opened
+2019-10-15 12:35:31 INFO  Utility:118 - Entered url
+2019-10-15 12:35:31 INFO  Utility:118 - current browser closed
+2019-10-15 12:41:17 INFO  Utility:118 - browser opened
+2019-10-15 12:41:20 INFO  Utility:118 - Entered url
+2019-10-15 12:41:20 INFO  Utility:118 - current browser closed
+2019-10-15 12:44:32 INFO  Utility:118 - browser opened
+2019-10-15 12:44:42 INFO  Utility:118 - Entered url
+2019-10-15 12:44:42 INFO  Utility:118 - current browser closed
+2019-10-15 12:46:37 INFO  Utility:119 - browser opened
+2019-10-15 12:46:39 INFO  Utility:119 - Entered url
+2019-10-15 12:46:40 INFO  Utility:119 - current browser closed
+2019-10-15 12:47:52 INFO  Utility:120 - browser opened
+2019-10-15 12:47:55 INFO  Utility:120 - Entered url
+2019-10-15 12:47:55 INFO  Utility:120 - current browser closed
+2019-10-15 12:48:39 INFO  Utility:120 - browser opened
+2019-10-15 12:48:42 INFO  Utility:120 - Entered url
+2019-10-15 12:48:42 INFO  Utility:120 - current browser closed
+2019-10-15 12:49:14 INFO  Utility:120 - browser opened
+2019-10-15 12:49:17 INFO  Utility:120 - Entered url
+2019-10-15 12:49:17 INFO  Utility:120 - current browser closed
+2019-10-15 12:49:59 INFO  Utility:120 - browser opened
+2019-10-15 12:50:03 INFO  Utility:120 - Entered url
+2019-10-15 12:50:03 INFO  Utility:120 - current browser closed
+2019-10-15 12:50:51 INFO  Utility:119 - browser opened
+2019-10-15 12:50:53 INFO  Utility:119 - Entered url
+2019-10-15 12:50:53 INFO  Utility:119 - current browser closed
+2019-10-15 12:53:49 INFO  Utility:119 - browser opened
+2019-10-15 12:53:51 INFO  Utility:119 - Entered url
+2019-10-15 12:53:51 INFO  Utility:119 - current browser closed
+2019-10-15 12:59:09 INFO  Utility:119 - browser opened
+2019-10-15 12:59:12 INFO  Utility:119 - Entered url
+2019-10-15 12:59:12 INFO  Utility:119 - current browser closed
+2019-10-15 13:14:09 INFO  Utility:119 - browser opened
+2019-10-15 13:14:11 INFO  Utility:119 - browser opened
+2019-10-15 13:14:13 INFO  Utility:119 - Entered url
+2019-10-15 13:14:15 INFO  Utility:119 - current browser closed
+2019-10-15 13:15:31 INFO  Utility:119 - browser opened
+2019-10-15 13:15:32 INFO  Utility:119 - browser opened
+2019-10-15 13:15:35 INFO  Utility:119 - Entered url
+2019-10-15 13:15:38 INFO  Utility:119 - current browser closed
+2019-10-15 13:16:27 INFO  Utility:119 - browser opened
+2019-10-15 13:16:28 INFO  Utility:119 - browser opened
+2019-10-15 13:16:31 INFO  Utility:119 - Entered url
+2019-10-15 13:16:34 INFO  Utility:119 - current browser closed
+2019-10-15 13:53:47 INFO  Utility:119 - browser opened
+2019-10-15 13:53:48 INFO  Utility:119 - browser opened
+2019-10-15 13:53:51 INFO  Utility:119 - Entered url
+2019-10-15 13:53:54 INFO  Utility:119 - current browser closed
+2019-10-15 14:17:42 INFO  Utility:119 - browser opened
+2019-10-15 14:17:44 INFO  Utility:119 - browser opened
+2019-10-15 14:17:46 INFO  Utility:119 - Entered url
+2019-10-15 14:17:46 INFO  Utility:119 - current browser closed
+2019-10-15 14:27:15 INFO  Utility:119 - browser opened
+2019-10-15 14:27:17 INFO  Utility:119 - browser opened
+2019-10-15 14:27:19 INFO  Utility:119 - Entered url
+2019-10-15 14:27:19 INFO  Utility:119 - current browser closed
+2019-10-15 14:28:18 INFO  Utility:119 - browser opened
+2019-10-15 14:28:19 INFO  Utility:119 - browser opened
+2019-10-15 14:28:22 INFO  Utility:119 - Entered url
+2019-10-15 14:28:22 INFO  Utility:119 - current browser closed
+2019-10-15 14:28:50 INFO  Utility:119 - browser opened
+2019-10-15 14:28:51 INFO  Utility:119 - browser opened
+2019-10-15 14:28:53 INFO  Utility:119 - Entered url
+2019-10-15 14:28:53 INFO  Utility:119 - current browser closed
+2019-10-15 14:30:33 INFO  Utility:119 - browser opened
+2019-10-15 14:30:36 INFO  Utility:119 - Entered url
+2019-10-15 14:30:36 INFO  Utility:119 - current browser closed
+2019-10-15 14:32:50 INFO  Utility:119 - browser opened
+2019-10-15 14:32:50 INFO  Utility:119 - url not enter
+2019-10-15 14:32:50 INFO  Utility:119 - Browser not closed
+2019-10-15 14:36:12 INFO  Utility:119 - browser opened
+2019-10-15 14:36:12 INFO  Utility:119 - url not enter
+2019-10-15 14:36:12 INFO  Utility:119 - Browser not closed
+2019-10-15 14:38:48 INFO  Utility:119 - browser opened
+2019-10-15 14:38:48 INFO  Utility:119 - url not enter
+2019-10-15 14:38:48 INFO  Utility:119 - Browser not closed
+2019-10-15 14:40:16 INFO  Utility:119 - browser opened
+2019-10-15 14:42:52 INFO  Utility:119 - browser opened
+2019-10-15 14:42:52 INFO  Utility:119 - url not enter
+2019-10-15 14:42:52 INFO  Utility:119 - Browser not closed
+2019-10-15 14:44:01 INFO  Utility:119 - browser opened
+2019-10-15 14:44:01 INFO  Utility:119 - url not enter
+2019-10-15 14:44:01 INFO  Utility:119 - Browser not closed
+2019-10-15 14:44:42 INFO  Utility:119 - browser opened
+2019-10-15 14:44:42 INFO  Utility:119 - url not enter
+2019-10-15 14:44:42 INFO  Utility:119 - Browser not closed
+2019-10-15 14:48:28 INFO  Utility:119 - browser opened
+2019-10-15 14:48:28 INFO  Utility:119 - url not enter
+2019-10-15 14:48:28 INFO  Utility:119 - Browser not closed
+2019-10-15 15:05:22 INFO  Utility:119 - browser opened
+2019-10-15 15:05:22 INFO  Utility:119 - url not enter
+2019-10-15 15:05:22 INFO  Utility:119 - Browser not closed
+2019-10-15 15:11:20 INFO  Utility:119 - browser opened
+2019-10-15 15:11:20 INFO  Utility:119 - url not enter
+2019-10-15 15:11:20 INFO  Utility:119 - Browser not closed
+2019-10-15 15:12:41 INFO  Utility:119 - browser opened
+2019-10-15 15:12:43 INFO  Utility:119 - Entered url
+2019-10-15 15:12:44 INFO  Utility:119 - current browser closed
+2019-10-15 15:16:31 INFO  Utility:119 - browser opened
+2019-10-15 15:16:34 INFO  Utility:119 - Entered url
+2019-10-15 15:17:11 INFO  Utility:119 - value passed
+2019-10-15 15:18:12 INFO  Utility:119 - value passed
+2019-10-15 15:19:13 INFO  Utility:119 - value passed
+2019-10-15 15:20:13 INFO  Utility:119 - value passed
+2019-10-15 15:20:49 INFO  Utility:119 - value passed
+2019-10-15 15:22:05 INFO  Utility:119 - value passed
+2019-10-15 15:22:18 INFO  Utility:119 - browser opened
+2019-10-15 15:22:21 INFO  Utility:119 - Entered url
+2019-10-15 15:22:22 INFO  Utility:119 - select drop down
+2019-10-15 15:22:22 INFO  Utility:119 - select drop down
+2019-10-15 15:22:23 INFO  Utility:119 - select drop down
+2019-10-15 15:22:23 INFO  Utility:119 - select drop down
+2019-10-15 15:22:23 INFO  Utility:119 - select drop down
+2019-10-15 15:22:23 INFO  Utility:119 - select drop down
+2019-10-15 15:22:24 INFO  Utility:119 - select drop down
+2019-10-15 15:22:24 INFO  Utility:119 - select drop down
+2019-10-15 15:22:24 INFO  Utility:119 - current browser closed
+2019-10-15 15:22:35 INFO  Utility:119 - Browser not closed
+2019-10-15 15:23:43 INFO  Utility:119 - browser opened
+2019-10-15 15:23:45 INFO  Utility:119 - Entered url
+2019-10-15 15:23:47 INFO  Utility:119 - select drop down
+2019-10-15 15:23:47 INFO  Utility:119 - select drop down
+2019-10-15 15:23:47 INFO  Utility:119 - select drop down
+2019-10-15 15:23:47 INFO  Utility:119 - select drop down
+2019-10-15 15:23:48 INFO  Utility:119 - select drop down
+2019-10-15 15:23:48 INFO  Utility:119 - select drop down
+2019-10-15 15:23:48 INFO  Utility:119 - select drop down
+2019-10-15 15:23:49 INFO  Utility:119 - select drop down
+2019-10-15 15:23:49 INFO  Utility:119 - current browser closed
+2019-10-15 15:24:48 INFO  Utility:119 - browser opened
+2019-10-15 15:24:51 INFO  Utility:119 - Entered url
+2019-10-15 15:24:52 INFO  Utility:119 - select drop down
+2019-10-15 15:24:52 INFO  Utility:119 - select drop down
+2019-10-15 15:24:52 INFO  Utility:119 - select drop down
+2019-10-15 15:24:53 INFO  Utility:119 - select drop down
+2019-10-15 15:24:53 INFO  Utility:119 - select drop down
+2019-10-15 15:24:53 INFO  Utility:119 - select drop down
+2019-10-15 15:24:53 INFO  Utility:119 - select drop down
+2019-10-15 15:24:54 INFO  Utility:119 - select drop down
+2019-10-15 15:24:54 INFO  Utility:119 - current browser closed
+2019-10-15 15:25:06 INFO  Utility:119 - browser opened
+2019-10-15 15:25:09 INFO  Utility:119 - Entered url
+2019-10-15 15:25:10 INFO  Utility:119 - select drop down
+2019-10-15 15:25:45 INFO  Utility:119 - value passed
+2019-10-15 15:25:46 INFO  Utility:119 - select drop down
+2019-10-15 15:26:46 INFO  Utility:119 - value passed
+2019-10-15 15:26:46 INFO  Utility:119 - select drop down
+2019-10-15 15:26:56 INFO  Utility:119 - browser opened
+2019-10-15 15:26:59 INFO  Utility:119 - Entered url
+2019-10-15 15:27:01 INFO  Utility:119 - select drop down
+2019-10-15 15:27:45 INFO  Utility:119 - browser opened
+2019-10-15 15:27:47 INFO  Utility:119 - value passed
+2019-10-15 15:27:47 INFO  Utility:119 - drop down not selected
+2019-10-15 15:27:47 INFO  Utility:119 - value not passed
+2019-10-15 15:27:47 INFO  Utility:119 - drop down not selected
+2019-10-15 15:27:47 INFO  Utility:119 - value not passed
+2019-10-15 15:27:47 INFO  Utility:119 - drop down not selected
+2019-10-15 15:27:47 INFO  Utility:119 - value not passed
+2019-10-15 15:27:47 INFO  Utility:119 - drop down not selected
+2019-10-15 15:27:47 INFO  Utility:119 - value not passed
+2019-10-15 15:27:47 INFO  Utility:119 - drop down not selected
+2019-10-15 15:27:47 INFO  Utility:119 - value not passed
+2019-10-15 15:27:47 INFO  Utility:119 - Browser not closed
+2019-10-15 15:27:48 INFO  Utility:119 - Entered url
+2019-10-15 15:27:49 INFO  Utility:119 - select drop down
+2019-10-15 15:28:06 INFO  Utility:119 - value passed
+2019-10-15 15:28:06 INFO  Utility:119 - drop down not selected
+2019-10-15 15:28:06 INFO  Utility:119 - value not passed
+2019-10-15 15:28:06 INFO  Utility:119 - drop down not selected
+2019-10-15 15:28:06 INFO  Utility:119 - value not passed
+2019-10-15 15:28:06 INFO  Utility:119 - drop down not selected
+2019-10-15 15:28:06 INFO  Utility:119 - value not passed
+2019-10-15 15:28:06 INFO  Utility:119 - drop down not selected
+2019-10-15 15:28:06 INFO  Utility:119 - value not passed
+2019-10-15 15:28:06 INFO  Utility:119 - drop down not selected
+2019-10-15 15:28:06 INFO  Utility:119 - value not passed
+2019-10-15 15:28:06 INFO  Utility:119 - drop down not selected
+2019-10-15 15:28:06 INFO  Utility:119 - value not passed
+2019-10-15 15:28:06 INFO  Utility:119 - drop down not selected
+2019-10-15 15:28:07 INFO  Utility:119 - value not passed
+2019-10-15 15:28:07 INFO  Utility:119 - Browser not closed
+2019-10-15 15:28:25 INFO  Utility:119 - value passed
+2019-10-15 15:28:25 INFO  Utility:119 - select drop down
+2019-10-15 15:28:45 INFO  Utility:119 - browser opened
+2019-10-15 15:28:56 INFO  Utility:119 - Entered url
+2019-10-15 15:28:58 INFO  Utility:119 - select drop down
+2019-10-15 15:28:58 INFO  Utility:119 - value passed
+2019-10-15 15:28:58 INFO  Utility:119 - select drop down
+2019-10-15 15:28:58 INFO  Utility:119 - value passed
+2019-10-15 15:28:58 INFO  Utility:119 - select drop down
+2019-10-15 15:28:58 INFO  Utility:119 - value passed
+2019-10-15 15:28:58 INFO  Utility:119 - select drop down
+2019-10-15 15:28:58 INFO  Utility:119 - value passed
+2019-10-15 15:28:58 INFO  Utility:119 - select drop down
+2019-10-15 15:28:59 INFO  Utility:119 - value passed
+2019-10-15 15:28:59 INFO  Utility:119 - select drop down
+2019-10-15 15:28:59 INFO  Utility:119 - value passed
+2019-10-15 15:28:59 INFO  Utility:119 - select drop down
+2019-10-15 15:28:59 INFO  Utility:119 - value passed
+2019-10-15 15:28:59 INFO  Utility:119 - select drop down
+2019-10-15 15:28:59 INFO  Utility:119 - value passed
+2019-10-15 15:28:59 INFO  Utility:119 - current browser closed
+2019-10-15 15:29:26 INFO  Utility:119 - value passed
+2019-10-15 15:29:26 INFO  Utility:119 - drop down not selected
+2019-10-15 15:29:26 INFO  Utility:119 - value not passed
+2019-10-15 15:29:26 INFO  Utility:119 - drop down not selected
+2019-10-15 15:29:26 INFO  Utility:119 - value not passed
+2019-10-15 15:29:26 INFO  Utility:119 - drop down not selected
+2019-10-15 15:29:26 INFO  Utility:119 - value not passed
+2019-10-15 15:29:26 INFO  Utility:119 - drop down not selected
+2019-10-15 15:29:26 INFO  Utility:119 - value not passed
+2019-10-15 15:29:26 INFO  Utility:119 - drop down not selected
+2019-10-15 15:29:26 INFO  Utility:119 - value not passed
+2019-10-15 15:29:26 INFO  Utility:119 - drop down not selected
+2019-10-15 15:29:26 INFO  Utility:119 - value not passed
+2019-10-15 15:29:26 INFO  Utility:119 - Browser not closed
+2019-10-15 15:30:46 INFO  Utility:119 - browser opened
+2019-10-15 15:30:57 INFO  Utility:119 - Entered url
+2019-10-15 15:30:58 INFO  Utility:119 - select drop down
+2019-10-15 15:30:59 INFO  Utility:119 - value passed
+2019-10-15 15:31:01 INFO  Utility:119 - element is clicked
+2019-10-15 15:31:01 INFO  Utility:119 - select drop down
+2019-10-15 15:31:01 INFO  Utility:119 - value passed
+2019-10-15 15:31:03 INFO  Utility:119 - element is clicked
+2019-10-15 15:31:03 INFO  Utility:119 - select drop down
+2019-10-15 15:31:03 INFO  Utility:119 - value passed
+2019-10-15 15:31:06 INFO  Utility:119 - element is clicked
+2019-10-15 15:31:06 INFO  Utility:119 - select drop down
+2019-10-15 15:31:06 INFO  Utility:119 - value passed
+2019-10-15 15:31:07 INFO  Utility:119 - element is clicked
+2019-10-15 15:31:08 INFO  Utility:119 - select drop down
+2019-10-15 15:31:08 INFO  Utility:119 - value passed
+2019-10-15 15:31:10 INFO  Utility:119 - element is clicked
+2019-10-15 15:31:10 INFO  Utility:119 - select drop down
+2019-10-15 15:31:10 INFO  Utility:119 - value passed
+2019-10-15 15:31:12 INFO  Utility:119 - element is clicked
+2019-10-15 15:31:12 INFO  Utility:119 - select drop down
+2019-10-15 15:31:13 INFO  Utility:119 - value passed
+2019-10-15 15:31:14 INFO  Utility:119 - element is clicked
+2019-10-15 15:31:15 INFO  Utility:119 - select drop down
+2019-10-15 15:31:15 INFO  Utility:119 - value passed
+2019-10-15 15:31:16 INFO  Utility:119 - element is clicked
+2019-10-15 15:31:16 INFO  Utility:119 - current browser closed
+2019-10-15 15:31:40 INFO  Utility:119 - browser opened
+2019-10-15 15:31:52 INFO  Utility:119 - Entered url
+2019-10-15 15:31:53 INFO  Utility:119 - select drop down
+2019-10-15 15:31:53 INFO  Utility:119 - select drop down
+2019-10-15 15:31:53 INFO  Utility:119 - select drop down
+2019-10-15 15:31:53 INFO  Utility:119 - select drop down
+2019-10-15 15:31:53 INFO  Utility:119 - select drop down
+2019-10-15 15:31:54 INFO  Utility:119 - select drop down
+2019-10-15 15:31:54 INFO  Utility:119 - select drop down
+2019-10-15 15:31:54 INFO  Utility:119 - select drop down
+2019-10-15 15:31:54 INFO  Utility:119 - current browser closed
+2019-10-15 15:32:40 INFO  Utility:119 - browser opened
+2019-10-15 15:32:52 INFO  Utility:119 - Entered url
+2019-10-15 15:32:53 INFO  Utility:119 - select drop down
+2019-10-15 15:32:53 INFO  Utility:119 - value passed
+2019-10-15 15:32:54 INFO  Utility:119 - element is clicked
+2019-10-15 15:32:55 INFO  Utility:119 - select drop down
+2019-10-15 15:32:55 INFO  Utility:119 - value passed
+2019-10-15 15:32:56 INFO  Utility:119 - element is clicked
+2019-10-15 15:32:56 INFO  Utility:119 - select drop down
+2019-10-15 15:32:57 INFO  Utility:119 - value passed
+2019-10-15 15:32:58 INFO  Utility:119 - element is clicked
+2019-10-15 15:32:58 INFO  Utility:119 - select drop down
+2019-10-15 15:32:58 INFO  Utility:119 - value passed
+2019-10-15 15:33:00 INFO  Utility:119 - element is clicked
+2019-10-15 15:33:00 INFO  Utility:119 - select drop down
+2019-10-15 15:33:00 INFO  Utility:119 - value passed
+2019-10-15 15:33:02 INFO  Utility:119 - element is clicked
+2019-10-15 15:33:02 INFO  Utility:119 - select drop down
+2019-10-15 15:33:02 INFO  Utility:119 - value passed
+2019-10-15 15:33:04 INFO  Utility:119 - element is clicked
+2019-10-15 15:33:04 INFO  Utility:119 - select drop down
+2019-10-15 15:33:04 INFO  Utility:119 - value passed
+2019-10-15 15:33:05 INFO  Utility:119 - element is clicked
+2019-10-15 15:33:06 INFO  Utility:119 - select drop down
+2019-10-15 15:33:06 INFO  Utility:119 - value passed
+2019-10-15 15:33:07 INFO  Utility:119 - element is clicked
+2019-10-15 15:33:07 INFO  Utility:119 - current browser closed
+2019-10-15 15:36:02 INFO  Utility:119 - browser opened
+2019-10-15 15:36:14 INFO  Utility:119 - Entered url
+2019-10-15 15:36:45 INFO  Utility:119 - drop down not selected
+2019-10-15 15:36:45 INFO  Utility:119 - value passed
+2019-10-15 15:36:48 INFO  Utility:119 - element is clicked
+2019-10-15 15:37:11 INFO  Utility:119 - drop down not selected
+2019-10-15 15:37:11 INFO  Utility:119 - value not passed
+2019-10-15 15:37:11 INFO  Utility:119 - element not clickable
+2019-10-15 15:37:11 INFO  Utility:119 - drop down not selected
+2019-10-15 15:37:11 INFO  Utility:119 - value not passed
+2019-10-15 15:37:11 INFO  Utility:119 - element not clickable
+2019-10-15 15:37:11 INFO  Utility:119 - drop down not selected
+2019-10-15 15:37:11 INFO  Utility:119 - value not passed
+2019-10-15 15:37:11 INFO  Utility:119 - element not clickable
+2019-10-15 15:37:11 INFO  Utility:119 - drop down not selected
+2019-10-15 15:37:11 INFO  Utility:119 - value not passed
+2019-10-15 15:37:12 INFO  Utility:119 - element not clickable
+2019-10-15 15:37:12 INFO  Utility:119 - drop down not selected
+2019-10-15 15:37:12 INFO  Utility:119 - value not passed
+2019-10-15 15:37:12 INFO  Utility:119 - element not clickable
+2019-10-15 15:37:12 INFO  Utility:119 - drop down not selected
+2019-10-15 15:37:12 INFO  Utility:119 - value not passed
+2019-10-15 15:37:12 INFO  Utility:119 - element not clickable
+2019-10-15 15:37:12 INFO  Utility:119 - drop down not selected
+2019-10-15 15:37:12 INFO  Utility:119 - value not passed
+2019-10-15 15:37:12 INFO  Utility:119 - element not clickable
+2019-10-15 15:37:16 INFO  Utility:119 - Browser not closed
+2019-10-15 15:38:04 INFO  Utility:119 - browser opened
+2019-10-15 15:38:17 INFO  Utility:119 - Entered url
+2019-10-15 15:38:49 INFO  Utility:119 - drop down not selected
+2019-10-15 15:38:49 INFO  Utility:119 - value passed
+2019-10-15 15:38:51 INFO  Utility:119 - element is clicked
+2019-10-15 15:39:22 INFO  Utility:119 - drop down not selected
+2019-10-15 15:39:22 INFO  Utility:119 - value passed
+2019-10-15 15:39:25 INFO  Utility:119 - element is clicked
+2019-10-15 15:39:25 INFO  Utility:119 - browser opened
+2019-10-15 15:39:36 INFO  Utility:119 - Entered url
+2019-10-15 15:39:37 INFO  Utility:119 - value passed
+2019-10-15 15:39:39 INFO  Utility:119 - element is clicked
+2019-10-15 15:39:39 INFO  Utility:119 - value passed
+2019-10-15 15:39:40 INFO  Utility:119 - element is clicked
+2019-10-15 15:39:41 INFO  Utility:119 - value passed
+2019-10-15 15:39:43 INFO  Utility:119 - element is clicked
+2019-10-15 15:39:43 INFO  Utility:119 - value passed
+2019-10-15 15:39:45 INFO  Utility:119 - element is clicked
+2019-10-15 15:39:46 INFO  Utility:119 - value passed
+2019-10-15 15:39:47 INFO  Utility:119 - element is clicked
+2019-10-15 15:39:48 INFO  Utility:119 - value passed
+2019-10-15 15:39:50 INFO  Utility:119 - element is clicked
+2019-10-15 15:39:50 INFO  Utility:119 - value passed
+2019-10-15 15:39:52 INFO  Utility:119 - element is clicked
+2019-10-15 15:39:52 INFO  Utility:119 - value passed
+2019-10-15 15:39:54 INFO  Utility:119 - element is clicked
+2019-10-15 15:39:54 INFO  Utility:119 - current browser closed
+2019-10-15 15:39:55 INFO  Utility:119 - drop down not selected
+2019-10-15 15:39:55 INFO  Utility:119 - value passed
+2019-10-15 15:39:57 INFO  Utility:119 - element is clicked
+2019-10-15 15:40:28 INFO  Utility:119 - drop down not selected
+2019-10-15 15:40:28 INFO  Utility:119 - value passed
+2019-10-15 15:40:30 INFO  Utility:119 - element is clicked
+2019-10-15 15:40:34 INFO  Utility:119 - browser opened
+2019-10-15 15:40:37 INFO  Utility:119 - Entered url
+2019-10-15 15:41:01 INFO  Utility:119 - drop down not selected
+2019-10-15 15:41:01 INFO  Utility:119 - value passed
+2019-10-15 15:41:03 INFO  Utility:119 - element is clicked
+2019-10-15 15:41:14 INFO  Utility:119 - value passed
+2019-10-15 15:41:17 INFO  Utility:119 - element is clicked
+2019-10-15 15:41:33 INFO  Utility:119 - drop down not selected
+2019-10-15 15:41:33 INFO  Utility:119 - value passed
+2019-10-15 15:41:36 INFO  Utility:119 - element is clicked
+2019-10-15 15:42:06 INFO  Utility:119 - drop down not selected
+2019-10-15 15:42:06 INFO  Utility:119 - value not passed
+2019-10-15 15:42:06 INFO  Utility:119 - element not clickable
+2019-10-15 15:42:06 INFO  Utility:119 - drop down not selected
+2019-10-15 15:42:06 INFO  Utility:119 - value not passed
+2019-10-15 15:42:06 INFO  Utility:119 - element not clickable
+2019-10-15 15:42:06 INFO  Utility:119 - current browser closed
+2019-10-15 15:42:17 INFO  Utility:119 - value passed
+2019-10-15 15:42:17 INFO  Utility:119 - element not clickable
+2019-10-15 15:42:17 INFO  Utility:119 - value not passed
+2019-10-15 15:42:17 INFO  Utility:119 - element not clickable
+2019-10-15 15:42:17 INFO  Utility:119 - value not passed
+2019-10-15 15:42:17 INFO  Utility:119 - element not clickable
+2019-10-15 15:42:17 INFO  Utility:119 - value not passed
+2019-10-15 15:42:17 INFO  Utility:119 - element not clickable
+2019-10-15 15:42:17 INFO  Utility:119 - value not passed
+2019-10-15 15:42:17 INFO  Utility:119 - element not clickable
+2019-10-15 15:42:17 INFO  Utility:119 - value not passed
+2019-10-15 15:42:17 INFO  Utility:119 - element not clickable
+2019-10-15 15:42:18 INFO  Utility:119 - value not passed
+2019-10-15 15:42:18 INFO  Utility:119 - element not clickable
+2019-10-15 15:42:18 INFO  Utility:119 - current browser closed
+2019-10-15 15:43:03 INFO  Utility:119 - browser opened
+2019-10-15 15:43:05 INFO  Utility:119 - Entered url
+2019-10-15 15:43:07 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:35 INFO  Utility:119 - browser opened
+2019-10-15 15:43:42 INFO  Utility:119 - value passed
+2019-10-15 15:43:42 INFO  Utility:119 - element not clickable
+2019-10-15 15:43:42 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:42 INFO  Utility:119 - value not passed
+2019-10-15 15:43:42 INFO  Utility:119 - element not clickable
+2019-10-15 15:43:42 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:42 INFO  Utility:119 - value not passed
+2019-10-15 15:43:42 INFO  Utility:119 - element not clickable
+2019-10-15 15:43:42 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:42 INFO  Utility:119 - value not passed
+2019-10-15 15:43:42 INFO  Utility:119 - element not clickable
+2019-10-15 15:43:42 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:42 INFO  Utility:119 - value not passed
+2019-10-15 15:43:42 INFO  Utility:119 - element not clickable
+2019-10-15 15:43:42 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:42 INFO  Utility:119 - value not passed
+2019-10-15 15:43:42 INFO  Utility:119 - element not clickable
+2019-10-15 15:43:42 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:42 INFO  Utility:119 - value not passed
+2019-10-15 15:43:42 INFO  Utility:119 - element not clickable
+2019-10-15 15:43:42 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:43 INFO  Utility:119 - value not passed
+2019-10-15 15:43:43 INFO  Utility:119 - element not clickable
+2019-10-15 15:43:43 INFO  Utility:119 - Browser not closed
+2019-10-15 15:43:47 INFO  Utility:119 - Entered url
+2019-10-15 15:43:48 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:48 INFO  Utility:119 - value passed
+2019-10-15 15:43:50 INFO  Utility:119 - element is clicked
+2019-10-15 15:43:51 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:51 INFO  Utility:119 - value passed
+2019-10-15 15:43:53 INFO  Utility:119 - element is clicked
+2019-10-15 15:43:53 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:53 INFO  Utility:119 - value passed
+2019-10-15 15:43:55 INFO  Utility:119 - element is clicked
+2019-10-15 15:43:55 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:55 INFO  Utility:119 - value passed
+2019-10-15 15:43:57 INFO  Utility:119 - element is clicked
+2019-10-15 15:43:57 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:57 INFO  Utility:119 - value passed
+2019-10-15 15:43:59 INFO  Utility:119 - element is clicked
+2019-10-15 15:43:59 INFO  Utility:119 - drop down not selected
+2019-10-15 15:43:59 INFO  Utility:119 - value passed
+2019-10-15 15:44:01 INFO  Utility:119 - element is clicked
+2019-10-15 15:44:01 INFO  Utility:119 - drop down not selected
+2019-10-15 15:44:01 INFO  Utility:119 - value passed
+2019-10-15 15:44:03 INFO  Utility:119 - element is clicked
+2019-10-15 15:44:03 INFO  Utility:119 - drop down not selected
+2019-10-15 15:44:04 INFO  Utility:119 - value passed
+2019-10-15 15:44:05 INFO  Utility:119 - element is clicked
+2019-10-15 15:44:05 INFO  Utility:119 - current browser closed
+2019-10-15 15:46:13 INFO  Utility:119 - browser opened
+2019-10-15 15:46:25 INFO  Utility:119 - Entered url
+2019-10-15 15:46:56 INFO  Utility:119 - drop down not selected
+2019-10-15 15:46:56 INFO  Utility:119 - value passed
+2019-10-15 15:47:03 INFO  Utility:119 - element is clicked
+2019-10-15 15:47:33 INFO  Utility:119 - drop down not selected
+2019-10-15 15:47:33 INFO  Utility:119 - value passed
+2019-10-15 15:47:33 INFO  Utility:119 - element not clickable
+2019-10-15 15:47:33 INFO  Utility:119 - drop down not selected
+2019-10-15 15:47:33 INFO  Utility:119 - value not passed
+2019-10-15 15:47:33 INFO  Utility:119 - element not clickable
+2019-10-15 15:47:33 INFO  Utility:119 - drop down not selected
+2019-10-15 15:47:33 INFO  Utility:119 - value not passed
+2019-10-15 15:47:33 INFO  Utility:119 - element not clickable
+2019-10-15 15:47:33 INFO  Utility:119 - drop down not selected
+2019-10-15 15:47:33 INFO  Utility:119 - value not passed
+2019-10-15 15:47:33 INFO  Utility:119 - element not clickable
+2019-10-15 15:47:33 INFO  Utility:119 - drop down not selected
+2019-10-15 15:47:33 INFO  Utility:119 - value not passed
+2019-10-15 15:47:33 INFO  Utility:119 - element not clickable
+2019-10-15 15:47:33 INFO  Utility:119 - drop down not selected
+2019-10-15 15:47:33 INFO  Utility:119 - value not passed
+2019-10-15 15:47:33 INFO  Utility:119 - element not clickable
+2019-10-15 15:47:33 INFO  Utility:119 - drop down not selected
+2019-10-15 15:47:33 INFO  Utility:119 - value not passed
+2019-10-15 15:47:33 INFO  Utility:119 - element not clickable
+2019-10-15 15:47:34 INFO  Utility:119 - browser opened
+2019-10-15 15:47:37 INFO  Utility:119 - Browser not closed
+2019-10-15 15:47:55 INFO  Utility:119 - Entered url
+2019-10-15 15:48:10 INFO  Utility:119 - browser opened
+2019-10-15 15:48:11 INFO  Utility:119 - drop down not selected
+2019-10-15 15:48:21 INFO  Utility:119 - Entered url
+2019-10-15 15:48:25 INFO  Utility:119 - value not passed
+2019-10-15 15:48:39 INFO  Utility:119 - element not clickable
+2019-10-15 15:48:52 INFO  Utility:119 - drop down not selected
+2019-10-15 15:48:52 INFO  Utility:119 - value passed
+2019-10-15 15:48:53 INFO  Utility:119 - drop down not selected
+2019-10-15 15:48:55 INFO  Utility:119 - element is clicked
+2019-10-15 15:49:07 INFO  Utility:119 - value not passed
+2019-10-15 15:49:21 INFO  Utility:119 - element not clickable
+2019-10-15 15:49:25 INFO  Utility:119 - drop down not selected
+2019-10-15 15:49:26 INFO  Utility:119 - value passed
+2019-10-15 15:49:26 INFO  Utility:119 - element is clicked
+2019-10-15 15:49:28 INFO  Utility:119 - browser opened
+2019-10-15 15:49:35 INFO  Utility:119 - drop down not selected
+2019-10-15 15:49:39 INFO  Utility:119 - Entered url
+2019-10-15 15:49:40 INFO  Utility:119 - drop down not selected
+2019-10-15 15:49:49 INFO  Utility:119 - value not passed
+2019-10-15 15:49:54 INFO  Utility:119 - value not passed
+2019-10-15 15:50:03 INFO  Utility:119 - element not clickable
+2019-10-15 15:50:08 INFO  Utility:119 - element not clickable
+2019-10-15 15:50:10 INFO  Utility:119 - drop down not selected
+2019-10-15 15:50:10 INFO  Utility:119 - value passed
+2019-10-15 15:50:17 INFO  Utility:119 - element is clicked
+2019-10-15 15:50:17 INFO  Utility:119 - drop down not selected
+2019-10-15 15:50:22 INFO  Utility:119 - drop down not selected
+2019-10-15 15:50:31 INFO  Utility:119 - value not passed
+2019-10-15 15:50:36 INFO  Utility:119 - value not passed
+2019-10-15 15:50:45 INFO  Utility:119 - element not clickable
+2019-10-15 15:50:47 INFO  Utility:119 - drop down not selected
+2019-10-15 15:50:47 INFO  Utility:119 - value passed
+2019-10-15 15:50:50 INFO  Utility:119 - element not clickable
+2019-10-15 15:50:54 INFO  Utility:119 - browser opened
+2019-10-15 15:50:54 INFO  Utility:119 - element is clicked
+2019-10-15 15:50:59 INFO  Utility:119 - drop down not selected
+2019-10-15 15:51:02 INFO  Utility:119 - drop down not selected
+2019-10-15 15:51:02 INFO  Utility:119 - value not passed
+2019-10-15 15:51:02 INFO  Utility:119 - element not clickable
+2019-10-15 15:51:02 INFO  Utility:119 - drop down not selected
+2019-10-15 15:51:02 INFO  Utility:119 - value not passed
+2019-10-15 15:51:02 INFO  Utility:119 - element not clickable
+2019-10-15 15:51:02 INFO  Utility:119 - drop down not selected
+2019-10-15 15:51:02 INFO  Utility:119 - value not passed
+2019-10-15 15:51:02 INFO  Utility:119 - element not clickable
+2019-10-15 15:51:02 INFO  Utility:119 - drop down not selected
+2019-10-15 15:51:02 INFO  Utility:119 - value not passed
+2019-10-15 15:51:02 INFO  Utility:119 - element not clickable
+2019-10-15 15:51:02 INFO  Utility:119 - drop down not selected
+2019-10-15 15:51:02 INFO  Utility:119 - value not passed
+2019-10-15 15:51:02 INFO  Utility:119 - element not clickable
+2019-10-15 15:51:02 INFO  Utility:119 - drop down not selected
+2019-10-15 15:51:02 INFO  Utility:119 - value not passed
+2019-10-15 15:51:03 INFO  Utility:119 - element not clickable
+2019-10-15 15:51:04 INFO  Utility:119 - drop down not selected
+2019-10-15 15:51:05 INFO  Utility:119 - Entered url
+2019-10-15 15:51:07 INFO  Utility:119 - Browser not closed
+2019-10-15 15:51:13 INFO  Utility:119 - value not passed
+2019-10-15 15:51:18 INFO  Utility:119 - value not passed
+2019-10-15 15:51:25 INFO  Utility:119 - drop down not selected
+2019-10-15 15:51:27 INFO  Utility:119 - element not clickable
+2019-10-15 15:51:32 INFO  Utility:119 - element not clickable
+2019-10-15 15:51:39 INFO  Utility:119 - value not passed
+2019-10-15 15:51:41 INFO  Utility:119 - drop down not selected
+2019-10-15 15:51:46 INFO  Utility:119 - drop down not selected
+2019-10-15 15:51:53 INFO  Utility:119 - element not clickable
+2019-10-15 15:51:55 INFO  Utility:119 - value not passed
+2019-10-15 15:51:59 INFO  Utility:119 - browser opened
+2019-10-15 15:52:00 INFO  Utility:119 - value not passed
+2019-10-15 15:52:07 INFO  Utility:119 - drop down not selected
+2019-10-15 15:52:09 INFO  Utility:119 - element not clickable
+2019-10-15 15:52:11 INFO  Utility:119 - Entered url
+2019-10-15 15:52:14 INFO  Utility:119 - element not clickable
+2019-10-15 15:52:21 INFO  Utility:119 - value not passed
+2019-10-15 15:52:23 INFO  Utility:119 - drop down not selected
+2019-10-15 15:52:28 INFO  Utility:119 - drop down not selected
+2019-10-15 15:52:35 INFO  Utility:119 - element not clickable
+2019-10-15 15:52:37 INFO  Utility:119 - value not passed
+2019-10-15 15:52:42 INFO  Utility:119 - browser opened
+2019-10-15 15:52:42 INFO  Utility:119 - value not passed
+2019-10-15 15:52:46 INFO  Utility:119 - drop down not selected
+2019-10-15 15:52:46 INFO  Utility:119 - value passed
+2019-10-15 15:52:49 INFO  Utility:119 - drop down not selected
+2019-10-15 15:52:50 INFO  Utility:119 - element is clicked
+2019-10-15 15:52:51 INFO  Utility:119 - element not clickable
+2019-10-15 15:52:52 INFO  Utility:119 - Entered url
+2019-10-15 15:52:54 INFO  Utility:119 - value passed
+2019-10-15 15:52:56 INFO  Utility:119 - element is clicked
+2019-10-15 15:52:56 INFO  Utility:119 - value passed
+2019-10-15 15:52:56 INFO  Utility:119 - element not clickable
+2019-10-15 15:52:58 INFO  Utility:119 - element is clicked
+2019-10-15 15:52:58 INFO  Utility:119 - value passed
+2019-10-15 15:52:59 INFO  Utility:119 - value not passed
+2019-10-15 15:53:00 INFO  Utility:119 - element is clicked
+2019-10-15 15:53:00 INFO  Utility:119 - value passed
+2019-10-15 15:53:02 INFO  Utility:119 - element is clicked
+2019-10-15 15:53:02 INFO  Utility:119 - value passed
+2019-10-15 15:53:04 INFO  Utility:119 - element is clicked
+2019-10-15 15:53:04 INFO  Utility:119 - value passed
+2019-10-15 15:53:05 INFO  Utility:119 - drop down not selected
+2019-10-15 15:53:06 INFO  Utility:119 - element is clicked
+2019-10-15 15:53:06 INFO  Utility:119 - value passed
+2019-10-15 15:53:08 INFO  Utility:119 - element is clicked
+2019-10-15 15:53:08 INFO  Utility:119 - value passed
+2019-10-15 15:53:10 INFO  Utility:119 - element is clicked
+2019-10-15 15:53:10 INFO  Utility:119 - current browser closed
+2019-10-15 15:53:11 INFO  Utility:119 - drop down not selected
+2019-10-15 15:53:13 INFO  Utility:119 - element not clickable
+2019-10-15 15:53:19 INFO  Utility:119 - value not passed
+2019-10-15 15:53:20 INFO  Utility:119 - drop down not selected
+2019-10-15 15:53:20 INFO  Utility:119 - value passed
+2019-10-15 15:53:22 INFO  Utility:119 - element is clicked
+2019-10-15 15:53:25 INFO  Utility:119 - value not passed
+2019-10-15 15:53:27 INFO  Utility:119 - drop down not selected
+2019-10-15 15:53:33 INFO  Utility:119 - element not clickable
+2019-10-15 15:53:34 INFO  Utility:119 - Browser not closed
+2019-10-15 15:53:39 INFO  Utility:119 - element not clickable
+2019-10-15 15:53:39 INFO  Utility:119 - Browser not closed
+2019-10-15 15:53:41 INFO  Utility:119 - value not passed
+2019-10-15 15:53:53 INFO  Utility:119 - drop down not selected
+2019-10-15 15:53:53 INFO  Utility:119 - value passed
+2019-10-15 15:53:55 INFO  Utility:119 - element is clicked
+2019-10-15 15:53:55 INFO  Utility:119 - element not clickable
+2019-10-15 15:54:09 INFO  Utility:119 - drop down not selected
+2019-10-15 15:54:24 INFO  Utility:119 - value not passed
+2019-10-15 15:54:25 INFO  Utility:119 - drop down not selected
+2019-10-15 15:54:26 INFO  Utility:119 - value passed
+2019-10-15 15:54:29 INFO  Utility:119 - element is clicked
+2019-10-15 15:54:38 INFO  Utility:119 - element not clickable
+2019-10-15 15:54:52 INFO  Utility:119 - drop down not selected
+2019-10-15 15:54:59 INFO  Utility:119 - drop down not selected
+2019-10-15 15:54:59 INFO  Utility:119 - value passed
+2019-10-15 15:55:01 INFO  Utility:119 - element is clicked
+2019-10-15 15:55:06 INFO  Utility:119 - value not passed
+2019-10-15 15:55:20 INFO  Utility:119 - element not clickable
+2019-10-15 15:55:31 INFO  Utility:119 - drop down not selected
+2019-10-15 15:55:31 INFO  Utility:119 - value passed
+2019-10-15 15:55:34 INFO  Utility:119 - element is clicked
+2019-10-15 15:55:34 INFO  Utility:119 - drop down not selected
+2019-10-15 15:55:48 INFO  Utility:119 - value not passed
+2019-10-15 15:56:02 INFO  Utility:119 - element not clickable
+2019-10-15 15:56:04 INFO  Utility:119 - drop down not selected
+2019-10-15 15:56:04 INFO  Utility:119 - value passed
+2019-10-15 15:56:06 INFO  Utility:119 - element is clicked
+2019-10-15 15:56:16 INFO  Utility:119 - drop down not selected
+2019-10-15 15:56:30 INFO  Utility:119 - value not passed
+2019-10-15 15:56:37 INFO  Utility:119 - drop down not selected
+2019-10-15 15:56:37 INFO  Utility:119 - value passed
+2019-10-15 15:56:39 INFO  Utility:119 - element is clicked
+2019-10-15 15:56:40 INFO  Utility:119 - current browser closed
+2019-10-15 15:56:44 INFO  Utility:119 - element not clickable
+2019-10-15 15:56:44 INFO  Utility:119 - Browser not closed
+2019-10-15 16:02:02 INFO  Utility:119 - browser opened
+2019-10-15 16:02:13 INFO  Utility:119 - Entered url
+2019-10-15 16:02:14 INFO  Utility:119 - value passed
+2019-10-15 16:02:16 INFO  Utility:119 - element is clicked
+2019-10-15 16:02:16 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 16:02:16 INFO  Utility:119 - value passed
+2019-10-15 16:02:18 INFO  Utility:119 - element is clicked
+2019-10-15 16:02:18 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:02:18 INFO  Utility:119 - value passed
+2019-10-15 16:02:20 INFO  Utility:119 - element is clicked
+2019-10-15 16:02:20 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:02:20 INFO  Utility:119 - value passed
+2019-10-15 16:02:22 INFO  Utility:119 - element is clicked
+2019-10-15 16:02:22 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:02:22 INFO  Utility:119 - value passed
+2019-10-15 16:02:23 INFO  Utility:119 - element is clicked
+2019-10-15 16:02:23 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:02:24 INFO  Utility:119 - value passed
+2019-10-15 16:02:26 INFO  Utility:119 - element is clicked
+2019-10-15 16:02:26 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:02:26 INFO  Utility:119 - value passed
+2019-10-15 16:02:28 INFO  Utility:119 - element is clicked
+2019-10-15 16:02:28 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:02:28 INFO  Utility:119 - value passed
+2019-10-15 16:02:29 INFO  Utility:119 - element is clicked
+2019-10-15 16:02:30 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:02:30 INFO  Utility:119 - current browser closed
+2019-10-15 16:06:32 INFO  Utility:119 - browser opened
+2019-10-15 16:06:45 INFO  Utility:119 - Entered url
+2019-10-15 16:06:46 INFO  Utility:119 - value passed
+2019-10-15 16:06:48 INFO  Utility:119 - element is clicked
+2019-10-15 16:07:18 INFO  Utility:119 - value passed
+2019-10-15 16:07:20 INFO  Utility:119 - element is clicked
+2019-10-15 16:07:51 INFO  Utility:119 - value passed
+2019-10-15 16:07:53 INFO  Utility:119 - element is clicked
+2019-10-15 16:08:23 INFO  Utility:119 - value passed
+2019-10-15 16:08:26 INFO  Utility:119 - element is clicked
+2019-10-15 16:08:53 INFO  Utility:119 - browser opened
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:54 INFO  Utility:119 - value not passed
+2019-10-15 16:08:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:08:58 INFO  Utility:119 - Browser not closed
+2019-10-15 16:09:04 INFO  Utility:119 - Entered url
+2019-10-15 16:09:05 INFO  Utility:119 - value passed
+2019-10-15 16:09:07 INFO  Utility:119 - element is clicked
+2019-10-15 16:09:07 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 16:09:07 INFO  Utility:119 - value passed
+2019-10-15 16:09:09 INFO  Utility:119 - element is clicked
+2019-10-15 16:09:09 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:09:09 INFO  Utility:119 - value passed
+2019-10-15 16:09:11 INFO  Utility:119 - element is clicked
+2019-10-15 16:09:11 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:09:11 INFO  Utility:119 - value passed
+2019-10-15 16:09:13 INFO  Utility:119 - element is clicked
+2019-10-15 16:09:13 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:09:13 INFO  Utility:119 - value passed
+2019-10-15 16:09:15 INFO  Utility:119 - element is clicked
+2019-10-15 16:09:15 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:09:15 INFO  Utility:119 - value passed
+2019-10-15 16:09:17 INFO  Utility:119 - element is clicked
+2019-10-15 16:09:17 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:09:17 INFO  Utility:119 - value passed
+2019-10-15 16:09:19 INFO  Utility:119 - element is clicked
+2019-10-15 16:09:19 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:09:19 INFO  Utility:119 - value passed
+2019-10-15 16:09:21 INFO  Utility:119 - element is clicked
+2019-10-15 16:09:21 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:09:21 INFO  Utility:119 - value passed
+2019-10-15 16:09:22 INFO  Utility:119 - element is clicked
+2019-10-15 16:09:53 INFO  Utility:119 - value passed
+2019-10-15 16:09:55 INFO  Utility:119 - element is clicked
+2019-10-15 16:10:25 INFO  Utility:119 - value passed
+2019-10-15 16:10:27 INFO  Utility:119 - element is clicked
+2019-10-15 16:10:54 INFO  Utility:119 - value not passed
+2019-10-15 16:10:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:10:54 INFO  Utility:119 - value not passed
+2019-10-15 16:10:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:10:54 INFO  Utility:119 - value not passed
+2019-10-15 16:10:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:10:54 INFO  Utility:119 - value not passed
+2019-10-15 16:10:54 INFO  Utility:119 - element not clickable
+2019-10-15 16:10:55 INFO  Utility:119 - value not passed
+2019-10-15 16:10:55 INFO  Utility:119 - element not clickable
+2019-10-15 16:10:59 INFO  Utility:119 - Browser not closed
+2019-10-15 16:13:01 INFO  Utility:119 - browser opened
+2019-10-15 16:13:12 INFO  Utility:119 - Entered url
+2019-10-15 16:13:13 INFO  Utility:119 - value passed
+2019-10-15 16:13:15 INFO  Utility:119 - element is clicked
+2019-10-15 16:13:46 INFO  Utility:119 - value passed
+2019-10-15 16:13:48 INFO  Utility:119 - element is clicked
+2019-10-15 16:14:18 INFO  Utility:119 - value passed
+2019-10-15 16:14:20 INFO  Utility:119 - element is clicked
+2019-10-15 16:14:50 INFO  Utility:119 - value passed
+2019-10-15 16:14:52 INFO  Utility:119 - element is clicked
+2019-10-15 16:15:23 INFO  Utility:119 - value passed
+2019-10-15 16:15:25 INFO  Utility:119 - element is clicked
+2019-10-15 16:15:55 INFO  Utility:119 - value passed
+2019-10-15 16:15:57 INFO  Utility:119 - element is clicked
+2019-10-15 16:16:08 INFO  Utility:119 - value not passed
+2019-10-15 16:16:08 INFO  Utility:119 - element not clickable
+2019-10-15 16:16:08 INFO  Utility:119 - value not passed
+2019-10-15 16:16:08 INFO  Utility:119 - element not clickable
+2019-10-15 16:16:12 INFO  Utility:119 - Browser not closed
+2019-10-15 16:16:14 INFO  Utility:119 - browser opened
+2019-10-15 16:16:26 INFO  Utility:119 - Entered url
+2019-10-15 16:16:57 INFO  Utility:119 - drop down not selected
+2019-10-15 16:16:57 INFO  Utility:119 - value passed
+2019-10-15 16:16:59 INFO  Utility:119 - element is clicked
+2019-10-15 16:18:00 INFO  Utility:119 - drop down not selected
+2019-10-15 16:18:00 INFO  Utility:119 - value passed
+2019-10-15 16:18:02 INFO  Utility:119 - element is clicked
+2019-10-15 16:18:58 INFO  Utility:119 - drop down not selected
+2019-10-15 16:18:58 INFO  Utility:119 - value not passed
+2019-10-15 16:18:58 INFO  Utility:119 - element not clickable
+2019-10-15 16:18:58 INFO  Utility:119 - drop down not selected
+2019-10-15 16:18:58 INFO  Utility:119 - value not passed
+2019-10-15 16:18:58 INFO  Utility:119 - element not clickable
+2019-10-15 16:18:58 INFO  Utility:119 - drop down not selected
+2019-10-15 16:18:58 INFO  Utility:119 - value not passed
+2019-10-15 16:18:58 INFO  Utility:119 - element not clickable
+2019-10-15 16:18:58 INFO  Utility:119 - drop down not selected
+2019-10-15 16:18:58 INFO  Utility:119 - value not passed
+2019-10-15 16:18:59 INFO  Utility:119 - element not clickable
+2019-10-15 16:18:59 INFO  Utility:119 - drop down not selected
+2019-10-15 16:18:59 INFO  Utility:119 - value not passed
+2019-10-15 16:18:59 INFO  Utility:119 - element not clickable
+2019-10-15 16:18:59 INFO  Utility:119 - drop down not selected
+2019-10-15 16:18:59 INFO  Utility:119 - value not passed
+2019-10-15 16:18:59 INFO  Utility:119 - element not clickable
+2019-10-15 16:19:03 INFO  Utility:119 - Browser not closed
+2019-10-15 16:28:08 INFO  Utility:119 - browser opened
+2019-10-15 16:28:19 INFO  Utility:119 - Entered url
+2019-10-15 16:28:50 INFO  Utility:119 - drop down not selected
+2019-10-15 16:28:50 INFO  Utility:119 - value passed
+2019-10-15 16:28:54 INFO  Utility:119 - element is clicked
+2019-10-15 16:28:54 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 16:29:24 INFO  Utility:119 - drop down not selected
+2019-10-15 16:29:24 INFO  Utility:119 - value passed
+2019-10-15 16:29:27 INFO  Utility:119 - element is clicked
+2019-10-15 16:29:27 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:29:57 INFO  Utility:119 - drop down not selected
+2019-10-15 16:29:57 INFO  Utility:119 - value passed
+2019-10-15 16:30:00 INFO  Utility:119 - element is clicked
+2019-10-15 16:30:00 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:30:30 INFO  Utility:119 - drop down not selected
+2019-10-15 16:30:30 INFO  Utility:119 - value passed
+2019-10-15 16:30:33 INFO  Utility:119 - element is clicked
+2019-10-15 16:30:33 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:31:03 INFO  Utility:119 - drop down not selected
+2019-10-15 16:31:03 INFO  Utility:119 - value passed
+2019-10-15 16:31:06 INFO  Utility:119 - element is clicked
+2019-10-15 16:31:06 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:31:36 INFO  Utility:119 - drop down not selected
+2019-10-15 16:31:36 INFO  Utility:119 - value passed
+2019-10-15 16:31:39 INFO  Utility:119 - element is clicked
+2019-10-15 16:31:39 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:32:09 INFO  Utility:119 - drop down not selected
+2019-10-15 16:32:09 INFO  Utility:119 - value passed
+2019-10-15 16:32:12 INFO  Utility:119 - element is clicked
+2019-10-15 16:32:12 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:32:42 INFO  Utility:119 - drop down not selected
+2019-10-15 16:32:42 INFO  Utility:119 - value passed
+2019-10-15 16:32:44 INFO  Utility:119 - element is clicked
+2019-10-15 16:32:45 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:33:15 INFO  Utility:119 - drop down not selected
+2019-10-15 16:33:15 INFO  Utility:119 - value passed
+2019-10-15 16:33:17 INFO  Utility:119 - element is clicked
+2019-10-15 16:34:17 INFO  Utility:119 - drop down not selected
+2019-10-15 16:34:17 INFO  Utility:119 - value passed
+2019-10-15 16:34:19 INFO  Utility:119 - element is clicked
+2019-10-15 16:35:20 INFO  Utility:119 - drop down not selected
+2019-10-15 16:35:20 INFO  Utility:119 - value passed
+2019-10-15 16:35:22 INFO  Utility:119 - element is clicked
+2019-10-15 16:36:22 INFO  Utility:119 - drop down not selected
+2019-10-15 16:36:22 INFO  Utility:119 - value passed
+2019-10-15 16:36:25 INFO  Utility:119 - element is clicked
+2019-10-15 16:37:25 INFO  Utility:119 - drop down not selected
+2019-10-15 16:37:25 INFO  Utility:119 - value passed
+2019-10-15 16:37:27 INFO  Utility:119 - element is clicked
+2019-10-15 16:38:09 INFO  Utility:119 - drop down not selected
+2019-10-15 16:38:11 INFO  Utility:119 - browser opened
+2019-10-15 16:38:21 INFO  Utility:119 - Entered url
+2019-10-15 16:38:23 INFO  Utility:119 - value not passed
+2019-10-15 16:38:38 INFO  Utility:119 - element not clickable
+2019-10-15 16:38:53 INFO  Utility:119 - drop down not selected
+2019-10-15 16:38:53 INFO  Utility:119 - value passed
+2019-10-15 16:38:53 INFO  Utility:119 - element is clicked
+2019-10-15 16:39:06 INFO  Utility:119 - drop down not selected
+2019-10-15 16:39:20 INFO  Utility:119 - value not passed
+2019-10-15 16:39:21 INFO  Utility:119 - drop down not selected
+2019-10-15 16:39:34 INFO  Utility:119 - element not clickable
+2019-10-15 16:39:35 INFO  Utility:119 - browser opened
+2019-10-15 16:39:36 INFO  Utility:119 - value not passed
+2019-10-15 16:39:50 INFO  Utility:119 - element not clickable
+2019-10-15 16:39:51 INFO  Utility:119 - Entered url
+2019-10-15 16:39:53 INFO  Utility:119 - element is clicked
+2019-10-15 16:40:02 INFO  Utility:119 - drop down not selected
+2019-10-15 16:40:16 INFO  Utility:119 - value not passed
+2019-10-15 16:40:18 INFO  Utility:119 - drop down not selected
+2019-10-15 16:40:23 INFO  Utility:119 - drop down not selected
+2019-10-15 16:40:23 INFO  Utility:119 - value passed
+2019-10-15 16:40:26 INFO  Utility:119 - element is clicked
+2019-10-15 16:40:27 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 16:40:27 INFO  Utility:119 - element is clicked
+2019-10-15 16:40:31 INFO  Utility:119 - element not clickable
+2019-10-15 16:40:32 INFO  Utility:119 - value not passed
+2019-10-15 16:40:45 INFO  Utility:119 - Browser not closed
+2019-10-15 16:40:46 INFO  Utility:119 - element not clickable
+2019-10-15 16:40:57 INFO  Utility:119 - drop down not selected
+2019-10-15 16:40:57 INFO  Utility:119 - value passed
+2019-10-15 16:41:00 INFO  Utility:119 - element is clicked
+2019-10-15 16:41:00 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:41:01 INFO  Utility:119 - element is clicked
+2019-10-15 16:41:15 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:29 INFO  Utility:119 - value not passed
+2019-10-15 16:41:31 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:31 INFO  Utility:119 - value passed
+2019-10-15 16:41:34 INFO  Utility:119 - element is clicked
+2019-10-15 16:41:34 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:41:34 INFO  Utility:119 - element is clicked
+2019-10-15 16:41:40 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:40 INFO  Utility:119 - value not passed
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:40 INFO  Utility:119 - value not passed
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:40 INFO  Utility:119 - value not passed
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:40 INFO  Utility:119 - value not passed
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:40 INFO  Utility:119 - value not passed
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:40 INFO  Utility:119 - value not passed
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:40 INFO  Utility:119 - value not passed
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:40 INFO  Utility:119 - value not passed
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:40 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:40 INFO  Utility:119 - value not passed
+2019-10-15 16:41:41 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:41 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:41 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:41 INFO  Utility:119 - value not passed
+2019-10-15 16:41:41 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:41 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:41 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:41 INFO  Utility:119 - value not passed
+2019-10-15 16:41:41 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:41 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:41 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:41 INFO  Utility:119 - value not passed
+2019-10-15 16:41:41 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:41 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:41 INFO  Utility:119 - drop down not selected
+2019-10-15 16:41:41 INFO  Utility:119 - value not passed
+2019-10-15 16:41:41 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:43 INFO  Utility:119 - element not clickable
+2019-10-15 16:41:45 INFO  Utility:119 - Browser not closed
+2019-10-15 16:42:11 INFO  Utility:119 - drop down not selected
+2019-10-15 16:43:26 INFO  Utility:119 - browser opened
+2019-10-15 16:43:38 INFO  Utility:119 - Entered url
+2019-10-15 16:43:39 INFO  Utility:119 - value passed
+2019-10-15 16:43:40 INFO  Utility:119 - value passed
+2019-10-15 16:43:42 INFO  Utility:119 - element is clicked
+2019-10-15 16:43:42 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 16:43:42 INFO  Utility:119 - value passed
+2019-10-15 16:43:42 INFO  Utility:119 - value passed
+2019-10-15 16:43:45 INFO  Utility:119 - element is clicked
+2019-10-15 16:43:45 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:43:45 INFO  Utility:119 - value passed
+2019-10-15 16:43:45 INFO  Utility:119 - value passed
+2019-10-15 16:43:49 INFO  Utility:119 - element is clicked
+2019-10-15 16:43:49 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:43:49 INFO  Utility:119 - value passed
+2019-10-15 16:43:50 INFO  Utility:119 - value passed
+2019-10-15 16:43:52 INFO  Utility:119 - element is clicked
+2019-10-15 16:43:52 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:43:52 INFO  Utility:119 - value passed
+2019-10-15 16:43:52 INFO  Utility:119 - value passed
+2019-10-15 16:43:55 INFO  Utility:119 - element is clicked
+2019-10-15 16:43:55 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:43:55 INFO  Utility:119 - value passed
+2019-10-15 16:43:55 INFO  Utility:119 - value passed
+2019-10-15 16:43:57 INFO  Utility:119 - element is clicked
+2019-10-15 16:43:57 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:43:57 INFO  Utility:119 - value passed
+2019-10-15 16:43:57 INFO  Utility:119 - value passed
+2019-10-15 16:43:59 INFO  Utility:119 - element is clicked
+2019-10-15 16:43:59 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:43:59 INFO  Utility:119 - value passed
+2019-10-15 16:44:00 INFO  Utility:119 - value passed
+2019-10-15 16:44:02 INFO  Utility:119 - element is clicked
+2019-10-15 16:44:02 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:44:02 INFO  Utility:119 - value passed
+2019-10-15 16:44:33 INFO  Utility:119 - drop down not selected
+2019-10-15 16:44:33 INFO  Utility:119 - value passed
+2019-10-15 16:44:35 INFO  Utility:119 - element is clicked
+2019-10-15 16:45:05 INFO  Utility:119 - value passed
+2019-10-15 16:45:35 INFO  Utility:119 - drop down not selected
+2019-10-15 16:45:35 INFO  Utility:119 - value passed
+2019-10-15 16:45:37 INFO  Utility:119 - element is clicked
+2019-10-15 16:46:08 INFO  Utility:119 - value passed
+2019-10-15 16:46:38 INFO  Utility:119 - drop down not selected
+2019-10-15 16:46:38 INFO  Utility:119 - value passed
+2019-10-15 16:46:40 INFO  Utility:119 - element is clicked
+2019-10-15 16:47:10 INFO  Utility:119 - value passed
+2019-10-15 16:47:40 INFO  Utility:119 - drop down not selected
+2019-10-15 16:47:40 INFO  Utility:119 - value passed
+2019-10-15 16:47:43 INFO  Utility:119 - element is clicked
+2019-10-15 16:48:13 INFO  Utility:119 - value passed
+2019-10-15 16:48:36 INFO  Utility:119 - drop down not selected
+2019-10-15 16:48:50 INFO  Utility:119 - value not passed
+2019-10-15 16:48:58 INFO  Utility:119 - browser opened
+2019-10-15 16:49:04 INFO  Utility:119 - element not clickable
+2019-10-15 16:49:08 INFO  Utility:119 - Entered url
+2019-10-15 16:49:09 INFO  Utility:119 - value passed
+2019-10-15 16:49:10 INFO  Utility:119 - value passed
+2019-10-15 16:49:12 INFO  Utility:119 - element is clicked
+2019-10-15 16:49:12 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 16:49:12 INFO  Utility:119 - value passed
+2019-10-15 16:49:12 INFO  Utility:119 - value passed
+2019-10-15 16:49:14 INFO  Utility:119 - element is clicked
+2019-10-15 16:49:14 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:49:14 INFO  Utility:119 - value passed
+2019-10-15 16:49:14 INFO  Utility:119 - value passed
+2019-10-15 16:49:16 INFO  Utility:119 - element is clicked
+2019-10-15 16:49:16 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:49:16 INFO  Utility:119 - value passed
+2019-10-15 16:49:16 INFO  Utility:119 - value passed
+2019-10-15 16:49:18 INFO  Utility:119 - element is clicked
+2019-10-15 16:49:18 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:49:19 INFO  Utility:119 - value passed
+2019-10-15 16:49:19 INFO  Utility:119 - value passed
+2019-10-15 16:49:21 INFO  Utility:119 - element is clicked
+2019-10-15 16:49:21 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:49:21 INFO  Utility:119 - value passed
+2019-10-15 16:49:21 INFO  Utility:119 - value passed
+2019-10-15 16:49:23 INFO  Utility:119 - element is clicked
+2019-10-15 16:49:23 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:49:23 INFO  Utility:119 - value passed
+2019-10-15 16:49:23 INFO  Utility:119 - value passed
+2019-10-15 16:49:25 INFO  Utility:119 - element is clicked
+2019-10-15 16:49:25 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:49:25 INFO  Utility:119 - value passed
+2019-10-15 16:49:25 INFO  Utility:119 - value passed
+2019-10-15 16:49:27 INFO  Utility:119 - element is clicked
+2019-10-15 16:49:27 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:49:27 INFO  Utility:119 - value passed
+2019-10-15 16:49:32 INFO  Utility:119 - value not passed
+2019-10-15 16:49:46 INFO  Utility:119 - drop down not selected
+2019-10-15 16:49:57 INFO  Utility:119 - drop down not selected
+2019-10-15 16:49:58 INFO  Utility:119 - value passed
+2019-10-15 16:50:00 INFO  Utility:119 - element is clicked
+2019-10-15 16:50:30 INFO  Utility:119 - value passed
+2019-10-15 16:51:00 INFO  Utility:119 - drop down not selected
+2019-10-15 16:51:00 INFO  Utility:119 - value passed
+2019-10-15 16:51:02 INFO  Utility:119 - element is clicked
+2019-10-15 16:51:32 INFO  Utility:119 - value passed
+2019-10-15 16:51:38 INFO  Utility:119 - browser opened
+2019-10-15 16:51:49 INFO  Utility:119 - Entered url
+2019-10-15 16:51:50 INFO  Utility:119 - value passed
+2019-10-15 16:51:50 INFO  Utility:119 - value passed
+2019-10-15 16:51:52 INFO  Utility:119 - element is clicked
+2019-10-15 16:51:52 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 16:51:52 INFO  Utility:119 - value passed
+2019-10-15 16:51:52 INFO  Utility:119 - value passed
+2019-10-15 16:51:54 INFO  Utility:119 - element is clicked
+2019-10-15 16:51:54 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:51:54 INFO  Utility:119 - value passed
+2019-10-15 16:51:54 INFO  Utility:119 - value passed
+2019-10-15 16:51:56 INFO  Utility:119 - element is clicked
+2019-10-15 16:51:56 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:51:56 INFO  Utility:119 - value passed
+2019-10-15 16:51:56 INFO  Utility:119 - value passed
+2019-10-15 16:51:58 INFO  Utility:119 - element is clicked
+2019-10-15 16:51:58 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:51:58 INFO  Utility:119 - value passed
+2019-10-15 16:51:58 INFO  Utility:119 - value passed
+2019-10-15 16:51:59 INFO  Utility:119 - element is clicked
+2019-10-15 16:51:59 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:52:00 INFO  Utility:119 - value passed
+2019-10-15 16:52:00 INFO  Utility:119 - value passed
+2019-10-15 16:52:01 INFO  Utility:119 - element is clicked
+2019-10-15 16:52:01 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:52:02 INFO  Utility:119 - value passed
+2019-10-15 16:52:02 INFO  Utility:119 - value passed
+2019-10-15 16:52:02 INFO  Utility:119 - drop down not selected
+2019-10-15 16:52:03 INFO  Utility:119 - value passed
+2019-10-15 16:52:04 INFO  Utility:119 - element is clicked
+2019-10-15 16:52:04 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:52:04 INFO  Utility:119 - value passed
+2019-10-15 16:52:04 INFO  Utility:119 - value passed
+2019-10-15 16:52:05 INFO  Utility:119 - element is clicked
+2019-10-15 16:52:06 INFO  Utility:119 - element is clicked
+2019-10-15 16:52:06 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:52:06 INFO  Utility:119 - value passed
+2019-10-15 16:52:07 INFO  Utility:119 - value passed
+2019-10-15 16:52:08 INFO  Utility:119 - element is clicked
+2019-10-15 16:52:35 INFO  Utility:119 - value passed
+2019-10-15 16:52:38 INFO  Utility:119 - value passed
+2019-10-15 16:52:38 INFO  Utility:119 - value passed
+2019-10-15 16:52:40 INFO  Utility:119 - element is clicked
+2019-10-15 16:53:05 INFO  Utility:119 - drop down not selected
+2019-10-15 16:53:05 INFO  Utility:119 - value passed
+2019-10-15 16:53:07 INFO  Utility:119 - element is clicked
+2019-10-15 16:53:10 INFO  Utility:119 - value passed
+2019-10-15 16:53:10 INFO  Utility:119 - value passed
+2019-10-15 16:53:12 INFO  Utility:119 - element is clicked
+2019-10-15 16:53:38 INFO  Utility:119 - value passed
+2019-10-15 16:53:42 INFO  Utility:119 - value passed
+2019-10-15 16:53:42 INFO  Utility:119 - value passed
+2019-10-15 16:53:44 INFO  Utility:119 - element is clicked
+2019-10-15 16:54:08 INFO  Utility:119 - drop down not selected
+2019-10-15 16:54:08 INFO  Utility:119 - value passed
+2019-10-15 16:54:10 INFO  Utility:119 - element is clicked
+2019-10-15 16:54:14 INFO  Utility:119 - value passed
+2019-10-15 16:54:15 INFO  Utility:119 - value passed
+2019-10-15 16:54:16 INFO  Utility:119 - element is clicked
+2019-10-15 16:54:40 INFO  Utility:119 - value passed
+2019-10-15 16:54:47 INFO  Utility:119 - value passed
+2019-10-15 16:54:47 INFO  Utility:119 - value passed
+2019-10-15 16:54:48 INFO  Utility:119 - element is clicked
+2019-10-15 16:55:10 INFO  Utility:119 - drop down not selected
+2019-10-15 16:55:11 INFO  Utility:119 - value passed
+2019-10-15 16:55:13 INFO  Utility:119 - element is clicked
+2019-10-15 16:55:19 INFO  Utility:119 - value passed
+2019-10-15 16:55:19 INFO  Utility:119 - value passed
+2019-10-15 16:55:21 INFO  Utility:119 - element is clicked
+2019-10-15 16:55:41 INFO  Utility:119 - value not passed
+2019-10-15 16:55:41 INFO  Utility:119 - value not passed
+2019-10-15 16:55:41 INFO  Utility:119 - element not clickable
+2019-10-15 16:55:43 INFO  Utility:119 - value passed
+2019-10-15 16:55:45 INFO  Utility:119 - Browser not closed
+2019-10-15 16:55:48 INFO  Utility:119 - drop down not selected
+2019-10-15 16:56:02 INFO  Utility:119 - value not passed
+2019-10-15 16:56:10 INFO  Utility:119 - browser opened
+2019-10-15 16:56:16 INFO  Utility:119 - element not clickable
+2019-10-15 16:56:21 INFO  Utility:119 - Entered url
+2019-10-15 16:56:22 INFO  Utility:119 - value passed
+2019-10-15 16:56:22 INFO  Utility:119 - value passed
+2019-10-15 16:56:24 INFO  Utility:119 - element is clicked
+2019-10-15 16:56:24 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 16:56:25 INFO  Utility:119 - value passed
+2019-10-15 16:56:25 INFO  Utility:119 - value passed
+2019-10-15 16:56:27 INFO  Utility:119 - element is clicked
+2019-10-15 16:56:27 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:56:27 INFO  Utility:119 - value passed
+2019-10-15 16:56:27 INFO  Utility:119 - value passed
+2019-10-15 16:56:29 INFO  Utility:119 - element is clicked
+2019-10-15 16:56:29 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:56:29 INFO  Utility:119 - value passed
+2019-10-15 16:56:29 INFO  Utility:119 - value passed
+2019-10-15 16:56:31 INFO  Utility:119 - element is clicked
+2019-10-15 16:56:31 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:56:31 INFO  Utility:119 - value passed
+2019-10-15 16:56:31 INFO  Utility:119 - value passed
+2019-10-15 16:56:33 INFO  Utility:119 - element is clicked
+2019-10-15 16:56:33 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:56:33 INFO  Utility:119 - value passed
+2019-10-15 16:56:33 INFO  Utility:119 - value passed
+2019-10-15 16:56:35 INFO  Utility:119 - element is clicked
+2019-10-15 16:56:35 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:56:35 INFO  Utility:119 - value passed
+2019-10-15 16:56:35 INFO  Utility:119 - value passed
+2019-10-15 16:56:37 INFO  Utility:119 - element is clicked
+2019-10-15 16:56:37 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:56:37 INFO  Utility:119 - value passed
+2019-10-15 16:56:37 INFO  Utility:119 - value passed
+2019-10-15 16:56:39 INFO  Utility:119 - element is clicked
+2019-10-15 16:56:39 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 16:56:39 INFO  Utility:119 - value passed
+2019-10-15 16:56:39 INFO  Utility:119 - value passed
+2019-10-15 16:56:41 INFO  Utility:119 - element is clicked
+2019-10-15 16:56:44 INFO  Utility:119 - value not passed
+2019-10-15 16:56:58 INFO  Utility:119 - drop down not selected
+2019-10-15 16:57:11 INFO  Utility:119 - value passed
+2019-10-15 16:57:11 INFO  Utility:119 - value passed
+2019-10-15 16:57:12 INFO  Utility:119 - value not passed
+2019-10-15 16:57:13 INFO  Utility:119 - element is clicked
+2019-10-15 16:57:26 INFO  Utility:119 - element not clickable
+2019-10-15 16:57:41 INFO  Utility:119 - Browser not closed
+2019-10-15 16:57:44 INFO  Utility:119 - value passed
+2019-10-15 16:57:44 INFO  Utility:119 - value passed
+2019-10-15 16:57:46 INFO  Utility:119 - element is clicked
+2019-10-15 16:58:16 INFO  Utility:119 - value passed
+2019-10-15 16:58:16 INFO  Utility:119 - value passed
+2019-10-15 16:58:18 INFO  Utility:119 - element is clicked
+2019-10-15 16:58:48 INFO  Utility:119 - value passed
+2019-10-15 16:58:48 INFO  Utility:119 - value passed
+2019-10-15 16:58:51 INFO  Utility:119 - element is clicked
+2019-10-15 16:59:21 INFO  Utility:119 - value passed
+2019-10-15 16:59:21 INFO  Utility:119 - value passed
+2019-10-15 16:59:23 INFO  Utility:119 - element is clicked
+2019-10-15 16:59:49 INFO  Utility:119 - browser opened
+2019-10-15 16:59:53 INFO  Utility:119 - value passed
+2019-10-15 16:59:53 INFO  Utility:119 - value passed
+2019-10-15 16:59:55 INFO  Utility:119 - element is clicked
+2019-10-15 16:59:56 INFO  Utility:119 - Entered url
+2019-10-15 17:00:13 INFO  Utility:119 - value passed
+2019-10-15 17:00:26 INFO  Utility:119 - value passed
+2019-10-15 17:00:26 INFO  Utility:119 - value passed
+2019-10-15 17:00:28 INFO  Utility:119 - element is clicked
+2019-10-15 17:00:48 INFO  Utility:119 - value passed
+2019-10-15 17:00:50 INFO  Utility:119 - element is clicked
+2019-10-15 17:00:58 INFO  Utility:119 - current browser closed
+2019-10-15 17:03:00 INFO  Utility:119 - value passed
+2019-10-15 17:04:01 INFO  Utility:119 - value passed
+2019-10-15 17:04:04 INFO  Utility:119 - element is clicked
+2019-10-15 17:04:04 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 17:04:29 INFO  Utility:119 - value passed
+2019-10-15 17:05:30 INFO  Utility:119 - value passed
+2019-10-15 17:05:33 INFO  Utility:119 - element is clicked
+2019-10-15 17:06:54 INFO  Utility:119 - value passed
+2019-10-15 17:07:54 INFO  Utility:119 - value passed
+2019-10-15 17:08:04 INFO  Utility:119 - element is clicked
+2019-10-15 17:09:15 INFO  Utility:119 - value passed
+2019-10-15 17:09:51 INFO  Utility:119 - value passed
+2019-10-15 17:09:55 INFO  Utility:119 - element is clicked
+2019-10-15 17:11:20 INFO  Utility:119 - value passed
+2019-10-15 17:12:36 INFO  Utility:119 - value passed
+2019-10-15 17:12:40 INFO  Utility:119 - element is clicked
+2019-10-15 17:14:16 INFO  Utility:119 - value passed
+2019-10-15 17:15:42 INFO  Utility:119 - value passed
+2019-10-15 17:15:46 INFO  Utility:119 - element is clicked
+2019-10-15 17:16:42 INFO  Utility:119 - value passed
+2019-10-15 17:18:03 INFO  Utility:119 - value passed
+2019-10-15 17:18:06 INFO  Utility:119 - element is clicked
+2019-10-15 17:18:53 INFO  Utility:119 - value passed
+2019-10-15 17:19:18 INFO  Utility:119 - value passed
+2019-10-15 17:19:22 INFO  Utility:119 - element is clicked
+2019-10-15 17:21:34 INFO  Utility:119 - value passed
+2019-10-15 17:21:49 INFO  Utility:119 - value passed
+2019-10-15 17:21:54 INFO  Utility:119 - element is clicked
+2019-10-15 17:22:49 INFO  Utility:119 - value passed
+2019-10-15 17:23:10 INFO  Utility:119 - value passed
+2019-10-15 17:23:13 INFO  Utility:119 - element is clicked
+2019-10-15 17:24:34 INFO  Utility:119 - value passed
+2019-10-15 17:25:00 INFO  Utility:119 - value passed
+2019-10-15 17:25:04 INFO  Utility:119 - element is clicked
+2019-10-15 17:26:15 INFO  Utility:119 - value passed
+2019-10-15 17:26:46 INFO  Utility:119 - value passed
+2019-10-15 17:26:50 INFO  Utility:119 - element is clicked
+2019-10-15 17:28:16 INFO  Utility:119 - value passed
+2019-10-15 17:28:42 INFO  Utility:119 - value passed
+2019-10-15 17:28:45 INFO  Utility:119 - element is clicked
+2019-10-15 17:30:22 INFO  Utility:119 - value passed
+2019-10-15 17:30:43 INFO  Utility:119 - value passed
+2019-10-15 17:30:47 INFO  Utility:119 - element is clicked
+2019-10-15 17:31:43 INFO  Utility:119 - value passed
+2019-10-15 17:32:09 INFO  Utility:119 - value passed
+2019-10-15 17:32:14 INFO  Utility:119 - element is clicked
+2019-10-15 17:32:44 INFO  Utility:119 - current browser closed
+2019-10-15 18:18:19 INFO  Utility:119 - browser opened
+2019-10-15 18:18:22 INFO  Utility:119 - Entered url
+2019-10-15 18:18:22 INFO  Utility:119 - element not clickable
+2019-10-15 18:20:29 INFO  Utility:119 - browser opened
+2019-10-15 18:20:33 INFO  Utility:119 - Entered url
+2019-10-15 18:20:34 INFO  Utility:119 - element is clicked
+2019-10-15 18:21:11 INFO  Utility:119 - browser opened
+2019-10-15 18:21:20 INFO  Utility:119 - Entered url
+2019-10-15 18:21:20 INFO  Utility:119 - element is clicked
+2019-10-15 18:21:40 INFO  Utility:119 - browser opened
+2019-10-15 18:21:48 INFO  Utility:119 - Entered url
+2019-10-15 18:21:49 INFO  Utility:119 - element is clicked
+2019-10-15 18:31:14 INFO  Utility:119 - browser opened
+2019-10-15 18:31:25 INFO  Utility:119 - Entered url
+2019-10-15 18:44:55 INFO  Utility:119 - browser opened
+2019-10-15 18:45:08 INFO  Utility:119 - Entered url
+2019-10-15 18:47:39 INFO  Utility:119 - browser opened
+2019-10-15 18:47:53 INFO  Utility:119 - Entered url
+2019-10-15 18:47:54 INFO  Utility:119 - element is clicked
+2019-10-15 18:53:24 INFO  Utility:119 - browser opened
+2019-10-15 18:53:42 INFO  Utility:119 - Entered url
+2019-10-15 18:53:42 INFO  Utility:119 - element is clicked
+2019-10-15 18:56:05 INFO  Utility:119 - browser opened
+2019-10-15 18:56:20 INFO  Utility:119 - Entered url
+2019-10-15 18:56:21 INFO  Utility:119 - element is clicked
+2019-10-15 19:09:09 INFO  Utility:119 - browser opened
+2019-10-15 19:09:33 INFO  Utility:119 - Entered url
+2019-10-15 19:09:33 INFO  Utility:119 - element is clicked
+2019-10-15 19:33:52 INFO  Utility:119 - browser opened
+2019-10-15 19:34:00 INFO  Utility:119 - Entered url
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:18 INFO  Utility:119 - value not passed
+2019-10-15 19:34:19 INFO  Utility:119 - value not passed
+2019-10-15 19:34:19 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:19 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:19 INFO  Utility:119 - value not passed
+2019-10-15 19:34:19 INFO  Utility:119 - value not passed
+2019-10-15 19:34:19 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:19 INFO  Utility:119 - element not clickable
+2019-10-15 19:34:23 INFO  Utility:119 - Browser not closed
+2019-10-15 19:34:34 INFO  Utility:119 - browser opened
+2019-10-15 19:35:13 INFO  Utility:119 - Entered url
+2019-10-15 19:35:44 INFO  Utility:119 - value not passed
+2019-10-15 19:36:14 INFO  Utility:119 - value not passed
+2019-10-15 19:36:44 INFO  Utility:119 - element not clickable
+2019-10-15 19:37:14 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:14 INFO  Utility:119 - value not passed
+2019-10-15 19:38:44 INFO  Utility:119 - value not passed
+2019-10-15 19:38:46 INFO  Utility:119 - browser opened
+2019-10-15 19:38:49 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:49 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:49 INFO  Utility:119 - value not passed
+2019-10-15 19:38:49 INFO  Utility:119 - value not passed
+2019-10-15 19:38:49 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:49 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:49 INFO  Utility:119 - value not passed
+2019-10-15 19:38:49 INFO  Utility:119 - value not passed
+2019-10-15 19:38:49 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:49 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - value not passed
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:50 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:52 INFO  Utility:119 - Entered url
+2019-10-15 19:38:53 INFO  Utility:119 - value not passed
+2019-10-15 19:38:53 INFO  Utility:119 - value not passed
+2019-10-15 19:38:53 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:53 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:53 INFO  Utility:119 - value not passed
+2019-10-15 19:38:53 INFO  Utility:119 - value not passed
+2019-10-15 19:38:53 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:53 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:53 INFO  Utility:119 - value not passed
+2019-10-15 19:38:53 INFO  Utility:119 - value not passed
+2019-10-15 19:38:53 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:53 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:53 INFO  Utility:119 - value not passed
+2019-10-15 19:38:53 INFO  Utility:119 - value not passed
+2019-10-15 19:38:53 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:53 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - value not passed
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - element not clickable
+2019-10-15 19:38:54 INFO  Utility:119 - Browser not closed
+2019-10-15 19:38:58 INFO  Utility:119 - Browser not closed
+2019-10-15 19:40:01 INFO  Utility:119 - browser opened
+2019-10-15 19:40:12 INFO  Utility:119 - Entered url
+2019-10-15 19:40:13 INFO  Utility:119 - value passed
+2019-10-15 19:40:13 INFO  Utility:119 - value passed
+2019-10-15 19:40:15 INFO  Utility:119 - element is clicked
+2019-10-15 19:40:18 INFO  Utility:119 - element is clicked
+2019-10-15 19:40:48 INFO  Utility:119 - value passed
+2019-10-15 19:40:48 INFO  Utility:119 - value passed
+2019-10-15 19:40:51 INFO  Utility:119 - element is clicked
+2019-10-15 19:40:53 INFO  Utility:119 - element is clicked
+2019-10-15 19:41:23 INFO  Utility:119 - value passed
+2019-10-15 19:41:23 INFO  Utility:119 - value passed
+2019-10-15 19:41:25 INFO  Utility:119 - element is clicked
+2019-10-15 19:41:27 INFO  Utility:119 - element is clicked
+2019-10-15 19:41:31 INFO  Utility:119 - value not passed
+2019-10-15 19:41:31 INFO  Utility:119 - value not passed
+2019-10-15 19:41:31 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:31 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:31 INFO  Utility:119 - value not passed
+2019-10-15 19:41:31 INFO  Utility:119 - value not passed
+2019-10-15 19:41:31 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:31 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:31 INFO  Utility:119 - value not passed
+2019-10-15 19:41:31 INFO  Utility:119 - value not passed
+2019-10-15 19:41:31 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:31 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:31 INFO  Utility:119 - value not passed
+2019-10-15 19:41:31 INFO  Utility:119 - value not passed
+2019-10-15 19:41:31 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:31 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:31 INFO  Utility:119 - value not passed
+2019-10-15 19:41:31 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - value not passed
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:32 INFO  Utility:119 - element not clickable
+2019-10-15 19:41:36 INFO  Utility:119 - Browser not closed
+2019-10-15 19:41:47 INFO  Utility:119 - browser opened
+2019-10-15 19:41:59 INFO  Utility:119 - Entered url
+2019-10-15 19:42:00 INFO  Utility:119 - value passed
+2019-10-15 19:42:01 INFO  Utility:119 - value passed
+2019-10-15 19:42:02 INFO  Utility:119 - element is clicked
+2019-10-15 19:42:05 INFO  Utility:119 - element is clicked
+2019-10-15 19:42:35 INFO  Utility:119 - value passed
+2019-10-15 19:42:36 INFO  Utility:119 - value passed
+2019-10-15 19:42:38 INFO  Utility:119 - element is clicked
+2019-10-15 19:42:40 INFO  Utility:119 - element is clicked
+2019-10-15 19:43:10 INFO  Utility:119 - value passed
+2019-10-15 19:43:10 INFO  Utility:119 - value passed
+2019-10-15 19:43:13 INFO  Utility:119 - element is clicked
+2019-10-15 19:43:15 INFO  Utility:119 - element is clicked
+2019-10-15 19:43:45 INFO  Utility:119 - value passed
+2019-10-15 19:43:45 INFO  Utility:119 - value passed
+2019-10-15 19:43:47 INFO  Utility:119 - element is clicked
+2019-10-15 19:43:49 INFO  Utility:119 - element is clicked
+2019-10-15 19:44:19 INFO  Utility:119 - value passed
+2019-10-15 19:44:20 INFO  Utility:119 - value passed
+2019-10-15 19:44:22 INFO  Utility:119 - element is clicked
+2019-10-15 19:44:23 INFO  Utility:119 - element is clicked
+2019-10-15 19:44:54 INFO  Utility:119 - value passed
+2019-10-15 19:44:54 INFO  Utility:119 - value passed
+2019-10-15 19:44:56 INFO  Utility:119 - element is clicked
+2019-10-15 19:44:58 INFO  Utility:119 - element is clicked
+2019-10-15 19:45:28 INFO  Utility:119 - value passed
+2019-10-15 19:45:28 INFO  Utility:119 - value passed
+2019-10-15 19:45:31 INFO  Utility:119 - element is clicked
+2019-10-15 19:45:32 INFO  Utility:119 - element is clicked
+2019-10-15 19:46:02 INFO  Utility:119 - value passed
+2019-10-15 19:46:02 INFO  Utility:119 - value passed
+2019-10-15 19:46:05 INFO  Utility:119 - element is clicked
+2019-10-15 19:46:07 INFO  Utility:119 - element is clicked
+2019-10-15 19:46:37 INFO  Utility:119 - value passed
+2019-10-15 19:46:37 INFO  Utility:119 - value passed
+2019-10-15 19:46:40 INFO  Utility:119 - element is clicked
+2019-10-15 19:46:42 INFO  Utility:119 - element is clicked
+2019-10-15 19:47:12 INFO  Utility:119 - value passed
+2019-10-15 19:47:12 INFO  Utility:119 - value passed
+2019-10-15 19:47:14 INFO  Utility:119 - element is clicked
+2019-10-15 19:47:16 INFO  Utility:119 - element is clicked
+2019-10-15 19:47:46 INFO  Utility:119 - value passed
+2019-10-15 19:47:47 INFO  Utility:119 - value passed
+2019-10-15 19:47:49 INFO  Utility:119 - element is clicked
+2019-10-15 19:47:50 INFO  Utility:119 - element is clicked
+2019-10-15 19:48:21 INFO  Utility:119 - value passed
+2019-10-15 19:48:21 INFO  Utility:119 - value passed
+2019-10-15 19:48:23 INFO  Utility:119 - element is clicked
+2019-10-15 19:48:24 INFO  Utility:119 - element is clicked
+2019-10-15 19:48:54 INFO  Utility:119 - value passed
+2019-10-15 19:48:54 INFO  Utility:119 - value passed
+2019-10-15 19:48:57 INFO  Utility:119 - element is clicked
+2019-10-15 19:48:59 INFO  Utility:119 - element is clicked
+2019-10-15 19:49:29 INFO  Utility:119 - value passed
+2019-10-15 19:49:29 INFO  Utility:119 - value passed
+2019-10-15 19:49:31 INFO  Utility:119 - element is clicked
+2019-10-15 19:49:32 INFO  Utility:119 - element is clicked
+2019-10-15 19:50:03 INFO  Utility:119 - value passed
+2019-10-15 19:50:03 INFO  Utility:119 - value passed
+2019-10-15 19:50:05 INFO  Utility:119 - element is clicked
+2019-10-15 19:50:07 INFO  Utility:119 - element is clicked
+2019-10-15 19:50:37 INFO  Utility:119 - value passed
+2019-10-15 19:50:37 INFO  Utility:119 - value passed
+2019-10-15 19:50:40 INFO  Utility:119 - element is clicked
+2019-10-15 19:50:42 INFO  Utility:119 - element is clicked
+2019-10-15 19:51:12 INFO  Utility:119 - current browser closed
+2019-10-15 19:58:53 INFO  Utility:119 - browser opened
+2019-10-15 19:59:07 INFO  Utility:119 - Entered url
+2019-10-15 19:59:08 INFO  Utility:119 - value passed
+2019-10-15 19:59:08 INFO  Utility:119 - value passed
+2019-10-15 19:59:10 INFO  Utility:119 - element is clicked
+2019-10-15 19:59:10 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 19:59:10 INFO  Utility:119 - value passed
+2019-10-15 19:59:11 INFO  Utility:119 - value passed
+2019-10-15 19:59:12 INFO  Utility:119 - element is clicked
+2019-10-15 19:59:12 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 19:59:12 INFO  Utility:119 - value passed
+2019-10-15 19:59:13 INFO  Utility:119 - value passed
+2019-10-15 19:59:14 INFO  Utility:119 - element is clicked
+2019-10-15 19:59:14 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 19:59:14 INFO  Utility:119 - value passed
+2019-10-15 19:59:14 INFO  Utility:119 - value passed
+2019-10-15 19:59:16 INFO  Utility:119 - element is clicked
+2019-10-15 19:59:16 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 19:59:16 INFO  Utility:119 - value passed
+2019-10-15 19:59:16 INFO  Utility:119 - value passed
+2019-10-15 19:59:18 INFO  Utility:119 - element is clicked
+2019-10-15 19:59:18 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 19:59:18 INFO  Utility:119 - value passed
+2019-10-15 19:59:18 INFO  Utility:119 - value passed
+2019-10-15 19:59:20 INFO  Utility:119 - element is clicked
+2019-10-15 19:59:20 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 19:59:20 INFO  Utility:119 - value passed
+2019-10-15 19:59:20 INFO  Utility:119 - value passed
+2019-10-15 19:59:22 INFO  Utility:119 - element is clicked
+2019-10-15 19:59:22 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 19:59:22 INFO  Utility:119 - value passed
+2019-10-15 19:59:22 INFO  Utility:119 - value passed
+2019-10-15 19:59:24 INFO  Utility:119 - element is clicked
+2019-10-15 19:59:24 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 19:59:24 INFO  Utility:119 - value passed
+2019-10-15 19:59:24 INFO  Utility:119 - value passed
+2019-10-15 19:59:25 INFO  Utility:119 - element is clicked
+2019-10-15 19:59:27 INFO  Utility:119 - element is clicked
+2019-10-15 19:59:58 INFO  Utility:119 - value passed
+2019-10-15 19:59:58 INFO  Utility:119 - value passed
+2019-10-15 20:00:00 INFO  Utility:119 - element is clicked
+2019-10-15 20:00:01 INFO  Utility:119 - element is clicked
+2019-10-15 20:00:32 INFO  Utility:119 - value passed
+2019-10-15 20:00:32 INFO  Utility:119 - value passed
+2019-10-15 20:00:34 INFO  Utility:119 - element is clicked
+2019-10-15 20:00:35 INFO  Utility:119 - element is clicked
+2019-10-15 20:01:06 INFO  Utility:119 - value passed
+2019-10-15 20:01:06 INFO  Utility:119 - value passed
+2019-10-15 20:01:07 INFO  Utility:119 - element is clicked
+2019-10-15 20:01:09 INFO  Utility:119 - element is clicked
+2019-10-15 20:01:39 INFO  Utility:119 - value passed
+2019-10-15 20:01:40 INFO  Utility:119 - value passed
+2019-10-15 20:01:41 INFO  Utility:119 - element is clicked
+2019-10-15 20:01:44 INFO  Utility:119 - element is clicked
+2019-10-15 20:02:14 INFO  Utility:119 - value passed
+2019-10-15 20:02:14 INFO  Utility:119 - value passed
+2019-10-15 20:02:16 INFO  Utility:119 - element is clicked
+2019-10-15 20:02:17 INFO  Utility:119 - element is clicked
+2019-10-15 20:02:47 INFO  Utility:119 - value passed
+2019-10-15 20:02:48 INFO  Utility:119 - value passed
+2019-10-15 20:02:49 INFO  Utility:119 - element is clicked
+2019-10-15 20:02:51 INFO  Utility:119 - element is clicked
+2019-10-15 20:03:21 INFO  Utility:119 - value passed
+2019-10-15 20:03:21 INFO  Utility:119 - value passed
+2019-10-15 20:03:23 INFO  Utility:119 - element is clicked
+2019-10-15 20:03:25 INFO  Utility:119 - element is clicked
+2019-10-15 20:03:56 INFO  Utility:119 - current browser closed
+2019-10-15 20:32:00 INFO  Utility:119 - browser opened
+2019-10-15 20:32:11 INFO  Utility:119 - Entered url
+2019-10-15 20:32:12 INFO  Utility:119 - value passed
+2019-10-15 20:32:12 INFO  Utility:119 - value passed
+2019-10-15 20:32:14 INFO  Utility:119 - element is clicked
+2019-10-15 20:32:14 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 20:32:14 INFO  Utility:119 - value passed
+2019-10-15 20:32:14 INFO  Utility:119 - value passed
+2019-10-15 20:32:16 INFO  Utility:119 - element is clicked
+2019-10-15 20:32:16 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:32:16 INFO  Utility:119 - value passed
+2019-10-15 20:32:17 INFO  Utility:119 - value passed
+2019-10-15 20:32:19 INFO  Utility:119 - element is clicked
+2019-10-15 20:32:19 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:32:19 INFO  Utility:119 - value passed
+2019-10-15 20:32:19 INFO  Utility:119 - value passed
+2019-10-15 20:32:21 INFO  Utility:119 - element is clicked
+2019-10-15 20:32:21 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:32:21 INFO  Utility:119 - value passed
+2019-10-15 20:32:21 INFO  Utility:119 - value passed
+2019-10-15 20:32:23 INFO  Utility:119 - element is clicked
+2019-10-15 20:32:23 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:32:23 INFO  Utility:119 - value passed
+2019-10-15 20:32:23 INFO  Utility:119 - value passed
+2019-10-15 20:32:25 INFO  Utility:119 - element is clicked
+2019-10-15 20:32:25 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:32:25 INFO  Utility:119 - value passed
+2019-10-15 20:32:25 INFO  Utility:119 - value passed
+2019-10-15 20:32:27 INFO  Utility:119 - element is clicked
+2019-10-15 20:32:27 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:32:27 INFO  Utility:119 - value passed
+2019-10-15 20:32:28 INFO  Utility:119 - value passed
+2019-10-15 20:32:29 INFO  Utility:119 - element is clicked
+2019-10-15 20:32:29 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:32:29 INFO  Utility:119 - value passed
+2019-10-15 20:32:30 INFO  Utility:119 - value passed
+2019-10-15 20:32:31 INFO  Utility:119 - element is clicked
+2019-10-15 20:32:33 INFO  Utility:119 - element is clicked
+2019-10-15 20:33:03 INFO  Utility:119 - value passed
+2019-10-15 20:33:03 INFO  Utility:119 - value passed
+2019-10-15 20:33:05 INFO  Utility:119 - element is clicked
+2019-10-15 20:33:08 INFO  Utility:119 - element is clicked
+2019-10-15 20:33:38 INFO  Utility:119 - value passed
+2019-10-15 20:33:38 INFO  Utility:119 - value passed
+2019-10-15 20:33:40 INFO  Utility:119 - element is clicked
+2019-10-15 20:33:42 INFO  Utility:119 - element is clicked
+2019-10-15 20:34:12 INFO  Utility:119 - value passed
+2019-10-15 20:34:12 INFO  Utility:119 - value passed
+2019-10-15 20:34:14 INFO  Utility:119 - element is clicked
+2019-10-15 20:34:16 INFO  Utility:119 - element is clicked
+2019-10-15 20:34:46 INFO  Utility:119 - value passed
+2019-10-15 20:34:46 INFO  Utility:119 - value passed
+2019-10-15 20:34:48 INFO  Utility:119 - element is clicked
+2019-10-15 20:34:50 INFO  Utility:119 - element is clicked
+2019-10-15 20:35:20 INFO  Utility:119 - value passed
+2019-10-15 20:35:20 INFO  Utility:119 - value passed
+2019-10-15 20:35:22 INFO  Utility:119 - element is clicked
+2019-10-15 20:35:24 INFO  Utility:119 - element is clicked
+2019-10-15 20:35:54 INFO  Utility:119 - value passed
+2019-10-15 20:35:54 INFO  Utility:119 - value passed
+2019-10-15 20:35:56 INFO  Utility:119 - element is clicked
+2019-10-15 20:35:58 INFO  Utility:119 - element is clicked
+2019-10-15 20:36:28 INFO  Utility:119 - value passed
+2019-10-15 20:36:28 INFO  Utility:119 - value passed
+2019-10-15 20:36:30 INFO  Utility:119 - element is clicked
+2019-10-15 20:36:32 INFO  Utility:119 - element is clicked
+2019-10-15 20:37:03 INFO  Utility:119 - current browser closed
+2019-10-15 20:39:16 INFO  Utility:119 - browser opened
+2019-10-15 20:39:26 INFO  Utility:119 - Entered url
+2019-10-15 20:39:27 INFO  Utility:119 - value passed
+2019-10-15 20:39:28 INFO  Utility:119 - value passed
+2019-10-15 20:39:29 INFO  Utility:119 - element is clicked
+2019-10-15 20:39:30 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 20:39:30 INFO  Utility:119 - value passed
+2019-10-15 20:39:30 INFO  Utility:119 - value passed
+2019-10-15 20:39:32 INFO  Utility:119 - element is clicked
+2019-10-15 20:39:32 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:39:32 INFO  Utility:119 - value passed
+2019-10-15 20:39:32 INFO  Utility:119 - value passed
+2019-10-15 20:39:33 INFO  Utility:119 - element is clicked
+2019-10-15 20:39:34 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:39:34 INFO  Utility:119 - value passed
+2019-10-15 20:39:34 INFO  Utility:119 - value passed
+2019-10-15 20:39:36 INFO  Utility:119 - element is clicked
+2019-10-15 20:39:36 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:39:36 INFO  Utility:119 - value passed
+2019-10-15 20:39:36 INFO  Utility:119 - value passed
+2019-10-15 20:39:37 INFO  Utility:119 - element is clicked
+2019-10-15 20:39:37 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:39:37 INFO  Utility:119 - value passed
+2019-10-15 20:39:38 INFO  Utility:119 - value passed
+2019-10-15 20:39:39 INFO  Utility:119 - element is clicked
+2019-10-15 20:39:39 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:39:39 INFO  Utility:119 - value passed
+2019-10-15 20:39:40 INFO  Utility:119 - value passed
+2019-10-15 20:39:41 INFO  Utility:119 - element is clicked
+2019-10-15 20:39:41 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:39:41 INFO  Utility:119 - value passed
+2019-10-15 20:39:42 INFO  Utility:119 - value passed
+2019-10-15 20:39:43 INFO  Utility:119 - element is clicked
+2019-10-15 20:39:43 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:39:43 INFO  Utility:119 - value passed
+2019-10-15 20:39:43 INFO  Utility:119 - value passed
+2019-10-15 20:39:45 INFO  Utility:119 - element is clicked
+2019-10-15 20:39:48 INFO  Utility:119 - element is clicked
+2019-10-15 20:40:18 INFO  Utility:119 - value passed
+2019-10-15 20:40:18 INFO  Utility:119 - value passed
+2019-10-15 20:40:20 INFO  Utility:119 - element is clicked
+2019-10-15 20:40:22 INFO  Utility:119 - element is clicked
+2019-10-15 20:40:52 INFO  Utility:119 - value passed
+2019-10-15 20:40:52 INFO  Utility:119 - value passed
+2019-10-15 20:40:53 INFO  Utility:119 - element is clicked
+2019-10-15 20:40:55 INFO  Utility:119 - element is clicked
+2019-10-15 20:41:25 INFO  Utility:119 - value passed
+2019-10-15 20:41:25 INFO  Utility:119 - value passed
+2019-10-15 20:41:28 INFO  Utility:119 - element is clicked
+2019-10-15 20:41:29 INFO  Utility:119 - element is clicked
+2019-10-15 20:41:53 INFO  Utility:119 - value not passed
+2019-10-15 20:41:53 INFO  Utility:119 - value not passed
+2019-10-15 20:41:53 INFO  Utility:119 - element not clickable
+2019-10-15 20:41:53 INFO  Utility:119 - element not clickable
+2019-10-15 20:41:53 INFO  Utility:119 - value not passed
+2019-10-15 20:41:53 INFO  Utility:119 - value not passed
+2019-10-15 20:41:53 INFO  Utility:119 - element not clickable
+2019-10-15 20:41:53 INFO  Utility:119 - element not clickable
+2019-10-15 20:41:53 INFO  Utility:119 - value not passed
+2019-10-15 20:41:53 INFO  Utility:119 - value not passed
+2019-10-15 20:41:53 INFO  Utility:119 - element not clickable
+2019-10-15 20:41:53 INFO  Utility:119 - element not clickable
+2019-10-15 20:41:53 INFO  Utility:119 - value not passed
+2019-10-15 20:41:53 INFO  Utility:119 - value not passed
+2019-10-15 20:41:53 INFO  Utility:119 - element not clickable
+2019-10-15 20:41:53 INFO  Utility:119 - element not clickable
+2019-10-15 20:41:57 INFO  Utility:119 - Browser not closed
+2019-10-15 20:42:08 INFO  Utility:119 - browser opened
+2019-10-15 20:42:18 INFO  Utility:119 - Entered url
+2019-10-15 20:42:19 INFO  Utility:119 - value passed
+2019-10-15 20:42:20 INFO  Utility:119 - value passed
+2019-10-15 20:42:22 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:22 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-15 20:42:22 INFO  Utility:119 - value passed
+2019-10-15 20:42:22 INFO  Utility:119 - value passed
+2019-10-15 20:42:24 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:24 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:42:24 INFO  Utility:119 - value passed
+2019-10-15 20:42:24 INFO  Utility:119 - value passed
+2019-10-15 20:42:26 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:26 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:42:26 INFO  Utility:119 - value passed
+2019-10-15 20:42:26 INFO  Utility:119 - value passed
+2019-10-15 20:42:27 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:28 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:42:28 INFO  Utility:119 - value passed
+2019-10-15 20:42:28 INFO  Utility:119 - value passed
+2019-10-15 20:42:30 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:30 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:42:30 INFO  Utility:119 - value passed
+2019-10-15 20:42:30 INFO  Utility:119 - value passed
+2019-10-15 20:42:31 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:32 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:42:32 INFO  Utility:119 - value passed
+2019-10-15 20:42:32 INFO  Utility:119 - value passed
+2019-10-15 20:42:34 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:34 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:42:34 INFO  Utility:119 - value passed
+2019-10-15 20:42:34 INFO  Utility:119 - value passed
+2019-10-15 20:42:35 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:36 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-15 20:42:36 INFO  Utility:119 - value passed
+2019-10-15 20:42:36 INFO  Utility:119 - value passed
+2019-10-15 20:42:37 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:37 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-15 20:42:37 INFO  Utility:119 - value passed
+2019-10-15 20:42:38 INFO  Utility:119 - value passed
+2019-10-15 20:42:39 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:39 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-15 20:42:39 INFO  Utility:119 - value passed
+2019-10-15 20:42:39 INFO  Utility:119 - value passed
+2019-10-15 20:42:41 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:41 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-15 20:42:41 INFO  Utility:119 - value passed
+2019-10-15 20:42:41 INFO  Utility:119 - value passed
+2019-10-15 20:42:43 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:43 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-15 20:42:43 INFO  Utility:119 - value passed
+2019-10-15 20:42:43 INFO  Utility:119 - value passed
+2019-10-15 20:42:44 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:44 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-15 20:42:44 INFO  Utility:119 - value passed
+2019-10-15 20:42:45 INFO  Utility:119 - value passed
+2019-10-15 20:42:46 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:46 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-15 20:42:46 INFO  Utility:119 - value passed
+2019-10-15 20:42:46 INFO  Utility:119 - value passed
+2019-10-15 20:42:48 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:48 INFO  Utility:119 -  Passed :  Expected : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able Actual : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able
+2019-10-15 20:42:48 INFO  Utility:119 - value passed
+2019-10-15 20:42:48 INFO  Utility:119 - value passed
+2019-10-15 20:42:50 INFO  Utility:119 - element is clicked
+2019-10-15 20:42:50 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-15 20:42:50 INFO  Utility:119 - current browser closed
+2019-10-15 20:58:40 INFO  Utility:119 - browser opened
+2019-10-15 20:58:51 INFO  Utility:119 - Entered url
+2019-10-15 20:58:52 INFO  Utility:119 - current browser closed
+2019-10-15 21:19:25 INFO  Utility:119 - browser opened
+2019-10-15 21:19:36 INFO  Utility:119 - Entered url
+2019-10-15 21:19:38 INFO  Utility:119 - current browser closed
+2019-10-15 21:23:18 INFO  Utility:119 - browser opened
+2019-10-15 21:23:32 INFO  Utility:119 - Entered url
+2019-10-15 21:23:33 INFO  Utility:119 - current browser closed
