@@ -1,4 +1,4 @@
-package om.atmecs.konakart.report;
+package com.atmecs.konakart.report;
 
 import java.io.File;
 

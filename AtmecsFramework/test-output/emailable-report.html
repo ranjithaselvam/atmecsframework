@@ -8,68 +8,41 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="7">Default suite</th></tr>
-<tr><td><a href="#t0">Default test</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">21,623</td><td></td><td></td></tr>
+<tr><th colspan="7">Suite</th></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">16</td><td class="num attn">1</td><td class="num">0</td><td class="num attn">1</td><td class="num">112,887</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.atmecs.konakart.script.ProductValidation</td><td><a href="#m0">contentCorrectness</a></td><td rowspan="1">1571154812487</td><td rowspan="1">946</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.atmecs.konakart.script.ProductReview</td><td><a href="#m0">contentCorrectness</a></td><td rowspan="1">1571668724028</td><td rowspan="1">12765</td></tr><tr><th colspan="4">Test &#8212; skipped</th></tr><tr class="skippedeven"><td rowspan="1">com.atmecs.konakart.script.ProductReview</td><td><a href="#m1">customerReview</a></td><td rowspan="1">1571668736841</td><td rowspan="1">0</td></tr><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="16">com.atmecs.konakart.script.ProductSearch</td><td><a href="#m2">negativeSearches</a></td><td rowspan="8">1571668704694</td><td rowspan="8">3106</td></tr><tr class="passedeven"><td><a href="#m3">negativeSearches</a></td></tr><tr class="passedeven"><td><a href="#m4">negativeSearches</a></td></tr><tr class="passedeven"><td><a href="#m5">negativeSearches</a></td></tr><tr class="passedeven"><td><a href="#m6">negativeSearches</a></td></tr><tr class="passedeven"><td><a href="#m7">negativeSearches</a></td></tr><tr class="passedeven"><td><a href="#m8">negativeSearches</a></td></tr><tr class="passedeven"><td><a href="#m9">negativeSearches</a></td></tr><tr class="passedeven"><td><a href="#m10">positiveSearches</a></td><td rowspan="8">1571668682408</td><td rowspan="8">5413</td></tr><tr class="passedeven"><td><a href="#m11">positiveSearches</a></td></tr><tr class="passedeven"><td><a href="#m12">positiveSearches</a></td></tr><tr class="passedeven"><td><a href="#m13">positiveSearches</a></td></tr><tr class="passedeven"><td><a href="#m14">positiveSearches</a></td></tr><tr class="passedeven"><td><a href="#m15">positiveSearches</a></td></tr><tr class="passedeven"><td><a href="#m16">positiveSearches</a></td></tr><tr class="passedeven"><td><a href="#m17">positiveSearches</a></td></tr></tbody>
 </table>
-<h2>Default test</h2><h3 id="m0">com.atmecs.konakart.script.ProductValidation#contentCorrectness</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.testng.internal.reflect.MethodMatcherException: 
-[public void com.atmecs.konakart.script.ProductValidation.contentCorrectness(java.lang.String,java.lang.String) throws java.lang.Exception] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
-Data provider mismatch
-Method: contentCorrectness([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}])
-Arguments: [(java.lang.String) The De&apos;Longhi BCO 410 is a 15 
-bar espresso/filter coffee machine that 
-will ensure you get the perfect coffee 
-experience, regardless of your tastes. 
-Able to make 10 cups of filter coffee or 
-individual espressos (either via ground 
-coffee or with &quot;Easy Serving Espresso&quot; pods),
- the BCO 410 is a versatile and high-quality machine. 
-The espresso portion of the machine comes complete
- with a crema filter holder, adjustable steam emission, 
-removable water reservoir and cup holder. The filter 
-coffee portion of the machine comes complete with 
-a jug warmer to ensure the coffee remains hot after
- brewing, frontal loading to make the machine incredibly 
-easy to refill (both water and coffee) and a water 
-filtration system to make your coffee taste that much better.,(java.lang.String) Add your product specifications here. 
-By default, the Enterprise version of KonaKart displays the template based custom attributes.,(java.lang.String) 5stars
-(1)
-4stars
-(1)
-3stars
-(2)
-2stars
-(0)
-1stars
-(0)
-Average Customer Review:
- (3.8)
-WRITE REVIEW
-]
-	at org.testng.internal.reflect.DataProviderMethodMatcher.getConformingArguments(DataProviderMethodMatcher.java:43)
-	at org.testng.internal.Parameters.injectParameters(Parameters.java:925)
-	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:34)
-	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
-	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+<h2>Test</h2><h3 id="m0">com.atmecs.konakart.script.ProductReview#contentCorrectness</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.NullPointerException
+	at com.atmecs.konakart.utility.Utility.getbjectLocator(Utility.java:56)
+	at com.atmecs.konakart.base.Base.getText(Base.java:508)
+	at com.atmecs.konakart.script.ProductReview.contentCorrectness(ProductReview.java:39)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
-	at org.testng.TestRunner.privateRun(TestRunner.java:770)
-	at org.testng.TestRunner.run(TestRunner.java:591)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:304)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
-	at org.testng.TestNG.runSuites(TestNG.java:1032)
-	at org.testng.TestNG.run(TestNG.java:1000)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+... Removed 27 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.atmecs.konakart.script.ProductReview#customerReview</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.RuntimeException: java.lang.NullPointerException
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
+Caused by: java.lang.NullPointerException
+	at com.atmecs.konakart.utility.Utility.getExcel(Utility.java:106)
+	at com.atmecs.konakart.script.ProductReview.sortReview(ProductReview.java:51)
+	... 25 more
+... Removed 32 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.atmecs.konakart.script.ProductSearch#negativeSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Electronics</td><td>123.0</td><td>There are no available products.</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.atmecs.konakart.script.ProductSearch#negativeSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Software</td><td>9987.0</td><td>There are no available products.</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.atmecs.konakart.script.ProductSearch#negativeSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Computer Peripherals</td><td>abc</td><td>There are no available products.</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">com.atmecs.konakart.script.ProductSearch#negativeSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>DVD Movies</td><td>:lmhy</td><td>There are no available products.</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">com.atmecs.konakart.script.ProductSearch#negativeSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Home &amp; Garden</td><td>abxg</td><td>No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">com.atmecs.konakart.script.ProductSearch#negativeSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Games</td><td>%$@#</td><td>There are no available products.</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">com.atmecs.konakart.script.ProductSearch#negativeSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>All</td><td>123.0</td><td>There are no available products.</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m9">com.atmecs.konakart.script.ProductSearch#negativeSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Gifts</td><td>123.0</td><td>There are no available products.</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m10">com.atmecs.konakart.script.ProductSearch#positiveSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Gifts</td><td>gift certificate</td><td>1-1 of 1 products</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m11">com.atmecs.konakart.script.ProductSearch#positiveSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>DVD Movies</td><td>A Bug&apos;s Life</td><td>1-1 of 1 products</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m12">com.atmecs.konakart.script.ProductSearch#positiveSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>All</td><td>samsung</td><td>1-4 of 4 products</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m13">com.atmecs.konakart.script.ProductSearch#positiveSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Home &amp; Garden</td><td>De&apos;Longhi BCO 410</td><td>1-1 of 1 products</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m14">com.atmecs.konakart.script.ProductSearch#positiveSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Software</td><td>win8pro</td><td>1-1 of 1 products</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m15">com.atmecs.konakart.script.ProductSearch#positiveSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Electronics</td><td>Nikon D5100 SLR</td><td>1-1 of 1 products</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m16">com.atmecs.konakart.script.ProductSearch#positiveSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Games</td><td>call of duty</td><td>1-1 of 1 products</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m17">com.atmecs.konakart.script.ProductSearch#positiveSearches</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th><th>Parameter #3</th></tr><tr class="param stripe"><td>Computer Peripherals</td><td>Bundle Saver</td><td>1-1 of 1 products</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

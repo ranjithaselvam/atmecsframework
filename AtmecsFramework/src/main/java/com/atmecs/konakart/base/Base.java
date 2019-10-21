@@ -23,10 +23,12 @@ import java.util.ArrayList;
 	import org.openqa.selenium.support.ui.Select;
 	import org.openqa.selenium.support.ui.WebDriverWait;
 	import org.testng.Assert;
-	
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Parameters;
 
-	import com.atmecs.konakart.constants.Constants;
-	import com.atmecs.konakart.utility.Utility;
+import com.atmecs.konakart.config.Constants;
+import com.atmecs.konakart.utility.Utility;
+
 
 	/**
 	 * Purpose:To create reusable methods in the base class like
@@ -43,18 +45,20 @@ import java.util.ArrayList;
 		/*
 		 * Different browser setup(Chrome,Firefox,Internetexplorer).
 		 */
-		
-		public  WebDriver getBrowser( ) throws Exception {
+		  
+         @Parameters("browser")
+		  @BeforeClass
+		public  WebDriver getBrowser(String browser ) throws Exception {
 			try {
 
-				String browserName = Utility.propertyRead(Constants.config_file, "browserName");
-				if (browserName.equalsIgnoreCase("chrome")) {
+				//String browserName = Utility.propertyRead(Constants.config_file, "browserName");
+				if (browser.equalsIgnoreCase("chrome")) {
 					System.setProperty("webdriver.chrome.driver", Constants.chrome_file);
 					driver = new ChromeDriver();
-				} else if (browserName.equalsIgnoreCase("firefox")) {
+				} else if (browser.equalsIgnoreCase("firefox")) {
 					System.setProperty("webdriver.gecko.driver", Constants.fireFox_file);
 					driver = new FirefoxDriver();
-				} else if (browserName.equalsIgnoreCase("internetExplorer")) {
+				} else if (browser.equalsIgnoreCase("internetExplorer")) {
 					System.setProperty("webdriver.ie.driver", Constants.internetExplorer_file);
 					driver = new InternetExplorerDriver();
 				}
@@ -71,6 +75,7 @@ import java.util.ArrayList;
 		/*
 		 * Get url from property file.
 		 */
+         
 		public  void getUrl() throws Exception {
 			try {
 				String url = Utility.propertyRead(Constants.config_file, "url");
@@ -501,6 +506,7 @@ import java.util.ArrayList;
 
 		public static String getText(WebDriver driver, String element) throws IOException {
 			WebElement webElement=Utility.getbjectLocator(driver, element);
+			System.out.println("Actual text :"+webElement);
 			return webElement.getText();
 		
 			

@@ -10,8 +10,9 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.atmecs.konakart.base.Base;
-import com.atmecs.konakart.constants.Constants;
+import com.atmecs.konakart.config.Constants;
 import com.atmecs.konakart.utility.Utility;
+import com.beust.jcommander.Parameters;
 
 public class ProductSearch extends Base {
 	/**
@@ -23,11 +24,13 @@ public class ProductSearch extends Base {
 	 *
 	 */
     Base base=new Base();
-	@BeforeClass
-	public void launchBrowser() throws Exception ,IOException{
-		base.getBrowser();
-		base.getUrl();
-	}
+    
+
+	//@BeforeClass
+	//public void launchBrowser() throws Exception ,IOException{
+		//base.getBrowser();
+		//base.getUrl();
+	//}
 	
 	 @DataProvider
 	 public Object[][] positiveSearch() throws Exception,IOException
@@ -39,13 +42,16 @@ public class ProductSearch extends Base {
 	@Test(dataProvider="positiveSearch",priority=1)
 
 	 //positive searches
+	
 	public void positiveSearches(String dropdown,String select,String product) throws IOException, Exception {
-		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.productLoc_file, "loc_all"), dropdown);
-		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.productLoc_file, "loc_searchText"), select);
-		base.clickOnWebElement(driver, Utility.propertyRead(Constants.productLoc_file, "loc_searchButton"));
-		//base.clickOnWebElement(driver, Utility.propertyRead(Constants.productLoc_file, "loc_homepage"));
-		String actualProduct = Base.getText(driver, Utility.propertyRead(Constants.productLoc_file, "loc_product1Text"));
+		base.getUrl();
+		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_all"), dropdown);
+		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_searchText"), select);
+		base.clickOnWebElement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_searchButton"));
+		String actualProduct = Base.getText(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_product1Text"));
+		base.clickOnWebElement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_homepage"));
 		Base.pageValidation(actualProduct,product);
+		
 	}
 	 @DataProvider
 	 public Object[][] negativeSearch() throws Exception 
@@ -58,13 +64,13 @@ public class ProductSearch extends Base {
 
 	// negative searches
 	public void negativeSearches(String categories,String select,String product) throws IOException, Exception {
-		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.productLoc_file, "loc_all"), categories);
-		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.productLoc_file, "loc_searchText"), select);
-		base.clickOnWebElement(driver, Utility.propertyRead(Constants.productLoc_file, "loc_searchButton"));
-		//base.clickOnWebElement(driver, Utility.propertyRead(Constants.productLoc_file, "loc_homepage"));
-		String actualnegProduct = Base.getText(driver, Utility.propertyRead(Constants.productLoc_file, "loc_product2Text"));
+		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_all"), categories);
+		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_searchText"), select);
+		base.clickOnWebElement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_searchButton"));
+		String actualnegProduct = Base.getText(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_product2Text"));
+		base.clickOnWebElement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_homepage"));
 		Base.pageValidation(actualnegProduct,product);
-	}
+			}
 
 
 	@AfterClass
