@@ -5,14 +5,14 @@ import java.io.IOException;
 
 
 import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.atmecs.konakart.base.Base;
 import com.atmecs.konakart.config.Constants;
 import com.atmecs.konakart.utility.Utility;
-import com.beust.jcommander.Parameters;
+
 
 public class ProductSearch extends Base {
 	/**
@@ -44,7 +44,7 @@ public class ProductSearch extends Base {
 	 //positive searches
 	
 	public void positiveSearches(String dropdown,String select,String product) throws IOException, Exception {
-		base.getUrl();
+		
 		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_all"), dropdown);
 		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_searchText"), select);
 		base.clickOnWebElement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_searchButton"));
@@ -70,6 +70,8 @@ public class ProductSearch extends Base {
 		String actualnegProduct = Base.getText(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_product2Text"));
 		base.clickOnWebElement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_homepage"));
 		Base.pageValidation(actualnegProduct,product);
+		
+		
 			}
 
 

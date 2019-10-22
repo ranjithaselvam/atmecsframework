@@ -1,9 +1,8 @@
 package com.atmecs.konakart.script;
 
-import java.io.IOException;
+
 
 import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
@@ -33,7 +32,7 @@ public class ProductReview extends Base {
 		@Test(priority=1)
 		public void contentCorrectness() throws Exception 
 		{
-			base.getUrl();
+		
         base.clickOnWebElement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_picture"));
         base.clickOnWebElement(driver, Utility.propertyRead(Constants.review_page_loc_file, "loc_description"));
         Base.getText(driver, Utility.propertyRead(Constants.review_page_loc_file, "loc_destext"));

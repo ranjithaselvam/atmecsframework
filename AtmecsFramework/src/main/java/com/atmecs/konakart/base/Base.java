@@ -49,22 +49,25 @@ import com.atmecs.konakart.utility.Utility;
          @Parameters("browser")
 		  @BeforeClass
 		public  WebDriver getBrowser(String browser ) throws Exception {
+        	 System.out.println("xml file name "+browser);
 			try {
 
 				//String browserName = Utility.propertyRead(Constants.config_file, "browserName");
+				String url = Utility.propertyRead(Constants.config_file, "url");
 				if (browser.equalsIgnoreCase("chrome")) {
 					System.setProperty("webdriver.chrome.driver", Constants.chrome_file);
 					driver = new ChromeDriver();
 				} else if (browser.equalsIgnoreCase("firefox")) {
 					System.setProperty("webdriver.gecko.driver", Constants.fireFox_file);
 					driver = new FirefoxDriver();
-				} else if (browser.equalsIgnoreCase("internetExplorer")) {
+				} else if (browser.equalsIgnoreCase("ie")) {
 					System.setProperty("webdriver.ie.driver", Constants.internetExplorer_file);
 					driver = new InternetExplorerDriver();
 				}
 				Utility.logInfo("browser opened");
 				driver.manage().window().maximize();
 				driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+				driver.get(url);
 				return driver;
 			} catch (Exception e) {
 				Utility.logInfo("browser not open");
@@ -76,17 +79,17 @@ import com.atmecs.konakart.utility.Utility;
 		 * Get url from property file.
 		 */
          
-		public  void getUrl() throws Exception {
-			try {
-				String url = Utility.propertyRead(Constants.config_file, "url");
+		//public  void getUrl() throws Exception {
+			//try {
+				//String url = Utility.propertyRead(Constants.config_file, "url");
 				
-				driver.get(url);  
-				Utility.logInfo("Entered url");
-			} catch (Exception e) {
+				//driver.get(url);  
+				//Utility.logInfo("Entered url");
+			//} catch (Exception e) {
 				// TODO Auto-generated catch block
-				Utility.logInfo("url not enter");
-			}
-		}
+				//Utility.logInfo("url not enter");
+			//}
+		//}
 
 		/*
 		 * To wait for certain conditions (Expected Conditions) or the maximum time
