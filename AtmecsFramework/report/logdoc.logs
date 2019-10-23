@@ -6841,3 +6841,1203 @@ able Actual : There are no available products.
 2019-10-22 19:44:27 INFO  Utility:119 - current browser closed
 2019-10-22 19:44:27 INFO  Utility:119 - Browser not closed
 2019-10-22 19:44:27 INFO  Utility:119 - Browser not closed
+2019-10-23 16:45:27 INFO  Utility:119 - browser opened
+2019-10-23 16:45:41 INFO  Utility:119 - value passed
+2019-10-23 16:45:41 INFO  Utility:119 - value passed
+2019-10-23 16:45:42 INFO  Utility:119 - element is clicked
+2019-10-23 16:45:45 INFO  Utility:119 - element is clicked
+2019-10-23 16:45:45 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-23 16:45:45 INFO  Utility:119 - value passed
+2019-10-23 16:45:45 INFO  Utility:119 - value passed
+2019-10-23 16:45:46 INFO  Utility:119 - element is clicked
+2019-10-23 16:45:48 INFO  Utility:119 - element is clicked
+2019-10-23 16:45:48 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 16:45:48 INFO  Utility:119 - value passed
+2019-10-23 16:45:49 INFO  Utility:119 - value passed
+2019-10-23 16:45:50 INFO  Utility:119 - element is clicked
+2019-10-23 16:45:52 INFO  Utility:119 - element is clicked
+2019-10-23 16:45:52 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 16:45:52 INFO  Utility:119 - value passed
+2019-10-23 16:45:53 INFO  Utility:119 - value passed
+2019-10-23 16:45:54 INFO  Utility:119 - element is clicked
+2019-10-23 16:45:57 INFO  Utility:119 - element is clicked
+2019-10-23 16:45:57 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 16:45:57 INFO  Utility:119 - value passed
+2019-10-23 16:45:57 INFO  Utility:119 - value passed
+2019-10-23 16:45:58 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:00 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:00 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 16:46:01 INFO  Utility:119 - value passed
+2019-10-23 16:46:01 INFO  Utility:119 - value passed
+2019-10-23 16:46:03 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:05 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:05 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 16:46:05 INFO  Utility:119 - value passed
+2019-10-23 16:46:05 INFO  Utility:119 - value passed
+2019-10-23 16:46:07 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:09 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:09 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 16:46:09 INFO  Utility:119 - value passed
+2019-10-23 16:46:09 INFO  Utility:119 - value passed
+2019-10-23 16:46:11 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:13 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:13 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 16:46:13 INFO  Utility:119 - value passed
+2019-10-23 16:46:13 INFO  Utility:119 - value passed
+2019-10-23 16:46:15 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:17 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:17 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 16:46:17 INFO  Utility:119 - value passed
+2019-10-23 16:46:17 INFO  Utility:119 - value passed
+2019-10-23 16:46:18 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:21 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:21 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 16:46:21 INFO  Utility:119 - value passed
+2019-10-23 16:46:21 INFO  Utility:119 - value passed
+2019-10-23 16:46:22 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:24 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:24 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 16:46:25 INFO  Utility:119 - value passed
+2019-10-23 16:46:25 INFO  Utility:119 - value passed
+2019-10-23 16:46:26 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:28 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:28 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 16:46:28 INFO  Utility:119 - value passed
+2019-10-23 16:46:28 INFO  Utility:119 - value passed
+2019-10-23 16:46:30 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:32 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:32 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 16:46:32 INFO  Utility:119 - value passed
+2019-10-23 16:46:32 INFO  Utility:119 - value passed
+2019-10-23 16:46:34 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:36 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:36 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 16:46:36 INFO  Utility:119 - value passed
+2019-10-23 16:46:36 INFO  Utility:119 - value passed
+2019-10-23 16:46:37 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:40 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:40 INFO  Utility:119 -  Passed :  Expected : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able Actual : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able
+2019-10-23 16:46:40 INFO  Utility:119 - value passed
+2019-10-23 16:46:40 INFO  Utility:119 - value passed
+2019-10-23 16:46:41 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:43 INFO  Utility:119 - element is clicked
+2019-10-23 16:46:43 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 16:46:44 INFO  Utility:119 - current browser closed
+2019-10-23 17:19:19 INFO  Utility:119 - browser opened
+2019-10-23 17:19:32 INFO  Utility:119 - value passed
+2019-10-23 17:19:32 INFO  Utility:119 - value passed
+2019-10-23 17:19:34 INFO  Utility:119 - element is clicked
+2019-10-23 17:19:37 INFO  Utility:119 - element is clicked
+2019-10-23 17:19:37 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-23 17:19:38 INFO  Utility:119 - value passed
+2019-10-23 17:19:38 INFO  Utility:119 - value passed
+2019-10-23 17:19:40 INFO  Utility:119 - element is clicked
+2019-10-23 17:19:42 INFO  Utility:119 - element is clicked
+2019-10-23 17:19:42 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:19:42 INFO  Utility:119 - value passed
+2019-10-23 17:19:43 INFO  Utility:119 - value passed
+2019-10-23 17:19:45 INFO  Utility:119 - element is clicked
+2019-10-23 17:19:47 INFO  Utility:119 - element is clicked
+2019-10-23 17:19:47 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:19:47 INFO  Utility:119 - value passed
+2019-10-23 17:19:47 INFO  Utility:119 - value passed
+2019-10-23 17:19:49 INFO  Utility:119 - element is clicked
+2019-10-23 17:19:51 INFO  Utility:119 - element is clicked
+2019-10-23 17:19:51 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:19:52 INFO  Utility:119 - value passed
+2019-10-23 17:19:52 INFO  Utility:119 - value passed
+2019-10-23 17:19:54 INFO  Utility:119 - element is clicked
+2019-10-23 17:19:57 INFO  Utility:119 - element is clicked
+2019-10-23 17:19:57 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:19:57 INFO  Utility:119 - value passed
+2019-10-23 17:19:57 INFO  Utility:119 - value passed
+2019-10-23 17:19:59 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:02 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:02 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:20:02 INFO  Utility:119 - value passed
+2019-10-23 17:20:02 INFO  Utility:119 - value passed
+2019-10-23 17:20:04 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:07 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:07 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:20:07 INFO  Utility:119 - value passed
+2019-10-23 17:20:07 INFO  Utility:119 - value passed
+2019-10-23 17:20:09 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:11 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:11 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:20:12 INFO  Utility:119 - value passed
+2019-10-23 17:20:12 INFO  Utility:119 - value passed
+2019-10-23 17:20:13 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:17 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:17 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:20:17 INFO  Utility:119 - value passed
+2019-10-23 17:20:17 INFO  Utility:119 - value passed
+2019-10-23 17:20:19 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:21 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:21 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:20:22 INFO  Utility:119 - value passed
+2019-10-23 17:20:22 INFO  Utility:119 - value passed
+2019-10-23 17:20:23 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:26 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:26 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:20:27 INFO  Utility:119 - value passed
+2019-10-23 17:20:27 INFO  Utility:119 - value passed
+2019-10-23 17:20:28 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:30 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:30 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:20:31 INFO  Utility:119 - value passed
+2019-10-23 17:20:31 INFO  Utility:119 - value passed
+2019-10-23 17:20:33 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:35 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:35 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:20:35 INFO  Utility:119 - value passed
+2019-10-23 17:20:35 INFO  Utility:119 - value passed
+2019-10-23 17:20:37 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:40 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:40 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:20:40 INFO  Utility:119 - value passed
+2019-10-23 17:20:40 INFO  Utility:119 - value passed
+2019-10-23 17:20:41 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:44 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:44 INFO  Utility:119 -  Passed :  Expected : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able Actual : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able
+2019-10-23 17:20:44 INFO  Utility:119 - value passed
+2019-10-23 17:20:44 INFO  Utility:119 - value passed
+2019-10-23 17:20:45 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:48 INFO  Utility:119 - element is clicked
+2019-10-23 17:20:48 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:20:48 INFO  Utility:119 - current browser closed
+2019-10-23 17:30:18 INFO  Utility:119 - browser opened
+2019-10-23 17:30:31 INFO  Utility:119 - value passed
+2019-10-23 17:30:31 INFO  Utility:119 - value passed
+2019-10-23 17:30:33 INFO  Utility:119 - element is clicked
+2019-10-23 17:30:34 INFO  Utility:119 - element is clicked
+2019-10-23 17:30:34 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-23 17:30:35 INFO  Utility:119 - value passed
+2019-10-23 17:30:35 INFO  Utility:119 - value passed
+2019-10-23 17:30:41 INFO  Utility:119 - element is clicked
+2019-10-23 17:30:48 INFO  Utility:119 - element is clicked
+2019-10-23 17:30:48 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:30:48 INFO  Utility:119 - value passed
+2019-10-23 17:30:48 INFO  Utility:119 - value passed
+2019-10-23 17:30:54 INFO  Utility:119 - element is clicked
+2019-10-23 17:31:01 INFO  Utility:119 - element is clicked
+2019-10-23 17:31:01 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:31:02 INFO  Utility:119 - value passed
+2019-10-23 17:31:02 INFO  Utility:119 - value passed
+2019-10-23 17:31:08 INFO  Utility:119 - element is clicked
+2019-10-23 17:31:15 INFO  Utility:119 - element is clicked
+2019-10-23 17:31:15 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:31:15 INFO  Utility:119 - value passed
+2019-10-23 17:31:15 INFO  Utility:119 - value passed
+2019-10-23 17:31:21 INFO  Utility:119 - element is clicked
+2019-10-23 17:31:28 INFO  Utility:119 - element is clicked
+2019-10-23 17:31:28 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:31:28 INFO  Utility:119 - value passed
+2019-10-23 17:31:28 INFO  Utility:119 - value passed
+2019-10-23 17:31:34 INFO  Utility:119 - element is clicked
+2019-10-23 17:31:41 INFO  Utility:119 - element is clicked
+2019-10-23 17:31:41 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:31:41 INFO  Utility:119 - value passed
+2019-10-23 17:31:41 INFO  Utility:119 - value passed
+2019-10-23 17:31:47 INFO  Utility:119 - element is clicked
+2019-10-23 17:31:53 INFO  Utility:119 - element is clicked
+2019-10-23 17:31:53 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:31:54 INFO  Utility:119 - value passed
+2019-10-23 17:31:54 INFO  Utility:119 - value passed
+2019-10-23 17:31:59 INFO  Utility:119 - element is clicked
+2019-10-23 17:32:29 INFO  Utility:119 - value passed
+2019-10-23 17:32:29 INFO  Utility:119 - value passed
+2019-10-23 17:32:36 INFO  Utility:119 - element is clicked
+2019-10-23 17:32:42 INFO  Utility:119 - element is clicked
+2019-10-23 17:32:42 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:32:42 INFO  Utility:119 - value passed
+2019-10-23 17:32:42 INFO  Utility:119 - value passed
+2019-10-23 17:32:47 INFO  Utility:119 - element is clicked
+2019-10-23 17:33:18 INFO  Utility:119 - value passed
+2019-10-23 17:33:18 INFO  Utility:119 - value passed
+2019-10-23 17:33:25 INFO  Utility:119 - element is clicked
+2019-10-23 17:33:31 INFO  Utility:119 - element is clicked
+2019-10-23 17:33:31 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:33:31 INFO  Utility:119 - value passed
+2019-10-23 17:33:31 INFO  Utility:119 - value passed
+2019-10-23 17:33:36 INFO  Utility:119 - element is clicked
+2019-10-23 17:34:06 INFO  Utility:119 - value passed
+2019-10-23 17:34:06 INFO  Utility:119 - value passed
+2019-10-23 17:34:12 INFO  Utility:119 - element is clicked
+2019-10-23 17:34:18 INFO  Utility:119 - element is clicked
+2019-10-23 17:34:18 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:34:19 INFO  Utility:119 - value passed
+2019-10-23 17:34:19 INFO  Utility:119 - value passed
+2019-10-23 17:34:24 INFO  Utility:119 - element is clicked
+2019-10-23 17:34:54 INFO  Utility:119 - value passed
+2019-10-23 17:34:54 INFO  Utility:119 - value passed
+2019-10-23 17:35:01 INFO  Utility:119 - element is clicked
+2019-10-23 17:35:07 INFO  Utility:119 - element is clicked
+2019-10-23 17:35:07 INFO  Utility:119 -  Failed :  Expected : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able Actual : There are no available products.
+2019-10-23 17:35:07 INFO  Utility:119 - value passed
+2019-10-23 17:35:07 INFO  Utility:119 - value passed
+2019-10-23 17:35:12 INFO  Utility:119 - element is clicked
+2019-10-23 17:35:42 INFO  Utility:119 - current browser closed
+2019-10-23 17:36:04 INFO  Utility:119 - browser opened
+2019-10-23 17:36:16 INFO  Utility:119 - value passed
+2019-10-23 17:36:16 INFO  Utility:119 - value passed
+2019-10-23 17:36:18 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:20 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:20 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-23 17:36:21 INFO  Utility:119 - value passed
+2019-10-23 17:36:21 INFO  Utility:119 - value passed
+2019-10-23 17:36:23 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:24 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:24 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:36:24 INFO  Utility:119 - value passed
+2019-10-23 17:36:25 INFO  Utility:119 - value passed
+2019-10-23 17:36:27 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:28 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:28 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:36:29 INFO  Utility:119 - value passed
+2019-10-23 17:36:29 INFO  Utility:119 - value passed
+2019-10-23 17:36:30 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:33 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:33 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:36:33 INFO  Utility:119 - value passed
+2019-10-23 17:36:33 INFO  Utility:119 - value passed
+2019-10-23 17:36:35 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:36 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:36 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:36:36 INFO  Utility:119 - value passed
+2019-10-23 17:36:37 INFO  Utility:119 - value passed
+2019-10-23 17:36:39 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:41 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:41 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:36:41 INFO  Utility:119 - value passed
+2019-10-23 17:36:41 INFO  Utility:119 - value passed
+2019-10-23 17:36:43 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:45 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:45 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:36:45 INFO  Utility:119 - value passed
+2019-10-23 17:36:45 INFO  Utility:119 - value passed
+2019-10-23 17:36:47 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:48 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:48 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:36:49 INFO  Utility:119 - value passed
+2019-10-23 17:36:49 INFO  Utility:119 - value passed
+2019-10-23 17:36:51 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:53 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:53 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:36:53 INFO  Utility:119 - value passed
+2019-10-23 17:36:53 INFO  Utility:119 - value passed
+2019-10-23 17:36:54 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:57 INFO  Utility:119 - element is clicked
+2019-10-23 17:36:57 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:36:57 INFO  Utility:119 - value passed
+2019-10-23 17:36:57 INFO  Utility:119 - value passed
+2019-10-23 17:37:00 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:01 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:01 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:37:02 INFO  Utility:119 - value passed
+2019-10-23 17:37:02 INFO  Utility:119 - value passed
+2019-10-23 17:37:03 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:05 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:05 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:37:05 INFO  Utility:119 - value passed
+2019-10-23 17:37:06 INFO  Utility:119 - value passed
+2019-10-23 17:37:07 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:09 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:09 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:37:09 INFO  Utility:119 - value passed
+2019-10-23 17:37:09 INFO  Utility:119 - value passed
+2019-10-23 17:37:11 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:13 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:13 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:37:13 INFO  Utility:119 - value passed
+2019-10-23 17:37:13 INFO  Utility:119 - value passed
+2019-10-23 17:37:15 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:17 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:17 INFO  Utility:119 -  Passed :  Expected : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able Actual : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able
+2019-10-23 17:37:17 INFO  Utility:119 - value passed
+2019-10-23 17:37:17 INFO  Utility:119 - value passed
+2019-10-23 17:37:19 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:21 INFO  Utility:119 - element is clicked
+2019-10-23 17:37:21 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:37:26 INFO  Utility:119 - current browser closed
+2019-10-23 17:45:02 INFO  Utility:119 - browser opened
+2019-10-23 17:45:14 INFO  Utility:119 - value passed
+2019-10-23 17:45:14 INFO  Utility:119 - value passed
+2019-10-23 17:45:16 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:18 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:18 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-23 17:45:18 INFO  Utility:119 - value passed
+2019-10-23 17:45:18 INFO  Utility:119 - value passed
+2019-10-23 17:45:20 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:21 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:21 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:45:22 INFO  Utility:119 - value passed
+2019-10-23 17:45:22 INFO  Utility:119 - value passed
+2019-10-23 17:45:23 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:25 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:25 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:45:26 INFO  Utility:119 - value passed
+2019-10-23 17:45:26 INFO  Utility:119 - value passed
+2019-10-23 17:45:27 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:29 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:29 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:45:30 INFO  Utility:119 - value passed
+2019-10-23 17:45:30 INFO  Utility:119 - value passed
+2019-10-23 17:45:31 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:33 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:33 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:45:33 INFO  Utility:119 - value passed
+2019-10-23 17:45:34 INFO  Utility:119 - value passed
+2019-10-23 17:45:35 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:37 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:37 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:45:37 INFO  Utility:119 - value passed
+2019-10-23 17:45:38 INFO  Utility:119 - value passed
+2019-10-23 17:45:39 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:41 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:41 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:45:41 INFO  Utility:119 - value passed
+2019-10-23 17:45:42 INFO  Utility:119 - value passed
+2019-10-23 17:45:43 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:45 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:45 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 17:45:45 INFO  Utility:119 - value passed
+2019-10-23 17:45:46 INFO  Utility:119 - value passed
+2019-10-23 17:45:47 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:49 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:49 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:45:49 INFO  Utility:119 - value passed
+2019-10-23 17:45:49 INFO  Utility:119 - value passed
+2019-10-23 17:45:51 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:53 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:53 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:45:53 INFO  Utility:119 - value passed
+2019-10-23 17:45:53 INFO  Utility:119 - value passed
+2019-10-23 17:45:54 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:56 INFO  Utility:119 - element is clicked
+2019-10-23 17:45:56 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:45:57 INFO  Utility:119 - value passed
+2019-10-23 17:45:57 INFO  Utility:119 - value passed
+2019-10-23 17:45:58 INFO  Utility:119 - element is clicked
+2019-10-23 17:46:01 INFO  Utility:119 - element is clicked
+2019-10-23 17:46:01 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:46:01 INFO  Utility:119 - value passed
+2019-10-23 17:46:01 INFO  Utility:119 - value passed
+2019-10-23 17:46:03 INFO  Utility:119 - element is clicked
+2019-10-23 17:46:04 INFO  Utility:119 - element is clicked
+2019-10-23 17:46:04 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:46:05 INFO  Utility:119 - value passed
+2019-10-23 17:46:05 INFO  Utility:119 - value passed
+2019-10-23 17:46:07 INFO  Utility:119 - element is clicked
+2019-10-23 17:46:09 INFO  Utility:119 - element is clicked
+2019-10-23 17:46:09 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:46:09 INFO  Utility:119 - value passed
+2019-10-23 17:46:09 INFO  Utility:119 - value passed
+2019-10-23 17:46:10 INFO  Utility:119 - element is clicked
+2019-10-23 17:46:12 INFO  Utility:119 - element is clicked
+2019-10-23 17:46:12 INFO  Utility:119 -  Passed :  Expected : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able Actual : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able
+2019-10-23 17:46:13 INFO  Utility:119 - value passed
+2019-10-23 17:46:13 INFO  Utility:119 - value passed
+2019-10-23 17:46:14 INFO  Utility:119 - element is clicked
+2019-10-23 17:46:16 INFO  Utility:119 - element is clicked
+2019-10-23 17:46:16 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 17:46:16 INFO  Utility:119 - current browser closed
+2019-10-23 17:48:16 INFO  Utility:119 - browser opened
+2019-10-23 17:48:16 INFO  Utility:119 - browser not open
+2019-10-23 17:48:18 INFO  Utility:119 - browser opened
+2019-10-23 17:48:22 INFO  Utility:119 - browser opened
+2019-10-23 17:48:29 INFO  Utility:119 - value passed
+2019-10-23 17:48:29 INFO  Utility:119 - value passed
+2019-10-23 17:48:29 INFO  Utility:119 - value passed
+2019-10-23 17:48:29 INFO  Utility:119 - value passed
+2019-10-23 17:48:29 INFO  Utility:119 - element is clicked
+2019-10-23 17:48:30 INFO  Utility:119 - element is clicked
+2019-10-23 17:48:48 INFO  Utility:119 - value not passed
+2019-10-23 17:49:30 INFO  Utility:119 - value passed
+2019-10-23 17:49:30 INFO  Utility:119 - value passed
+2019-10-23 17:49:30 INFO  Utility:119 - value passed
+2019-10-23 17:49:30 INFO  Utility:119 - value passed
+2019-10-23 17:49:32 INFO  Utility:119 - element is clicked
+2019-10-23 17:49:32 INFO  Utility:119 - value not passed
+2019-10-23 17:49:33 INFO  Utility:119 - element is clicked
+2019-10-23 17:50:33 INFO  Utility:119 - value passed
+2019-10-23 17:50:34 INFO  Utility:119 - element is clicked
+2019-10-23 17:50:34 INFO  Utility:119 - value passed
+2019-10-23 17:50:34 INFO  Utility:119 - value passed
+2019-10-23 17:51:06 INFO  Utility:119 - element is clicked
+2019-10-23 17:51:36 INFO  Utility:119 - value not passed
+2019-10-23 17:51:36 INFO  Utility:119 - value passed
+2019-10-23 17:51:36 INFO  Utility:119 - value passed
+2019-10-23 17:51:36 INFO  Utility:119 - element is clicked
+2019-10-23 17:51:36 INFO  Utility:119 - value passed
+2019-10-23 17:51:36 INFO  Utility:119 - value passed
+2019-10-23 17:51:43 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:44 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:44 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:44 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - Browser not closed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - value not passed
+2019-10-23 17:51:45 INFO  Utility:119 - Browser not closed
+2019-10-23 17:51:45 INFO  Utility:119 - element not clickable
+2019-10-23 17:51:45 INFO  Utility:119 - Browser not closed
+2019-10-23 19:34:07 INFO  Utility:119 - browser opened
+2019-10-23 19:34:09 INFO  Utility:119 - browser opened
+2019-10-23 19:34:11 INFO  Utility:119 - browser opened
+2019-10-23 19:34:20 INFO  Utility:119 - value passed
+2019-10-23 19:34:20 INFO  Utility:119 - value passed
+2019-10-23 19:34:22 INFO  Utility:119 - value passed
+2019-10-23 19:34:22 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:22 INFO  Utility:119 - value passed
+2019-10-23 19:34:24 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:24 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-23 19:34:24 INFO  Utility:119 - value passed
+2019-10-23 19:34:24 INFO  Utility:119 - value passed
+2019-10-23 19:34:25 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:26 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:29 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:29 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-23 19:34:29 INFO  Utility:119 - value passed
+2019-10-23 19:34:29 INFO  Utility:119 - value passed
+2019-10-23 19:34:32 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:34 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:34 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:34:34 INFO  Utility:119 - value passed
+2019-10-23 19:34:35 INFO  Utility:119 - value passed
+2019-10-23 19:34:38 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:39 INFO  Utility:119 - value passed
+2019-10-23 19:34:39 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:39 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:34:40 INFO  Utility:119 - value passed
+2019-10-23 19:34:40 INFO  Utility:119 - value passed
+2019-10-23 19:34:42 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:44 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:44 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:34:44 INFO  Utility:119 - value passed
+2019-10-23 19:34:45 INFO  Utility:119 - value passed
+2019-10-23 19:34:46 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:48 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:48 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:34:48 INFO  Utility:119 - value passed
+2019-10-23 19:34:49 INFO  Utility:119 - value passed
+2019-10-23 19:34:51 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:53 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:53 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:34:53 INFO  Utility:119 - value passed
+2019-10-23 19:34:53 INFO  Utility:119 - value passed
+2019-10-23 19:34:55 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:55 INFO  Utility:119 - value passed
+2019-10-23 19:34:56 INFO  Utility:119 - value passed
+2019-10-23 19:34:57 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:57 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:57 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:34:58 INFO  Utility:119 - value passed
+2019-10-23 19:34:58 INFO  Utility:119 - value passed
+2019-10-23 19:34:59 INFO  Utility:119 - element is clicked
+2019-10-23 19:34:59 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:34:59 INFO  Utility:119 - value passed
+2019-10-23 19:34:59 INFO  Utility:119 - value passed
+2019-10-23 19:35:00 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:01 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:02 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:02 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:35:02 INFO  Utility:119 - value passed
+2019-10-23 19:35:02 INFO  Utility:119 - value passed
+2019-10-23 19:35:02 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:02 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:35:02 INFO  Utility:119 - value passed
+2019-10-23 19:35:03 INFO  Utility:119 - value passed
+2019-10-23 19:35:03 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:05 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:05 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:05 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:35:06 INFO  Utility:119 - value passed
+2019-10-23 19:35:06 INFO  Utility:119 - value passed
+2019-10-23 19:35:07 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:07 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:07 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:07 INFO  Utility:119 - value passed
+2019-10-23 19:35:07 INFO  Utility:119 - value passed
+2019-10-23 19:35:08 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:08 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:35:08 INFO  Utility:119 - value passed
+2019-10-23 19:35:08 INFO  Utility:119 - value passed
+2019-10-23 19:35:09 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:09 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:11 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:11 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:35:11 INFO  Utility:119 - value passed
+2019-10-23 19:35:11 INFO  Utility:119 - value passed
+2019-10-23 19:35:12 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:12 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:12 INFO  Utility:119 - value passed
+2019-10-23 19:35:12 INFO  Utility:119 - value passed
+2019-10-23 19:35:12 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:14 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:14 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 19:35:14 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:14 INFO  Utility:119 - value passed
+2019-10-23 19:35:14 INFO  Utility:119 - value passed
+2019-10-23 19:35:15 INFO  Utility:119 - value passed
+2019-10-23 19:35:15 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:16 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:16 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:16 INFO  Utility:119 - value passed
+2019-10-23 19:35:16 INFO  Utility:119 - value passed
+2019-10-23 19:35:17 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:17 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:17 INFO  Utility:119 - value passed
+2019-10-23 19:35:17 INFO  Utility:119 - value passed
+2019-10-23 19:35:17 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:18 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:19 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:21 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:21 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:21 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:21 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:21 INFO  Utility:119 - value passed
+2019-10-23 19:35:21 INFO  Utility:119 - value passed
+2019-10-23 19:35:21 INFO  Utility:119 - value passed
+2019-10-23 19:35:22 INFO  Utility:119 - value passed
+2019-10-23 19:35:23 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:24 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:24 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:24 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-23 19:35:26 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:26 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:26 INFO  Utility:119 - value passed
+2019-10-23 19:35:26 INFO  Utility:119 - value passed
+2019-10-23 19:35:27 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:28 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:28 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:28 INFO  Utility:119 - value passed
+2019-10-23 19:35:28 INFO  Utility:119 - value passed
+2019-10-23 19:35:29 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:29 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:30 INFO  Utility:119 - value passed
+2019-10-23 19:35:30 INFO  Utility:119 - value passed
+2019-10-23 19:35:30 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:31 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:31 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:31 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:32 INFO  Utility:119 - value passed
+2019-10-23 19:35:32 INFO  Utility:119 - value passed
+2019-10-23 19:35:33 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:33 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:33 INFO  Utility:119 -  Passed :  Expected : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able Actual : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able
+2019-10-23 19:35:34 INFO  Utility:119 - value passed
+2019-10-23 19:35:34 INFO  Utility:119 - value passed
+2019-10-23 19:35:34 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:34 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:34 INFO  Utility:119 - value passed
+2019-10-23 19:35:34 INFO  Utility:119 - value passed
+2019-10-23 19:35:35 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:35 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:37 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:37 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:37 INFO  Utility:119 - value passed
+2019-10-23 19:35:37 INFO  Utility:119 - value passed
+2019-10-23 19:35:37 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:37 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:37 INFO  Utility:119 - current browser closed
+2019-10-23 19:35:38 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:39 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:39 INFO  Utility:119 -  Passed :  Expected : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able Actual : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able
+2019-10-23 19:35:39 INFO  Utility:119 - value passed
+2019-10-23 19:35:39 INFO  Utility:119 - value passed
+2019-10-23 19:35:40 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:41 INFO  Utility:119 - element is clicked
+2019-10-23 19:35:41 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:35:44 INFO  Utility:119 - current browser closed
+2019-10-23 19:37:05 INFO  Utility:119 - value passed
+2019-10-23 19:38:05 INFO  Utility:119 - value passed
+2019-10-23 19:38:07 INFO  Utility:119 - element is clicked
+2019-10-23 19:39:02 INFO  Utility:119 - value passed
+2019-10-23 19:40:03 INFO  Utility:119 - value passed
+2019-10-23 19:40:04 INFO  Utility:119 - element is clicked
+2019-10-23 19:41:25 INFO  Utility:119 - value passed
+2019-10-23 19:42:25 INFO  Utility:119 - value passed
+2019-10-23 19:42:29 INFO  Utility:119 - element is clicked
+2019-10-23 19:43:39 INFO  Utility:119 - value passed
+2019-10-23 19:44:15 INFO  Utility:119 - value passed
+2019-10-23 19:44:16 INFO  Utility:119 - element is clicked
+2019-10-23 19:45:42 INFO  Utility:119 - value passed
+2019-10-23 19:46:57 INFO  Utility:119 - value passed
+2019-10-23 19:47:00 INFO  Utility:119 - element is clicked
+2019-10-23 19:48:35 INFO  Utility:119 - value passed
+2019-10-23 19:50:01 INFO  Utility:119 - value passed
+2019-10-23 19:50:02 INFO  Utility:119 - element is clicked
+2019-10-23 19:50:58 INFO  Utility:119 - value passed
+2019-10-23 19:52:18 INFO  Utility:119 - value passed
+2019-10-23 19:52:21 INFO  Utility:119 - element is clicked
+2019-10-23 19:53:07 INFO  Utility:119 - value passed
+2019-10-23 19:53:32 INFO  Utility:119 - value passed
+2019-10-23 19:53:35 INFO  Utility:119 - element is clicked
+2019-10-23 19:53:38 INFO  Utility:119 - element is clicked
+2019-10-23 19:53:38 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:55:18 INFO  Utility:119 - value passed
+2019-10-23 19:55:34 INFO  Utility:119 - value passed
+2019-10-23 19:55:37 INFO  Utility:119 - element is clicked
+2019-10-23 19:55:40 INFO  Utility:119 - element is clicked
+2019-10-23 19:55:40 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:56:06 INFO  Utility:119 - value passed
+2019-10-23 19:56:26 INFO  Utility:119 - value passed
+2019-10-23 19:56:29 INFO  Utility:119 - element is clicked
+2019-10-23 19:56:32 INFO  Utility:119 - element is clicked
+2019-10-23 19:56:32 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:57:23 INFO  Utility:119 - value passed
+2019-10-23 19:57:48 INFO  Utility:119 - value passed
+2019-10-23 19:57:52 INFO  Utility:119 - element is clicked
+2019-10-23 19:57:55 INFO  Utility:119 - element is clicked
+2019-10-23 19:57:55 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 19:58:35 INFO  Utility:119 - value passed
+2019-10-23 19:59:06 INFO  Utility:119 - value passed
+2019-10-23 19:59:08 INFO  Utility:119 - element is clicked
+2019-10-23 19:59:11 INFO  Utility:119 - element is clicked
+2019-10-23 19:59:11 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 20:00:07 INFO  Utility:119 - value passed
+2019-10-23 20:00:32 INFO  Utility:119 - value passed
+2019-10-23 20:00:35 INFO  Utility:119 - element is clicked
+2019-10-23 20:00:38 INFO  Utility:119 - element is clicked
+2019-10-23 20:00:38 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 20:01:44 INFO  Utility:119 - value passed
+2019-10-23 20:02:04 INFO  Utility:119 - value passed
+2019-10-23 20:02:07 INFO  Utility:119 - element is clicked
+2019-10-23 20:02:10 INFO  Utility:119 - element is clicked
+2019-10-23 20:02:10 INFO  Utility:119 -  Passed :  Expected : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able Actual : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able
+2019-10-23 20:02:35 INFO  Utility:119 - value passed
+2019-10-23 20:03:01 INFO  Utility:119 - value passed
+2019-10-23 20:03:03 INFO  Utility:119 - element is clicked
+2019-10-23 20:03:06 INFO  Utility:119 - element is clicked
+2019-10-23 20:03:06 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 20:03:06 INFO  Utility:119 - current browser closed
+2019-10-23 20:27:09 INFO  Utility:119 - browser opened
+2019-10-23 20:27:26 INFO  Utility:119 - value passed
+2019-10-23 20:27:26 INFO  Utility:119 - value passed
+2019-10-23 20:32:26 INFO  Utility:119 - element not clickable
+2019-10-23 20:32:56 INFO  Utility:119 - value passed
+2019-10-23 20:32:57 INFO  Utility:119 - value passed
+2019-10-23 20:32:58 INFO  Utility:119 - element is clicked
+2019-10-23 20:33:58 INFO  Utility:119 - value not passed
+2019-10-23 20:34:28 INFO  Utility:119 - value not passed
+2019-10-23 20:34:58 INFO  Utility:119 - element not clickable
+2019-10-23 20:35:58 INFO  Utility:119 - value not passed
+2019-10-23 20:36:28 INFO  Utility:119 - value not passed
+2019-10-23 20:36:58 INFO  Utility:119 - element not clickable
+2019-10-23 20:37:58 INFO  Utility:119 - value not passed
+2019-10-23 20:38:28 INFO  Utility:119 - value not passed
+2019-10-23 20:38:58 INFO  Utility:119 - element not clickable
+2019-10-23 20:39:58 INFO  Utility:119 - value not passed
+2019-10-23 20:40:28 INFO  Utility:119 - value not passed
+2019-10-23 20:40:58 INFO  Utility:119 - element not clickable
+2019-10-23 20:41:59 INFO  Utility:119 - value not passed
+2019-10-23 20:42:29 INFO  Utility:119 - value not passed
+2019-10-23 20:42:59 INFO  Utility:119 - element not clickable
+2019-10-23 20:43:59 INFO  Utility:119 - value not passed
+2019-10-23 20:44:33 INFO  Utility:119 - value not passed
+2019-10-23 20:44:47 INFO  Utility:119 - element not clickable
+2019-10-23 20:45:15 INFO  Utility:119 - value not passed
+2019-10-23 20:45:29 INFO  Utility:119 - value not passed
+2019-10-23 20:45:43 INFO  Utility:119 - element not clickable
+2019-10-23 20:46:11 INFO  Utility:119 - value not passed
+2019-10-23 20:46:25 INFO  Utility:119 - value not passed
+2019-10-23 20:46:39 INFO  Utility:119 - element not clickable
+2019-10-23 20:47:07 INFO  Utility:119 - value not passed
+2019-10-23 20:47:21 INFO  Utility:119 - value not passed
+2019-10-23 20:47:36 INFO  Utility:119 - element not clickable
+2019-10-23 20:48:04 INFO  Utility:119 - value not passed
+2019-10-23 20:48:18 INFO  Utility:119 - value not passed
+2019-10-23 20:48:32 INFO  Utility:119 - element not clickable
+2019-10-23 20:49:00 INFO  Utility:119 - value not passed
+2019-10-23 20:49:14 INFO  Utility:119 - value not passed
+2019-10-23 20:49:28 INFO  Utility:119 - element not clickable
+2019-10-23 20:49:56 INFO  Utility:119 - value not passed
+2019-10-23 20:50:10 INFO  Utility:119 - value not passed
+2019-10-23 20:50:24 INFO  Utility:119 - element not clickable
+2019-10-23 20:50:52 INFO  Utility:119 - value not passed
+2019-10-23 20:51:07 INFO  Utility:119 - value not passed
+2019-10-23 20:51:21 INFO  Utility:119 - element not clickable
+2019-10-23 20:51:49 INFO  Utility:119 - value not passed
+2019-10-23 20:52:03 INFO  Utility:119 - value not passed
+2019-10-23 20:52:17 INFO  Utility:119 - element not clickable
+2019-10-23 20:52:31 INFO  Utility:119 - Browser not closed
+2019-10-23 21:04:46 INFO  Utility:119 - browser opened
+2019-10-23 21:05:10 INFO  Utility:119 - browser opened
+2019-10-23 21:05:17 INFO  Utility:119 - value not passed
+2019-10-23 21:05:17 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - value not passed
+2019-10-23 21:05:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:05:18 INFO  Utility:119 - Browser not closed
+2019-10-23 21:05:41 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:11 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:11 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:11 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:11 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:11 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - value not passed
+2019-10-23 21:06:11 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - value not passed
+2019-10-23 21:06:12 INFO  Utility:119 - element not clickable
+2019-10-23 21:06:12 INFO  Utility:119 - Browser not closed
+2019-10-23 21:10:46 INFO  Utility:119 - browser opened
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:18 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:18 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - value not passed
+2019-10-23 21:11:19 INFO  Utility:119 - element not clickable
+2019-10-23 21:11:19 INFO  Utility:119 - Browser not closed
+2019-10-23 21:18:12 INFO  Utility:119 - browser opened
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - value not passed
+2019-10-23 21:18:21 INFO  Utility:119 - element not clickable
+2019-10-23 21:18:25 INFO  Utility:119 - Browser not closed
+2019-10-23 21:18:51 INFO  Utility:119 - browser opened
+2019-10-23 21:19:04 INFO  Utility:119 - value passed
+2019-10-23 21:19:04 INFO  Utility:119 - value passed
+2019-10-23 21:19:06 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:07 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:07 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-23 21:19:08 INFO  Utility:119 - value passed
+2019-10-23 21:19:08 INFO  Utility:119 - value passed
+2019-10-23 21:19:09 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:12 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:12 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:19:12 INFO  Utility:119 - value passed
+2019-10-23 21:19:12 INFO  Utility:119 - value passed
+2019-10-23 21:19:13 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:15 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:15 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:19:15 INFO  Utility:119 - value passed
+2019-10-23 21:19:16 INFO  Utility:119 - value passed
+2019-10-23 21:19:17 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:19 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:19 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:19:20 INFO  Utility:119 - value passed
+2019-10-23 21:19:20 INFO  Utility:119 - value passed
+2019-10-23 21:19:21 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:23 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:23 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:19:24 INFO  Utility:119 - value passed
+2019-10-23 21:19:24 INFO  Utility:119 - value passed
+2019-10-23 21:19:26 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:27 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:27 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:19:28 INFO  Utility:119 - value passed
+2019-10-23 21:19:28 INFO  Utility:119 - value passed
+2019-10-23 21:19:29 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:31 INFO  Utility:119 - element is clicked
+2019-10-23 21:19:31 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:19:32 INFO  Utility:119 - value passed
+2019-10-23 21:19:32 INFO  Utility:119 - value passed
+2019-10-23 21:19:34 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:05 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:05 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:20:20 INFO  Utility:119 - value not passed
+2019-10-23 21:20:21 INFO  Utility:119 - browser opened
+2019-10-23 21:20:27 INFO  Utility:119 - value passed
+2019-10-23 21:20:27 INFO  Utility:119 - value passed
+2019-10-23 21:20:28 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:30 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:30 INFO  Utility:119 -  Passed :  Expected : 1-4 of 4 products Actual : 1-4 of 4 products
+2019-10-23 21:20:30 INFO  Utility:119 - value passed
+2019-10-23 21:20:30 INFO  Utility:119 - value passed
+2019-10-23 21:20:32 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:33 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:33 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:20:33 INFO  Utility:119 - value passed
+2019-10-23 21:20:33 INFO  Utility:119 - value passed
+2019-10-23 21:20:34 INFO  Utility:119 - value not passed
+2019-10-23 21:20:34 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:35 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:35 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:20:35 INFO  Utility:119 - value passed
+2019-10-23 21:20:35 INFO  Utility:119 - value passed
+2019-10-23 21:20:36 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:37 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:37 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:20:37 INFO  Utility:119 - value passed
+2019-10-23 21:20:37 INFO  Utility:119 - value passed
+2019-10-23 21:20:38 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:39 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:39 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:20:39 INFO  Utility:119 - value passed
+2019-10-23 21:20:39 INFO  Utility:119 - value passed
+2019-10-23 21:20:40 INFO  Utility:119 - element is clicked
+2019-10-23 21:20:48 INFO  Utility:119 - element not clickable
+2019-10-23 21:21:10 INFO  Utility:119 - value passed
+2019-10-23 21:21:10 INFO  Utility:119 - value passed
+2019-10-23 21:21:12 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:16 INFO  Utility:119 - value not passed
+2019-10-23 21:21:30 INFO  Utility:119 - value not passed
+2019-10-23 21:21:42 INFO  Utility:119 - value passed
+2019-10-23 21:21:42 INFO  Utility:119 - value passed
+2019-10-23 21:21:44 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:44 INFO  Utility:119 - element not clickable
+2019-10-23 21:21:45 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:45 INFO  Utility:119 -  Passed :  Expected : 1-1 of 1 products Actual : 1-1 of 1 products
+2019-10-23 21:21:45 INFO  Utility:119 - value passed
+2019-10-23 21:21:45 INFO  Utility:119 - value passed
+2019-10-23 21:21:47 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:48 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:48 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 21:21:48 INFO  Utility:119 - value passed
+2019-10-23 21:21:48 INFO  Utility:119 - value passed
+2019-10-23 21:21:49 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:50 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:50 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 21:21:50 INFO  Utility:119 - value passed
+2019-10-23 21:21:50 INFO  Utility:119 - value passed
+2019-10-23 21:21:51 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:52 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:52 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 21:21:52 INFO  Utility:119 - value passed
+2019-10-23 21:21:52 INFO  Utility:119 - value passed
+2019-10-23 21:21:53 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:54 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:54 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 21:21:54 INFO  Utility:119 - value passed
+2019-10-23 21:21:54 INFO  Utility:119 - value passed
+2019-10-23 21:21:55 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:56 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:56 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 21:21:56 INFO  Utility:119 - value passed
+2019-10-23 21:21:56 INFO  Utility:119 - value passed
+2019-10-23 21:21:57 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:58 INFO  Utility:119 - element is clicked
+2019-10-23 21:21:58 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 21:21:59 INFO  Utility:119 - value passed
+2019-10-23 21:21:59 INFO  Utility:119 - value passed
+2019-10-23 21:21:59 INFO  Utility:119 - element is clicked
+2019-10-23 21:22:01 INFO  Utility:119 - element is clicked
+2019-10-23 21:22:01 INFO  Utility:119 -  Passed :  Expected : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able Actual : No products were found for your search of abxg . Click on any of the following suggestions to retry:
+abug
+able
+2019-10-23 21:22:01 INFO  Utility:119 - value passed
+2019-10-23 21:22:01 INFO  Utility:119 - value passed
+2019-10-23 21:22:02 INFO  Utility:119 - element is clicked
+2019-10-23 21:22:03 INFO  Utility:119 - element is clicked
+2019-10-23 21:22:03 INFO  Utility:119 -  Passed :  Expected : There are no available products. Actual : There are no available products.
+2019-10-23 21:22:04 INFO  Utility:119 - current browser closed
+2019-10-23 21:22:12 INFO  Utility:119 - value not passed
+2019-10-23 21:22:26 INFO  Utility:119 - value not passed
+2019-10-23 21:22:40 INFO  Utility:119 - element not clickable
+2019-10-23 21:23:08 INFO  Utility:119 - value not passed
+2019-10-23 21:23:23 INFO  Utility:119 - value not passed
+2019-10-23 21:23:37 INFO  Utility:119 - element not clickable
+2019-10-23 21:24:05 INFO  Utility:119 - value not passed
+2019-10-23 21:24:19 INFO  Utility:119 - value not passed
+2019-10-23 21:24:33 INFO  Utility:119 - element not clickable
+2019-10-23 21:25:01 INFO  Utility:119 - value not passed

@@ -24,7 +24,7 @@ public class ProductSearch extends Base {
 	 *
 	 */
     Base base=new Base();
-    
+   
 
 	//@BeforeClass
 	//public void launchBrowser() throws Exception ,IOException{
@@ -44,6 +44,7 @@ public class ProductSearch extends Base {
 	 //positive searches
 	
 	public void positiveSearches(String dropdown,String select,String product) throws IOException, Exception {
+		
 		
 		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_all"), dropdown);
 		base.inputValuesToTheWebelement(driver, Utility.propertyRead(Constants.home_page_loc_file, "loc_searchText"), select);

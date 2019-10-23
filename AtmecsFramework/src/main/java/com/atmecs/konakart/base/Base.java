@@ -1,8 +1,7 @@
 package com.atmecs.konakart.base;
-
-	import java.io.File;
-import java.io.IOException;
-import java.util.ArrayList;
+    import java.io.File;
+    import java.io.IOException;
+    import java.util.ArrayList;
 	import java.util.List;
 	import java.util.Set;
 	import java.util.concurrent.TimeUnit;
@@ -23,11 +22,10 @@ import java.util.ArrayList;
 	import org.openqa.selenium.support.ui.Select;
 	import org.openqa.selenium.support.ui.WebDriverWait;
 	import org.testng.Assert;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Parameters;
-
-import com.atmecs.konakart.config.Constants;
-import com.atmecs.konakart.utility.Utility;
+    import org.testng.annotations.BeforeClass;
+    import org.testng.annotations.Parameters;
+    import com.atmecs.konakart.config.Constants;
+    import com.atmecs.konakart.utility.Utility;
 
 
 	/**
@@ -37,22 +35,23 @@ import com.atmecs.konakart.utility.Utility;
 	 * @author ranjitha.selvam
 	 *
 	 */
-	public class Base {
+	public class Base  {
 
-		public static WebDriver driver;
+		public  WebDriver driver;
+	
 		
 
 		/*
 		 * Different browser setup(Chrome,Firefox,Internetexplorer).
 		 */
 		  
-         @Parameters("browser")
+          @Parameters("browser")
 		  @BeforeClass
-		public  WebDriver getBrowser(String browser ) throws Exception {
-        	 System.out.println("xml file name "+browser);
+	      public WebDriver getBrowser( String browser ) throws Exception {
+        	// System.out.println("xml file name "+browser);
 			try {
 
-				//String browserName = Utility.propertyRead(Constants.config_file, "browserName");
+				//String browser = Utility.propertyRead(Constants.config_file, "browserName");
 				String url = Utility.propertyRead(Constants.config_file, "url");
 				if (browser.equalsIgnoreCase("chrome")) {
 					System.setProperty("webdriver.chrome.driver", Constants.chrome_file);
